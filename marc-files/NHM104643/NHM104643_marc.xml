@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>00903cas a2200217   4500</marc:leader>
+<marc:controlfield tag="001">201901</marc:controlfield>
+
+<marc:controlfield tag="008">930226s1802                        eng  </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 201901</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Playfair, John,</marc:subfield>
+<marc:subfield code="d">1748-1819</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Illustrations of the Huttonian theory of the earth /</marc:subfield>
+<marc:subfield code="c">by John Playfair</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="246" ind1="1" ind2="8">
+<marc:subfield code="a">Playfair's illustrations of the Huttonian theory of the earth</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">London :</marc:subfield>
+<marc:subfield code="b">Cadell and Davies ;</marc:subfield>
+<marc:subfield code="a">Edinburgh :</marc:subfield>
+<marc:subfield code="b">William Creech,</marc:subfield>
+<marc:subfield code="c">1802</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">xx, 528 p. ;</marc:subfield>
+<marc:subfield code="c">22 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="591" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin Library and BHL</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">3 8</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="692" ind1=" " ind2=" ">
+<marc:subfield code="a">Hutton, James,</marc:subfield>
+<marc:subfield code="d">1726-1797</marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 104643</marc:controlfield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 313739</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 313740</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">SPECIAL COL. (AD) 55 PLA</marc:subfield>
+<marc:subfield code="w">UDC</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">313739</marc:subfield>
+<marc:subfield code="d">13/10/1999</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">MINERALOGY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">RARE</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">SMALL LIBRARY SB 1Ab o PLA</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">313740</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">PALAEO</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">RARE</marc:subfield>
+<marc:subfield code="z">OCTAVO</marc:subfield>
+</marc:datafield>
+
+</marc:record>

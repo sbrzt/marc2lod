@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>00646cam a2200205   45 0</marc:leader>
+<marc:controlfield tag="008">100722n1872                  000 0 eng u</marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) a413792</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Reade, Winwood</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="4">
+<marc:subfield code="a">The martyrdom of man /</marc:subfield>
+<marc:subfield code="c">by Winwood Reade</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">London :</marc:subfield>
+<marc:subfield code="b">Trübner,</marc:subfield>
+<marc:subfield code="c">1872 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">viii, 544 p. ;</marc:subfield>
+<marc:subfield code="c">20 cm. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="515" ind1=" " ind2=" ">
+<marc:subfield code="a">DC AD 2620 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="541" ind1="1" ind2=" ">
+<marc:subfield code="a">C.C. Kohler;</marc:subfield>
+<marc:subfield code="c">Purchase;</marc:subfield>
+<marc:subfield code="d">2006 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">DARWIN AD COLLN </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin Library and BHL </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="690" ind1=" " ind2=" ">
+<marc:subfield code="a">History </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="690" ind1=" " ind2=" ">
+<marc:subfield code="a">Philosophy </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">4 </marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">catkey 413792 </marc:controlfield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">DARWIN DC AD 2620</marc:subfield>
+<marc:subfield code="w">ALPHANUM</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">413792-1001</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">GENERAL</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">22/7/2010</marc:subfield>
+<marc:subfield code="x">MAIN</marc:subfield>
+<marc:subfield code="z">OCTAVO </marc:subfield>
+</marc:datafield>
+
+</marc:record>

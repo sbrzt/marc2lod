@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>00774cas a2200181   4500</marc:leader>
+<marc:controlfield tag="001">166590</marc:controlfield>
+
+<marc:controlfield tag="008">890224s1859                        eng  </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 166590</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">McClintock, Francis Leopold,</marc:subfield>
+<marc:subfield code="c">Sir,</marc:subfield>
+<marc:subfield code="d">1819-1907.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="4">
+<marc:subfield code="a">The Voyage of the 'Fox' in the Arctic Seas :</marc:subfield>
+<marc:subfield code="b">a narrative of the discovery of the fate of Sir J. Franklin and his Companions.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">London,</marc:subfield>
+<marc:subfield code="b">John Murray;</marc:subfield>
+<marc:subfield code="c">1859.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">xxvii, 403p :</marc:subfield>
+<marc:subfield code="b">16 pls, 3 maps, text ill ;</marc:subfield>
+<marc:subfield code="c">8</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="532" ind1="0" ind2="0">
+<marc:subfield code="a">Appendix No. IV. Geological account of the Arctic Archipelago...by the Rev. S. Haughton</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin Library and BHL</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">4</marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 69532</marc:controlfield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 276978</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">71 o MCC</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">276978</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">GENERAL</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">MAIN</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+

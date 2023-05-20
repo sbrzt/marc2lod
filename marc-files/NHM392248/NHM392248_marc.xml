@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>01294cam a2200217   45 0</marc:leader>
+<marc:controlfield tag="008">061019n1861                  000 0 fre u</marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) a392248</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="041" ind1=" " ind2=" ">
+<marc:subfield code="a">fre</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="*" ind2=" ">
+<marc:subfield code="a">Bronn, Heinrich Georg,</marc:subfield>
+<marc:subfield code="d">1800-1862.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1=" " ind2=" ">
+<marc:subfield code="a">Essai d'une reponse a la question de prix proposee en 1850 par l'Academie des sciences pour le concours de 1853, et puis remise pour celui de 1856, savoir :</marc:subfield>
+<marc:subfield code="b">Etudier les lois de la distribution des corps organises fossiles dans differents terrains sedimentaires, suivant l'ordre de leur superposition, discuter la question de leur apparition ou de leur disaprition successive ou simultanee, rechercher la nature des rapports qui existent entre l'etat actuel du r`egne organique et ses etats anterieurs /</marc:subfield>
+<marc:subfield code="c">par M. le Professeur Bronn. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="246" ind1=" " ind2="8">
+<marc:subfield code="a">Developpement des organismes fossiles </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">Paris :</marc:subfield>
+<marc:subfield code="b">Mallet-Bachelier,</marc:subfield>
+<marc:subfield code="c">1861. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">p. 377-918 ;</marc:subfield>
+<marc:subfield code="c">27 cm. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="440" ind1=" " ind2=" ">
+<marc:subfield code="a">Comptes rendus hebdomadaires des seances de l'Academie des sciences.</marc:subfield>
+<marc:subfield code="b">Supplement</marc:subfield>
+<marc:subfield code="v">tom. 2 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="546" ind1=" " ind2=" ">
+<marc:subfield code="a">Text in French. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="690" ind1=" " ind2=" ">
+<marc:subfield code="a">Palaeontology </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="710" ind1=" " ind2=" ">
+<marc:subfield code="a">Academie des sciences (France) </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">3 </marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 392248 </marc:controlfield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 392248-1001 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">PROTOZOA BRO</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">392248-1001</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">PALAEO</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">19/10/2006</marc:subfield>
+<marc:subfield code="x">PROTOZOA</marc:subfield>
+<marc:subfield code="z">OCTAVO </marc:subfield>
+</marc:datafield>
+
+</marc:record>

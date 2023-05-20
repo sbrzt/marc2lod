@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>00855cam a2200205u  45 0</marc:leader>
+<marc:controlfield tag="003">CStRLIN</marc:controlfield>
+
+<marc:controlfield tag="005">20060817060909.0</marc:controlfield>
+
+<marc:controlfield tag="008">791107s1800    enkf          000 0 eng  </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 70932</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Darwin, Erasmus,</marc:subfield>
+<marc:subfield code="d">1731-1802.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Phytologia;</marc:subfield>
+<marc:subfield code="b">or, The philosophy of agriculture and gardening.  With the theory of draining morasses, and with an improved construction of the drill plough.</marc:subfield>
+<marc:subfield code="c">By Erasmus Darwin.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">London,</marc:subfield>
+<marc:subfield code="b">J. Johnson,</marc:subfield>
+<marc:subfield code="c">1800.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">viii, 612, [12] p.</marc:subfield>
+<marc:subfield code="b">12 pl. (part fold.) ;</marc:subfield>
+<marc:subfield code="c">28 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="500" ind1=" " ind2=" ">
+<marc:subfield code="a">Plates I-IX each preceded by 2 pages of descriptive letter-press not included in paging.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="690" ind1=" " ind2="0">
+<marc:subfield code="a">Botany</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="690" ind1=" " ind2="0">
+<marc:subfield code="a">Agriculture</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">1</marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 263162</marc:controlfield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 178660</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">SPECIAL BOOKS 63 DAR Q</marc:subfield>
+<marc:subfield code="w">UDC</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">178660</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">BOTANY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">RARE</marc:subfield>
+<marc:subfield code="z">QUARTO</marc:subfield>
+</marc:datafield>
+
+</marc:record>

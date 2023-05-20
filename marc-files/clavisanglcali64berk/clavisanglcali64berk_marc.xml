@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>00753cam a2200169   4500</marc:leader>
+<marc:controlfield tag="001">98732</marc:controlfield>
+
+<marc:controlfield tag="008">890224s1764                   000       </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 98732</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Berkenhout, John,</marc:subfield>
+<marc:subfield code="d">1730-1791.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Clavis Anglíca linguæ botanicæ :</marc:subfield>
+<marc:subfield code="b">or, a Botanical Lexicon in which the terms of botany, particularly those occurring in the works of Linnaeus, and other writers, areapplied, derived, explained, contrasted, and exemplified </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">London,</marc:subfield>
+<marc:subfield code="b">Becket, de Houdt, Hawes, Clark &amp; and Collins</marc:subfield>
+<marc:subfield code="c">1764. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">xii, [215]p ;</marc:subfield>
+<marc:subfield code="c">4</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin's Library and BHL</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">1</marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 292921</marc:controlfield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 204170</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">58:001.4 BER</marc:subfield>
+<marc:subfield code="w">UDC</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">204170</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">BOTANY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">MAIN</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+

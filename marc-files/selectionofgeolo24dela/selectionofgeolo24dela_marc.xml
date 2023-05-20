@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>00715cas a2200181   4500</marc:leader>
+<marc:controlfield tag="001">301755</marc:controlfield>
+
+<marc:controlfield tag="008">961114s1824                        eng  </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 301755</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">De la Beche, Henry Thomas,</marc:subfield>
+<marc:subfield code="c">Sir,</marc:subfield>
+<marc:subfield code="d">1796-1855.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="2">
+<marc:subfield code="a">A selection of the Geological Memoirs contained in the Annales des Mines /</marc:subfield>
+<marc:subfield code="c">Translated, with notes, by H.T. De la Beche.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">London,</marc:subfield>
+<marc:subfield code="c">1824.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">xxii, 335p : maps ;</marc:subfield>
+<marc:subfield code="c">8</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="246" ind1="0" ind2="8">
+<marc:subfield code="a">Geological memoirs from the Annales des Mines.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin Library and BHL</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">3</marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 211263</marc:controlfield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 436687</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">SMALL LIBRARY SB 5 o DEL</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">436687</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">PALAEO</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">14/11/1996</marc:subfield>
+<marc:subfield code="x">RARE</marc:subfield>
+<marc:subfield code="z">OCTAVO</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+

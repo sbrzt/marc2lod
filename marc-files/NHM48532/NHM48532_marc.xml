@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>00644cas a2200193   4500</marc:leader>
+<marc:controlfield tag="001">147080</marc:controlfield>
+
+<marc:controlfield tag="008">890224s1864                        ger  </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 147080</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="041" ind1=" " ind2=" ">
+<marc:subfield code="a">ger</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Kerner von Marilaun, Anton,</marc:subfield>
+<marc:subfield code="d">1831-1898</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="4">
+<marc:subfield code="a">Die Cultur der Alpenpflanzen /</marc:subfield>
+<marc:subfield code="c">von A. Kerner</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">Innsbruck :</marc:subfield>
+<marc:subfield code="b">Wagner,</marc:subfield>
+<marc:subfield code="c">1864 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">162 p. ;</marc:subfield>
+<marc:subfield code="c">20 cm. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="546" ind1=" " ind2=" ">
+<marc:subfield code="a">Text in German. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">1 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin Library and BHL. </marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 48532 </marc:controlfield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 255266 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">635.967 KER</marc:subfield>
+<marc:subfield code="w">UDC</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">255266</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">BOTANY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">MAIN </marc:subfield>
+</marc:datafield>
+
+</marc:record>

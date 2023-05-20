@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>00538cas a2200169   4500</marc:leader>
+<marc:controlfield tag="001">127478</marc:controlfield>
+
+<marc:controlfield tag="008">890224s                            ger  </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 127478</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Henle, Jacob,</marc:subfield>
+<marc:subfield code="c">1809-1885.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Handbuch der systematischen Anatomie des Menschen.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">Braunschweig,</marc:subfield>
+<marc:subfield code="c">1855-71.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">3</marc:subfield>
+<marc:subfield code="f">Bd :</marc:subfield>
+<marc:subfield code="b">ill</marc:subfield>
+<marc:subfield code="p">8</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin Library and BHL</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">5</marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 27412</marc:controlfield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 233661</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">11 o H</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">233661</marc:subfield>
+<marc:subfield code="d">2/11/1999</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">ZOOLOGY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">MAIN</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>00564cas a2200169   4500</marc:leader>
+<marc:controlfield tag="001">153214</marc:controlfield>
+
+<marc:controlfield tag="008">890224s1861                        eng  </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 153214</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Lamont, James,</marc:subfield>
+<marc:subfield code="d">1828-</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Seasons with the Sea-Horses :</marc:subfield>
+<marc:subfield code="b">or, sporting adventures in the northern seas.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">London,</marc:subfield>
+<marc:subfield code="c">1861.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">xii, 312p :</marc:subfield>
+<marc:subfield code="b">7 pls, 1 map</marc:subfield>
+<marc:subfield code="p">8</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin Library and BHL</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">5</marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 55212</marc:controlfield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 262021</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">71 o L</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">262021</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">ZOOLOGY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">MAIN</marc:subfield>
+</marc:datafield>
+
+</marc:record>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>01345cam a2200265   4500</marc:leader>
+<marc:controlfield tag="001">71480</marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 71480</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="041" ind1=" " ind2=" ">
+<marc:subfield code="a">ger</marc:subfield>
+<marc:subfield code="h">fre</marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="008">890224s1858                   000  ger  </marc:controlfield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Bronn, Heinrich Georg,</marc:subfield>
+<marc:subfield code="d">1800-1862</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Untersuchungen uber die Entwickelungs-Gesetze der organischen Welt wahrend der Bildungs-Zeit unserer Erd-Oberflache :</marc:subfield>
+<marc:subfield code="b">eine von der Franzosischen Akademie im Jahre 1857 gekronte Preisschrift, mit ihrer Erlaubniss Deutsch herausgegeben /</marc:subfield>
+<marc:subfield code="v">on H.G. Bronn </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">Stuttgart :</marc:subfield>
+<marc:subfield code="b">E. Schweizerbart'sche Verlagshandlung,</marc:subfield>
+<marc:subfield code="c">1858 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">x, 502 p. ;</marc:subfield>
+<marc:subfield code="c">23 cm. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="500" ind1=" " ind2=" ">
+<marc:subfield code="a">The French original appeared in the Comptes Rendus Acad. Sci. Paris, Suppt., Tom. II (1861), p. 377-918, under the title &quot;Essai d'une reponse a` la question ... Etudier les lois de la distribution des corps organises fossiles,&quot; &amp;c (held in Pal. Lib. at 15 q BRO). </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="500" ind1=" " ind2=" ">
+<marc:subfield code="a">Includes folded pages: 17-18, 19-20, 21-22, 23-24. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="546" ind1=" " ind2=" ">
+<marc:subfield code="a">Text in German. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">3 </marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 263732 </marc:controlfield>
+
+<marc:controlfield tag="001">ocm71416031 </marc:controlfield>
+
+<marc:datafield tag="563" ind1=" " ind2=" ">
+<marc:subfield code="a">Original brown leather binding tooled in gold. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="909" ind1=" " ind2=" ">
+<marc:subfield code="a">71416031 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 179263 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="591" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin Library and BHL. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="690" ind1=" " ind2=" ">
+<marc:subfield code="a">Paleontology </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">15 o BRO</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">179263</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">PALAEO</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">MAIN</marc:subfield>
+<marc:subfield code="z">OCTAVO </marc:subfield>
+</marc:datafield>
+
+</marc:record>

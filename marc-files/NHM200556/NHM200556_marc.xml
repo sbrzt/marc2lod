@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>00808cas a2200205   4500</marc:leader>
+<marc:controlfield tag="001">200550</marc:controlfield>
+
+<marc:controlfield tag="008">930226s1841                        ger  </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 200550</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="041" ind1=" " ind2=" ">
+<marc:subfield code="a">ger</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Pompper, Hermann</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="4">
+<marc:subfield code="a">Die Säugethiere, Vögel und Amphibien nach ihrer geographischen Verbreitung tabellarisch zusammengestellt /</marc:subfield>
+<marc:subfield code="c">von Hermann Pompper </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">Leipzig :</marc:subfield>
+<marc:subfield code="b">Verlag der J.G. Hinrichsichen Buchhandlung,</marc:subfield>
+<marc:subfield code="c">1841 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">iv, 37 p. ;</marc:subfield>
+<marc:subfield code="c">35 cm. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="500" ind1=" " ind2=" ">
+<marc:subfield code="a">Printed on one side of the paper only, except p. 13-14, 15-16, 23-24, 25-26, 28-29. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="546" ind1=" " ind2=" ">
+<marc:subfield code="a">Text in German. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin Library and BHL. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">5 </marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 103176 </marc:controlfield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 312287 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">15 f P</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">312287</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">ZOOLOGY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">MAIN</marc:subfield>
+<marc:subfield code="z">FOLIO </marc:subfield>
+</marc:datafield>
+
+</marc:record>

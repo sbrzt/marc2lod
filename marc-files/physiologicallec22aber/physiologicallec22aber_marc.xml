@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>01265cam a2200229   4500</marc:leader>
+<marc:controlfield tag="001">26401</marc:controlfield>
+
+<marc:controlfield tag="008">890224s1822                   000  eng  </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 26401</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Abernethy, John.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Physiological Lectures, exhibiting a general view of Mr. Hunter's Physiology, and of his researches in Comparative Anatomy /</marc:subfield>
+<marc:subfield code="c">delivered before the Royal College of Surgeons, in the year 1817 by John Abernethy</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="246" ind1=" " ind2="8">
+<marc:subfield code="a"> Abernethy's Physiological Lectures</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="250" ind1=" " ind2=" ">
+<marc:subfield code="a">2nd ed.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">London :</marc:subfield>
+<marc:subfield code="b">printed for Longman, Hurst, Rees, Orme, and Brown,</marc:subfield>
+<marc:subfield code="c">1822.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">352 p. ;</marc:subfield>
+<marc:subfield code="c">22 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="501" ind1=" " ind2=" ">
+<marc:subfield code="a">Bound with - </marc:subfield>
+<marc:subfield code="t">An enquiry into the probablity and nationality of Mr. Hunter's theory of life, 1821. </marc:subfield>
+<marc:subfield code="t">Part of the introductory lecture for the year 1815, exhibiting some of Mr. Hunter's opinions respecting diseases, 1819. </marc:subfield>
+<marc:subfield code="t">The Hunterian Oration for the year 1819. </marc:subfield>
+<marc:subfield code="t">Reflections on gall and Spurzheim's system of physiognomy and phrenology, 1821. Whole volume entitled  &quot;Abernethy's Physiological Lectures&quot;</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">5</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="692" ind1="1" ind2="0">
+<marc:subfield code="a">Hunter, John</marc:subfield>
+<marc:subfield code="x">Portrait.</marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 171179</marc:controlfield>
+
+<marc:controlfield tag="001">ocm50243165</marc:controlfield>
+
+<marc:datafield tag="909" ind1=" " ind2=" ">
+<marc:subfield code="a">50243165</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 127678</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">8 o A</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">127678</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">ZOOLOGY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">MAIN</marc:subfield>
+</marc:datafield>
+
+</marc:record>

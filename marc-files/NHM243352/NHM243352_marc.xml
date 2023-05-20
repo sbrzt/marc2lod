@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>01305cam a2200301   4500</marc:leader>
+<marc:controlfield tag="001">52485</marc:controlfield>
+
+<marc:controlfield tag="008">890224s1873                   000  eng  </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 52485</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Buller, Walter Lawry,</marc:subfield>
+<marc:subfield code="c">Sir,</marc:subfield>
+<marc:subfield code="d">1838-1906</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="2">
+<marc:subfield code="a">A history of the birds of New Zealand /</marc:subfield>
+<marc:subfield code="c">by Walter Lawry Buller, [Coloured plates by J.G. Keulemans]</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">London :</marc:subfield>
+<marc:subfield code="b">John van Voorst,</marc:subfield>
+<marc:subfield code="c">1873</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">xxiii, 384, [5] p., 36 leaves of plates :</marc:subfield>
+<marc:subfield code="b">col. ill. ;</marc:subfield>
+<marc:subfield code="c">33 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin Library and BHL.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="690" ind1=" " ind2=" ">
+<marc:subfield code="a">Ornithology</marc:subfield>
+<marc:subfield code="z">New Zealand</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">5 6</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="690" ind1=" " ind2=" ">
+<marc:subfield code="a">Birds</marc:subfield>
+<marc:subfield code="z">New Zealand</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="690" ind1=" " ind2=" ">
+<marc:subfield code="a">Aves</marc:subfield>
+<marc:subfield code="z">New Zealand</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="700" ind1="1" ind2=" ">
+<marc:subfield code="a">Keulemans, J. G.</marc:subfield>
+<marc:subfield code="q">(John Gerrard),</marc:subfield>
+<marc:subfield code="d">1842-1912</marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 243352</marc:controlfield>
+
+<marc:controlfield tag="001">ocm2107184</marc:controlfield>
+
+<marc:datafield tag="504" ind1=" " ind2=" ">
+<marc:subfield code="a">Includes index, p. 373-384</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="562" ind1=" " ind2=" ">
+<marc:subfield code="a">General Library has four unnumbered pages at end of text, of extracts from reviews, and one page describing a proposed series of supplementary plates.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="563" ind1=" " ind2=" ">
+<marc:subfield code="a">Zoology Library copy rebound in leather.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="909" ind1=" " ind2=" ">
+<marc:subfield code="a">2107184</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 158255</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 158256</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">RARE BOOKS 77D q B</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">158255</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">ZOOLOGY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">RARE</marc:subfield>
+<marc:subfield code="z">QUARTO</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">ROTHSCHILD LIB. 7/F</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">158256</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">TRING</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">RARE</marc:subfield>
+</marc:datafield>
+
+</marc:record>

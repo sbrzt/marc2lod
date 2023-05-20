@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>02026cam a2200349   4500</marc:leader>
+<marc:controlfield tag="001">33831</marc:controlfield>
+
+<marc:controlfield tag="008">890224s18311839               000  eng  </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 33831</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Audubon, John James,</marc:subfield>
+<marc:subfield code="d">1785-1851</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Ornithological biography, or an account of the habits of the birds of the United States of America ;</marc:subfield>
+<marc:subfield code="b">accompanied by descriptions of the objects represented in the work entitled The Birds of America, and interspersed with delineations of American scenery and manners /</marc:subfield>
+<marc:subfield code="c">by John James Audubon</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">Edinburgh :</marc:subfield>
+<marc:subfield code="b">Adam Black,</marc:subfield>
+<marc:subfield code="c">1831-1839.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">5 v. :</marc:subfield>
+<marc:subfield code="b">ill. ;</marc:subfield>
+<marc:subfield code="c">27 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="500" ind1=" " ind2=" ">
+<marc:subfield code="a">Vol. 5 erroneously dated 1849.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="500" ind1=" " ind2=" ">
+<marc:subfield code="a">&quot;I feel pleasure in here acknowledging the assistance which I have recieved from a friend, Mr William Macgillivray, who ... has aided me ... in completing the scientific details, and smoothing down the asperities of my Ornithological Biographies.&quot; -- vol. 1, p. xviii-xix.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin Library and BHL.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">5 6</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="700" ind1="1" ind2=" ">
+<marc:subfield code="a">MacGillivray, William,</marc:subfield>
+<marc:subfield code="d">1796-1852.</marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 223507</marc:controlfield>
+
+<marc:controlfield tag="001">ocm182909914</marc:controlfield>
+
+<marc:datafield tag="909" ind1=" " ind2=" ">
+<marc:subfield code="a">182909914</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 136028</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 223507-3001</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 223507-4001</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 223507-5001</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 223507-6001</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 410350</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">RBR 18 o AUD (Vol. 1)</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">136028</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">ZOOLOGY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">RARE</marc:subfield>
+<marc:subfield code="z">OCTAVO</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">ROTHSCHILD LIB. 10/F</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">410350</marc:subfield>
+<marc:subfield code="d">18/8/1999</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">TRING</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">RARE</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">RBR 18 o AUD (Vol. 2)</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">223507-3001</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">ZOOLOGY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">2/11/2007</marc:subfield>
+<marc:subfield code="x">RARE</marc:subfield>
+<marc:subfield code="z">OCTAVO</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">RBR 18 o AUD (Vol. 3)</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">223507-4001</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">ZOOLOGY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">2/11/2007</marc:subfield>
+<marc:subfield code="x">RARE</marc:subfield>
+<marc:subfield code="z">OCTAVO</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">RBR 18 o AUD (Vol. 4)</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">223507-5001</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">ZOOLOGY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">2/11/2007</marc:subfield>
+<marc:subfield code="x">RARE</marc:subfield>
+<marc:subfield code="z">OCTAVO</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">RBR 18 o AUD (Vol. 5)</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">223507-6001</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">ZOOLOGY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">2/11/2007</marc:subfield>
+<marc:subfield code="x">RARE</marc:subfield>
+<marc:subfield code="z">OCTAVO</marc:subfield>
+</marc:datafield>
+
+</marc:record>

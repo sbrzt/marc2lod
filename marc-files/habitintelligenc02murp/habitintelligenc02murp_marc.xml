@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>00898cam a2200241   45 0</marc:leader>
+<marc:controlfield tag="008">100722n                      000 0 eng u</marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) a413804</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Murphy, Joseph John</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Habit and intelligence in their connexion with the laws of matter and force :</marc:subfield>
+<marc:subfield code="b">a series of scientific essays.</marc:subfield>
+<marc:subfield code="n">Vol. I /</marc:subfield>
+<marc:subfield code="c">by Joseph John Murphy</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">London :</marc:subfield>
+<marc:subfield code="b">Macmillan,</marc:subfield>
+<marc:subfield code="c">1869</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">xxiv, 349 p. ;</marc:subfield>
+<marc:subfield code="c">23 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="500" ind1=" " ind2=" ">
+<marc:subfield code="a">Published in two volumes.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="515" ind1=" " ind2=" ">
+<marc:subfield code="a">DC AD 2342</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="541" ind1="1" ind2=" ">
+<marc:subfield code="a">C.C. Murphy ;</marc:subfield>
+<marc:subfield code="c">Purchase ;</marc:subfield>
+<marc:subfield code="d">2006</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="562" ind1=" " ind2=" ">
+<marc:subfield code="a">Bookplate of Boston Society of Natural History</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin Library and BHL</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">DARWIN AD COLLN</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="690" ind1=" " ind2=" ">
+<marc:subfield code="a">Physics</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="690" ind1=" " ind2=" ">
+<marc:subfield code="a">Biology</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="690" ind1=" " ind2=" ">
+<marc:subfield code="a">Origin of species</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">4</marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">catkey 413804</marc:controlfield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">DARWIN DC AD 2342 (V.1)</marc:subfield>
+<marc:subfield code="w">ALPHANUM</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">413804-1001</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">GENERAL</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">22/7/2010</marc:subfield>
+<marc:subfield code="x">MAIN</marc:subfield>
+<marc:subfield code="z">OCTAVO</marc:subfield>
+</marc:datafield>
+
+</marc:record>

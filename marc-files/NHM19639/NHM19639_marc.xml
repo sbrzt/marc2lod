@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>02885cam a2200385   4500</marc:leader>
+<marc:controlfield tag="001">120258</marc:controlfield>
+
+<marc:controlfield tag="008">890224s1849                        eng  </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 120258</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Herschel, John Frederick William,</marc:subfield>
+<marc:subfield code="c">Sir,</marc:subfield>
+<marc:subfield code="d">1792-1871.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="0" ind2="2">
+<marc:subfield code="a">A manual of scientific enquiry :</marc:subfield>
+<marc:subfield code="b">prepared for the use of Her Majesty's Navy and adapted for travellers in general. /</marc:subfield>
+<marc:subfield code="c">edited by Sir John F.W. Herschel, Bart. Published by authority of The Lords Commissioners of the Admiralty.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="246" ind1="1" ind2="8">
+<marc:subfield code="a">DC BD 285 - Herschel's manual of scientific enquiry</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">London :</marc:subfield>
+<marc:subfield code="b">John Murray,</marc:subfield>
+<marc:subfield code="c">1849.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">xi, 488 p. :</marc:subfield>
+<marc:subfield code="b">2 maps, text ill. ;</marc:subfield>
+<marc:subfield code="2">1 cm.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="500" ind1=" " ind2=" ">
+<marc:subfield code="a">Printed by William Clowes and Sons.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="505" ind1=" " ind2=" ">
+<marc:subfield code="a">Geology / by C. Darwin - Mineralogy / by Sir H.T. De La Beche - Zoology / by R. Owen - Botany / by Sir W. Hooker - Ethnology [including anthropology] / by J.C. Prichard.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="510" ind1=" " ind2=" ">
+<marc:subfield code="a">Freeman no. 326</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="515" ind1=" " ind2=" ">
+<marc:subfield code="a">DC BD 285</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="541" ind1=" " ind2=" ">
+<marc:subfield code="a">DC BD 285 - Purchased from Chris and Mich`ele Kohler </marc:subfield>
+<marc:subfield code="d">April 2006.</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="561" ind1=" " ind2=" ">
+<marc:subfield code="a">DC BD 285 - Bookplate of W. Bun~o on front flyleaf. Stamp of Royal Engineer's Library on title page. Underneath this is the word 'London' stamped in purple. Stamp of Royal Engineer's Library blocked in gilt on front cover. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="562" ind1=" " ind2=" ">
+<marc:subfield code="a">DC BD 285 - Darwin's article on Geology occupies pp. 156-195. Owing to a printing error pp. 171-190 were cancelled and are here replaced by the cancellans. There are additional inserts as 96a, 96b and an un-numbered leaf at p. 98. One of the maps is bound in as a double-plate rather than a folded one. Library loans notice on front endpaper, cancelled out by hand. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="563" ind1=" " ind2=" ">
+<marc:subfield code="a">DC BD 285 - Rebound in half-brown morocco, morocco grain cloth boards. Upper cover and spine blocked in blind and gilt. Lower cover blocked in blind. Raised bands. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="583" ind1=" " ind2=" ">
+<marc:subfield code="a">DC BD 285 - The second map is torn. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">DARWIN COLLN </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">4 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="700" ind1=" " ind2=" ">
+<marc:subfield code="a">Darwin, Charles,</marc:subfield>
+<marc:subfield code="d">1809-1882. </marc:subfield>
+<marc:subfield code="t">[Instructions for making geological observations and collecting specimens] </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="700" ind1=" " ind2=" ">
+<marc:subfield code="a">De la Beche, Henry Thomas,</marc:subfield>
+<marc:subfield code="c">Sir,</marc:subfield>
+<marc:subfield code="d">1796-1855. </marc:subfield>
+<marc:subfield code="t">[Instructions for making mineralogical observations and collecting specimens] </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="700" ind1=" " ind2=" ">
+<marc:subfield code="a">Owen, Richard,</marc:subfield>
+<marc:subfield code="c">Sir,</marc:subfield>
+<marc:subfield code="d">1804-1892. </marc:subfield>
+<marc:subfield code="t"> ... Instructions for collecting and preserving animals </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="700" ind1=" " ind2=" ">
+<marc:subfield code="a">Hooker, William Jackson,</marc:subfield>
+<marc:subfield code="c">Sir,</marc:subfield>
+<marc:subfield code="d">1785-1865. </marc:subfield>
+<marc:subfield code="t">Botany [comprising instructions for the collection and preservation of speimens, with notes and enquiries regarding botanical and pharmacological desiderata] </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="700" ind1=" " ind2=" ">
+<marc:subfield code="a">Prichard, James Cowles,</marc:subfield>
+<marc:subfield code="d">1786-1848. </marc:subfield>
+<marc:subfield code="t">Ethnology </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="710" ind1=" " ind2=" ">
+<marc:subfield code="a">Great Britain.</marc:subfield>
+<marc:subfield code="b">Admiralty. </marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 19639 </marc:controlfield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 19639-2001 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 225561 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">81 o GRE</marc:subfield>
+<marc:subfield code="w">WOODWARD</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">225561</marc:subfield>
+<marc:subfield code="d">27/9/1999</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">GENERAL</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">MAIN </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">DC BD 285</marc:subfield>
+<marc:subfield code="w">ALPHANUM</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">19639-2001</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">GENERAL</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">15/3/2007</marc:subfield>
+<marc:subfield code="x">MAPS</marc:subfield>
+<marc:subfield code="z">OCTAVO </marc:subfield>
+</marc:datafield>
+
+</marc:record>

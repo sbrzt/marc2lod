@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+<marc:leader>00705cas a2200205   4500</marc:leader>
+<marc:controlfield tag="001">139251</marc:controlfield>
+
+<marc:controlfield tag="008">890224s1853                        ger  </marc:controlfield>
+
+<marc:datafield tag="035" ind1=" " ind2=" ">
+<marc:subfield code="a">(Sirsi) 139251</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="041" ind1=" " ind2=" ">
+<marc:subfield code="a">ger</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="100" ind1="1" ind2=" ">
+<marc:subfield code="a">Irmisch, Johann Friedrich Thilo,</marc:subfield>
+<marc:subfield code="d">1816-1879</marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="245" ind1="1" ind2="0">
+<marc:subfield code="a">Beitrage zur Biologie und Morphologie der Orchideen /</marc:subfield>
+<marc:subfield code="c">von Thilo Irmisch </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="260" ind1=" " ind2=" ">
+<marc:subfield code="a">Leipzig :</marc:subfield>
+<marc:subfield code="b">Ambrosius Abel,</marc:subfield>
+<marc:subfield code="c">1853 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="300" ind1=" " ind2=" ">
+<marc:subfield code="a">viii, 82 p. ; vi leaves of plates ;</marc:subfield>
+<marc:subfield code="c">29 cm. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="596" ind1=" " ind2=" ">
+<marc:subfield code="a">1 </marc:subfield>
+</marc:datafield>
+
+<marc:controlfield tag="001">Catkey 40045 </marc:controlfield>
+
+<marc:datafield tag="546" ind1=" " ind2=" ">
+<marc:subfield code="a">Text in German. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="590" ind1="1" ind2=" ">
+<marc:subfield code="a">Itemid 246681 </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="592" ind1=" " ind2=" ">
+<marc:subfield code="a">Scanned for Darwin Library and BHL. </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="690" ind1=" " ind2=" ">
+<marc:subfield code="a">Orchids </marc:subfield>
+</marc:datafield>
+
+<marc:datafield tag="999" ind1=" " ind2=" ">
+<marc:subfield code="a">582.4P169 IRM Q</marc:subfield>
+<marc:subfield code="w">UDC</marc:subfield>
+<marc:subfield code="c">1</marc:subfield>
+<marc:subfield code="i">300000140</marc:subfield>
+<marc:subfield code="d">27/3/1998</marc:subfield>
+<marc:subfield code="l">SHELVES</marc:subfield>
+<marc:subfield code="m">BOTANY</marc:subfield>
+<marc:subfield code="r">Y</marc:subfield>
+<marc:subfield code="s">Y</marc:subfield>
+<marc:subfield code="t">BOOK</marc:subfield>
+<marc:subfield code="u">27/3/1998</marc:subfield>
+<marc:subfield code="x">MAIN</marc:subfield>
+<marc:subfield code="z">QUARTO </marc:subfield>
+</marc:datafield>
+
+</marc:record>
