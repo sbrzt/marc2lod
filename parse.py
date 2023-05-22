@@ -2,7 +2,7 @@ import os, json, codecs
 from pymarc import marcxml
 
 # Create error log
-error_log = codecs.open('parse-marc-errors.log', 'w', encoding='utf-8')
+error_log = codecs.open('parse-marc-error.log', 'w', encoding='utf-8')
 
 # Define the list of fields to extract
 fields_to_extract = [
@@ -72,5 +72,5 @@ for folder in os.listdir(folder_path):
 
 # Save the data as a JSON file
 with open("data.json", "w") as outfile:
-    json.dump(data, outfile)
+    json.dump(data, outfile, indent=4)
                 
