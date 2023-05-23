@@ -15,7 +15,7 @@ def split_author(author_str):
 # Clean the text data
 def clean_text(text):
     # Remove any punctuation marks
-    cleaned_text = re.sub(r'[^\w\s]', '', text.rstrip())
+    cleaned_text = re.sub(r'[^\w\s]+(?<!&)+(?<!-)', '', text.rstrip())
     # Remove any leading or trailing whitespaces
     cleaned_text = cleaned_text.strip()
     return cleaned_text

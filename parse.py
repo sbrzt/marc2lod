@@ -6,16 +6,13 @@ error_log = codecs.open('parse-marc-error.log', 'w', encoding='utf-8')
 
 # Define the list of fields to extract
 fields_to_extract = [
-    ('identifier', '770', 'o'),
-    ('title', '245', 'a'),
-    ('abbreviatedTitle', '210', 'a'),
-    ('keyTitle', '222', 'a'),
-    ('uniformTitle', '240', 'a'),
     ('author', '100', 'a'),
+    ('title', '245', 'a'),
+    ('subtitle', '245', 'b'),
+    ('edition', '250', 'a'),
     ('placeOfPublication', '260', 'a'),
     ('publisher', '260', 'b'),
     ('dateOfPublication', '260', 'c'),
-    ('edition', '250', 'a'),
     ('extent', '300', 'a'),
     ('physicalDetails', '300', 'b'),
     ('dimensions', '300', 'c'),
@@ -27,6 +24,7 @@ fields_to_extract = [
     ('series', '490', 'a'),
     ('note', '500', 'a'),
     ('preferredCitation', '524', 'a'),
+    ('identifier', '770', 'o'),
     ('isbn', '020', 'a'),
     ('termsOfAvailability', '020', 'c'),
     ('qualifyingInformation', '020', 'q'),

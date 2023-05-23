@@ -1,1999 +1,2095 @@
 [
     {
-        "identifier": "Abercrombie1838wa66W_MS",
-        "title": "Inquiries concerning the intellectual powers and the investigation of truth",
         "author": "Abercrombie John",
+        "title": "Inquiries concerning the intellectual powers and the investigation of truth",
+        "edition": "8th ed.",
         "placeOfPublication": "London",
         "publisher": "John Murray",
         "dateOfPublication": "1838",
-        "edition": "8th ed.",
         "extent": "466 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "John",
-        "authorName": "Abercrombie"
+        "identifier": "Abercrombie1838wa66W_MS",
+        "authorName": "John",
+        "authorSurname": "Abercrombie"
     },
     {
-        "title": "Inquiries concerning the intellectual powers and the investigation of truth",
         "author": "Darwin Charles",
+        "title": "Inquiries concerning the intellectual powers and the investigation of truth",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Abercrombie1838wa66W_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Agassiz1850up52I_MS",
-        "title": "Lake Superior its character vegetation and animals compared with those of other similar regions",
         "author": "Agassiz Louis",
+        "title": "Lake Superior its character vegetation and animals compared with those of other similar regions",
         "placeOfPublication": "Boston",
         "publisher": "Gould Kendall  Lincoln",
         "dateOfPublication": "1850",
         "extent": "449 p.",
         "note": "Inscription.",
-        "authorSurname": "Louis",
-        "authorName": "Agassiz"
+        "identifier": "Agassiz1850up52I_MS",
+        "authorName": "Louis",
+        "authorSurname": "Agassiz"
     },
     {
-        "title": "Lake Superior its character vegetation and animals compared with those of other similar regions",
         "author": "Darwin Charles",
+        "title": "Lake Superior its character vegetation and animals compared with those of other similar regions",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Agassiz1850up52I_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Agassiz2006ft69Y_MS",
-        "title": "Contributions to the natural history of the United States of North America",
         "author": "Agassiz Louis",
+        "title": "Contributions to the natural history of the United States of North America",
         "placeOfPublication": "sn",
         "publisher": "sn",
         "dateOfPublication": "nd",
         "extent": "236 p.",
         "note": "Inscription.",
-        "authorSurname": "Louis",
-        "authorName": "Agassiz"
+        "identifier": "Agassiz2006ft69Y_MS",
+        "authorName": "Louis",
+        "authorSurname": "Agassiz"
     },
     {
-        "title": "Contributions to the natural history of the United States of North America",
         "author": "Darwin Charles",
+        "title": "Contributions to the natural history of the United States of North America",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Agassiz2006ft69Y_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Barker-Webb1840yf41S_MS",
-        "title": "Histoire naturelle des \u00celes Canaries",
         "author": "BarkerWebb Philip",
+        "title": "Histoire naturelle des \u00celes Canaries",
         "placeOfPublication": "Paris",
         "publisher": "B\u00e9thune",
         "dateOfPublication": "1840",
         "extent": "vol 3 part 1 only",
         "note": "Location: Cambridge.",
-        "authorSurname": "Philip",
-        "authorName": "Barker-Webb"
+        "identifier": "Barker-Webb1840yf41S_MS",
+        "authorName": "Philip",
+        "authorSurname": "Barker-Webb"
     },
     {
-        "title": "Histoire naturelle des \u00celes Canaries",
         "author": "Darwin Charles",
+        "title": "Histoire naturelle des \u00celes Canaries",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Barker-Webb1840yf41S_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Bechstein1840ob74D_MS",
-        "title": "Naturgeschichte der Stubenv\u00f6gel",
         "author": "Bechstein Johann Matth\u00e4us",
+        "title": "Naturgeschichte der Stubenv\u00f6gel",
         "placeOfPublication": "Halle",
         "publisher": "Hennemann",
         "dateOfPublication": "1840",
         "extent": "505 p.",
         "note": "Signature.",
-        "authorSurname": "Johann Matth\u00e4us",
-        "authorName": "Bechstein"
+        "identifier": "Bechstein1840ob74D_MS",
+        "authorName": "Johann Matth\u00e4us",
+        "authorSurname": "Bechstein"
     },
     {
-        "title": "Naturgeschichte der Stubenv\u00f6gel",
         "author": "Darwin Charles",
+        "title": "Naturgeschichte der Stubenv\u00f6gel",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Bechstein1840ob74D_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Bell1844nu34M_MS",
-        "title": "The anatomy and philosophy of expression",
         "author": "Bell Charles",
+        "title": "The anatomy and philosophy of expression",
         "placeOfPublication": "London",
         "publisher": "John Murray",
         "dateOfPublication": "1844",
         "extent": "262 p.",
         "note": "Signature E. Darwin 1844 to Ch. Darwin Nov. 28 1866.",
-        "authorSurname": "Charles",
-        "authorName": "Bell"
+        "identifier": "Bell1844nu34M_MS",
+        "authorName": "Charles",
+        "authorSurname": "Bell"
     },
     {
-        "title": "The anatomy and philosophy of expression",
         "author": "Darwin Charles",
+        "title": "The anatomy and philosophy of expression",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Bell1844nu34M_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Bernhardi1834ez86I_MS",
-        "title": "\u00fcber den Begriff der Pflanzenart und seine Anwendung",
         "author": "Bernhardi Johann Jacob",
+        "title": "\u00fcber den Begriff der Pflanzenart und seine Anwendung",
         "placeOfPublication": "Erfurt",
         "publisher": "Friedrich Wilhelm Otto",
         "dateOfPublication": "1834",
         "extent": "76 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Johann Jacob",
-        "authorName": "Bernhardi"
+        "identifier": "Bernhardi1834ez86I_MS",
+        "authorName": "Johann Jacob",
+        "authorSurname": "Bernhardi"
     },
     {
-        "title": "\u00fcber den Begriff der Pflanzenart und seine Anwendung",
         "author": "Darwin Charles",
+        "title": "\u00fcber den Begriff der Pflanzenart und seine Anwendung",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Bernhardi1834ez86I_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Boitard1824jp50S_MS",
-        "title": "Les Pigeons de voli\u00e8re et de colombier ou Histoire naturelle des pigeons domestiques",
         "author": "Boitard Pierre",
+        "title": "Les Pigeons de voli\u00e8re et de colombier ou Histoire naturelle des pigeons domestiques",
         "placeOfPublication": "Paris",
         "publisher": "Audot  Corbi\u00e9",
         "dateOfPublication": "1824",
         "extent": "248 p.",
         "note": "Pre-Beagle.",
-        "authorSurname": "Pierre",
-        "authorName": "Boitard"
+        "identifier": "Boitard1824jp50S_MS",
+        "authorName": "Pierre",
+        "authorSurname": "Boitard"
     },
     {
-        "title": "Les Pigeons de voli\u00e8re et de colombier ou Histoire naturelle des pigeons domestiques",
         "author": "Darwin Charles",
+        "title": "Les Pigeons de voli\u00e8re et de colombier ou Histoire naturelle des pigeons domestiques",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Boitard1824jp50S_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Buch2006yn26U_MS",
-        "title": "Description physique des \u00celes Canaries suivie dune indication des principaux volcans du globe",
         "author": "Buch Leopold von",
+        "title": "Description physique des \u00celes Canaries suivie dune indication des principaux volcans du globe",
         "placeOfPublication": "Paris",
         "publisher": "FG Levrault",
         "dateOfPublication": "1836",
         "extent": "536 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Leopold von",
-        "authorName": "Buch"
+        "identifier": "Buch2006yn26U_MS",
+        "authorName": "Leopold von",
+        "authorSurname": "Buch"
     },
     {
-        "title": "Description physique des \u00celes Canaries suivie dune indication des principaux volcans du globe",
         "author": "Darwin Charles",
+        "title": "Description physique des \u00celes Canaries suivie dune indication des principaux volcans du globe",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Buch2006yn26U_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Burgess1839mj46I_MS",
-        "title": "The physiology or mechanism of blushing",
         "author": "Burgess Thomas Henry",
+        "title": "The physiology or mechanism of blushing",
         "placeOfPublication": "London",
         "publisher": "John Churchill",
         "dateOfPublication": "1839",
         "extent": "226 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Thomas Henry",
-        "authorName": "Burgess"
+        "identifier": "Burgess1839mj46I_MS",
+        "authorName": "Thomas Henry",
+        "authorSurname": "Burgess"
     },
     {
-        "title": "The physiology or mechanism of blushing",
         "author": "Darwin Charles",
+        "title": "The physiology or mechanism of blushing",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Burgess1839mj46I_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "A sketch of modern and ancient geography for the use of schools",
         "author": "Butler Samuel A",
+        "title": "A sketch of modern and ancient geography for the use of schools",
+        "edition": "4th ed.",
         "placeOfPublication": "London",
         "publisher": "Longman Hurst Rees Orme  Brown",
         "dateOfPublication": "1818",
-        "edition": "4th ed.",
         "extent": "360 p.",
         "note": "Pre-Beagle.",
-        "authorSurname": "Samuel A",
-        "authorName": "Butler"
+        "authorName": "Samuel A",
+        "authorSurname": "Butler"
     },
     {
-        "title": "A sketch of modern and ancient geography for the use of schools",
         "author": "Darwin Charles",
+        "title": "A sketch of modern and ancient geography for the use of schools",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Butler1818wo01P_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Carpenter1854nl22A_MS",
-        "title": "Principles of comparative physiology",
         "author": "Carpenter William Benjamin",
+        "title": "Principles of comparative physiology",
+        "edition": "4th ed.",
         "placeOfPublication": "London",
         "publisher": "John Churchill",
         "dateOfPublication": "1854",
-        "edition": "4th ed.",
         "extent": "798 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "William Benjamin",
-        "authorName": "Carpenter"
+        "identifier": "Carpenter1854nl22A_MS",
+        "authorName": "William Benjamin",
+        "authorSurname": "Carpenter"
     },
     {
-        "title": "Principles of comparative physiology",
         "author": "Darwin Charles",
+        "title": "Principles of comparative physiology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Carpenter1854nl22A_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Carriere1865nv52H_MS",
-        "title": "Production et fixation des vari\u00e9t\u00e9s dans les v\u00e9g\u00e9taux",
         "author": "Carri\u00e8re \u00c9lie Abel",
+        "title": "Production et fixation des vari\u00e9t\u00e9s dans les v\u00e9g\u00e9taux",
         "placeOfPublication": "Paris",
         "publisher": "Libraire agricole de la Maison Rustiane",
         "dateOfPublication": "1865",
         "extent": "76 p.",
         "note": "Inscription.",
-        "authorSurname": "\u00c9lie Abel",
-        "authorName": "Carri\u00e8re"
+        "identifier": "Carriere1865nv52H_MS",
+        "authorName": "\u00c9lie Abel",
+        "authorSurname": "Carri\u00e8re"
     },
     {
-        "title": "Production et fixation des vari\u00e9t\u00e9s dans les v\u00e9g\u00e9taux",
         "author": "Darwin Charles",
+        "title": "Production et fixation des vari\u00e9t\u00e9s dans les v\u00e9g\u00e9taux",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Carriere1865nv52H_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "Clavis Anglica lingu\u00e6 botanic\u00e6",
         "author": "Berkenhout John",
+        "title": "Clavis Anglica lingu\u00e6 botanic\u00e6",
+        "subtitle": "or, a Botanical Lexicon in which the terms of botany, particularly those occurring in the works of Linnaeus, and other writers, areapplied, derived, explained, contrasted, and exemplified ",
         "placeOfPublication": "London",
         "publisher": "Becket de Houdt Hawes Clark  and Collins",
         "dateOfPublication": "1764",
         "extent": "xii, [215]p ;",
         "dimensions": "4",
-        "authorSurname": "John",
-        "authorName": "Berkenhout"
+        "authorName": "John",
+        "authorSurname": "Berkenhout"
     },
     {
-        "identifier": "Dana1853ro51Y_MS",
-        "title": "On the classification and geographical distribution of Crustacea",
         "author": "Dana James Dwight",
+        "title": "On the classification and geographical distribution of Crustacea",
         "placeOfPublication": "Philadelphia",
         "publisher": "C Sherman",
         "dateOfPublication": "1853",
         "extent": "200 p.",
         "note": "Inscription.",
-        "authorSurname": "James Dwight",
-        "authorName": "Dana"
+        "identifier": "Dana1853ro51Y_MS",
+        "authorName": "James Dwight",
+        "authorSurname": "Dana"
     },
     {
-        "title": "On the classification and geographical distribution of Crustacea",
         "author": "Darwin Charles",
+        "title": "On the classification and geographical distribution of Crustacea",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Dana1853ro51Y_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Delamer1854bc45Q_MS",
-        "title": "Pigeons and rabbits in their wild domestic and captive states",
         "author": "Delamer Eugene Sebastian Edmund Saul Dixon",
+        "title": "Pigeons and rabbits in their wild domestic and captive states",
         "placeOfPublication": "London",
         "publisher": "G Routledge  Co",
         "dateOfPublication": "1854",
         "extent": "167 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Eugene Sebastian (Edmund Saul Dixon",
-        "authorName": "Delamer"
+        "identifier": "Delamer1854bc45Q_MS",
+        "authorName": "Eugene Sebastian (Edmund Saul Dixon",
+        "authorSurname": "Delamer"
     },
     {
-        "title": "Pigeons and rabbits in their wild domestic and captive states",
         "author": "Darwin Charles",
+        "title": "Pigeons and rabbits in their wild domestic and captive states",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Delamer1854bc45Q_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Desmarest1820oq04Z_MS",
-        "title": "Mammalogie ou description des esp\u00e8ces des Mammif\u00e8res",
         "author": "Desmarest Anselm Ga\u00ebtan",
+        "title": "Mammalogie ou description des esp\u00e8ces des Mammif\u00e8res",
         "placeOfPublication": "Paris",
         "publisher": "Veuve Agasse",
         "dateOfPublication": "1820",
         "extent": "564 p.",
         "note": "Pre-Beagle.",
-        "authorSurname": "Anselm Ga\u00ebtan",
-        "authorName": "Desmarest"
+        "identifier": "Desmarest1820oq04Z_MS",
+        "authorName": "Anselm Ga\u00ebtan",
+        "authorSurname": "Desmarest"
     },
     {
-        "title": "Mammalogie ou description des esp\u00e8ces des Mammif\u00e8res",
         "author": "Darwin Charles",
+        "title": "Mammalogie ou description des esp\u00e8ces des Mammif\u00e8res",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Desmarest1820oq04Z_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Dixon1848ix59U_MS",
-        "title": "Ornamental and domestic poultry their history and management",
         "author": "Dixon Edmund Saul",
+        "title": "Ornamental and domestic poultry their history and management",
         "placeOfPublication": "London",
         "publisher": "The Gardeners Chronicle",
         "dateOfPublication": "1848",
         "extent": "376 p.",
         "note": "Inscription.",
-        "authorSurname": "Edmund Saul",
-        "authorName": "Dixon"
+        "identifier": "Dixon1848ix59U_MS",
+        "authorName": "Edmund Saul",
+        "authorSurname": "Dixon"
     },
     {
-        "title": "Ornamental and domestic poultry their history and management",
         "author": "Darwin Charles",
+        "title": "Ornamental and domestic poultry their history and management",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Dixon1848ix59U_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Dixon1851fy19H_MS",
-        "title": "The dovecote and the aviary",
         "author": "Dixon Edmund Saul",
+        "title": "The dovecote and the aviary",
         "placeOfPublication": "London",
         "publisher": "John Murray",
         "dateOfPublication": "1851",
         "extent": "504 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Edmund Saul",
-        "authorName": "Dixon"
+        "identifier": "Dixon1851fy19H_MS",
+        "authorName": "Edmund Saul",
+        "authorSurname": "Dixon"
     },
     {
-        "title": "The dovecote and the aviary",
         "author": "Darwin Charles",
+        "title": "The dovecote and the aviary",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Dixon1851fy19H_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Downing1845bh99M_MS",
-        "title": "The fruits and fruit trees of America",
         "author": "Downing Andrew Jackson",
+        "title": "The fruits and fruit trees of America",
         "placeOfPublication": "London",
         "publisher": "Wiley  Putnam",
         "dateOfPublication": "1845",
         "extent": "608 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Andrew Jackson",
-        "authorName": "Downing"
+        "identifier": "Downing1845bh99M_MS",
+        "authorName": "Andrew Jackson",
+        "authorSurname": "Downing"
     },
     {
-        "title": "The fruits and fruit trees of America",
         "author": "Darwin Charles",
+        "title": "The fruits and fruit trees of America",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Downing1845bh99M_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Duchenne1862oj91W_MS",
-        "title": "M\u00e9canisme de la physionomie humaine ou analyse \u00e9lectrophysiologique de lexpression des passions",
         "author": "Duchenne Guillaume Benjamin",
+        "title": "M\u00e9canisme de la physionomie humaine ou analyse \u00e9lectrophysiologique de lexpression des passions",
         "placeOfPublication": "Paris",
         "publisher": "Jules Renouard",
         "dateOfPublication": "1862",
         "extent": "211 p.",
         "note": "Plates at Down.",
-        "authorSurname": "Guillaume Benjamin",
-        "authorName": "Duchenne"
+        "identifier": "Duchenne1862oj91W_MS",
+        "authorName": "Guillaume Benjamin",
+        "authorSurname": "Duchenne"
     },
     {
-        "title": "M\u00e9canisme de la physionomie humaine ou analyse \u00e9lectrophysiologique de lexpression des passions",
         "author": "Darwin Charles",
+        "title": "M\u00e9canisme de la physionomie humaine ou analyse \u00e9lectrophysiologique de lexpression des passions",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Duchenne1862oj91W_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Eaton1852vs83U_MS",
-        "title": "A treatise on the art of breeding and managing tame domesticated and fancy pigeons",
         "author": "Eaton John Matthews",
+        "title": "A treatise on the art of breeding and managing tame domesticated and fancy pigeons",
         "placeOfPublication": "London",
         "publisher": "the Author",
         "dateOfPublication": "1852",
         "extent": "155 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "John Matthews",
-        "authorName": "Eaton"
+        "identifier": "Eaton1852vs83U_MS",
+        "authorName": "John Matthews",
+        "authorSurname": "Eaton"
     },
     {
-        "title": "A treatise on the art of breeding and managing tame domesticated and fancy pigeons",
         "author": "Darwin Charles",
+        "title": "A treatise on the art of breeding and managing tame domesticated and fancy pigeons",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Eaton1852vs83U_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "Evolution expression and sensation cell life and pathology",
         "author": "Cleland John",
+        "title": "Evolution expression and sensation cell life and pathology",
+        "subtitle": "y John Cleland",
         "placeOfPublication": "Glasgow",
         "publisher": "James Maclehose",
         "dateOfPublication": "1881",
         "extent": "xvi, 158 p. ;",
         "dimensions": "20 cm.",
         "note": "Publisher's advertisements: 16 p. at end.",
-        "authorSurname": "John",
-        "authorName": "Cleland"
+        "authorName": "John",
+        "authorSurname": "Cleland"
     },
     {
-        "identifier": "Ferguson1854io54N_MS",
-        "title": "Illustrated series of rare and prize poultry including comprehensive essays upon all classes of domestic fowl",
         "author": "Ferguson George",
+        "title": "Illustrated series of rare and prize poultry including comprehensive essays upon all classes of domestic fowl",
         "placeOfPublication": "sn",
         "publisher": "G Ferguson Beaufort Library",
         "dateOfPublication": "1854",
         "extent": "342 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "George",
-        "authorName": "Ferguson"
+        "identifier": "Ferguson1854io54N_MS",
+        "authorName": "George",
+        "authorSurname": "Ferguson"
     },
     {
-        "title": "Illustrated series of rare and prize poultry including comprehensive essays upon all classes of domestic fowl",
         "author": "Darwin Charles",
+        "title": "Illustrated series of rare and prize poultry including comprehensive essays upon all classes of domestic fowl",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Ferguson1854io54N_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Frank1870qc38Z_MS",
-        "title": "Die nat\u00fcrliche wagerechte Richtung von Pflanzentheilen",
         "author": "Frank Albert Bernhard",
+        "title": "Die nat\u00fcrliche wagerechte Richtung von Pflanzentheilen",
         "placeOfPublication": "Leipzig",
         "publisher": "Hermann Weissbach",
         "dateOfPublication": "1870",
         "extent": "101 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Albert Bernhard",
-        "authorName": "Frank"
+        "identifier": "Frank1870qc38Z_MS",
+        "authorName": "Albert Bernhard",
+        "authorSurname": "Frank"
     },
     {
-        "title": "Die nat\u00fcrliche wagerechte Richtung von Pflanzentheilen",
         "author": "Darwin Charles",
+        "title": "Die nat\u00fcrliche wagerechte Richtung von Pflanzentheilen",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Frank1870qc38Z_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Gallesio1811aq34K_MS",
-        "title": "Trait\u00e9 du citrus",
         "author": "Gallesio Georges",
+        "title": "Trait\u00e9 du citrus",
         "placeOfPublication": "Paris",
         "publisher": "Louis Fantin",
         "dateOfPublication": "1811",
         "extent": "383 p.",
         "note": "Pre-Beagle but read later.",
-        "authorSurname": "Georges",
-        "authorName": "Gallesio"
+        "identifier": "Gallesio1811aq34K_MS",
+        "authorName": "Georges",
+        "authorSurname": "Gallesio"
     },
     {
-        "title": "Trait\u00e9 du citrus",
         "author": "Darwin Charles",
+        "title": "Trait\u00e9 du citrus",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Gallesio1811aq34K_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Gartner1844ri98V_MS",
-        "title": "Beitr\u00e4ge zur Kenntniss der Befruchtung der vollkommeneren Gew\u00e4chse",
         "author": "G\u00e4rtner Carl Friedrich",
+        "title": "Beitr\u00e4ge zur Kenntniss der Befruchtung der vollkommeneren Gew\u00e4chse",
         "placeOfPublication": "Stuttgart",
         "publisher": "E Schweizerbart",
         "dateOfPublication": "1844",
         "extent": "664 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Carl Friedrich",
-        "authorName": "G\u00e4rtner"
+        "identifier": "Gartner1844ri98V_MS",
+        "authorName": "Carl Friedrich",
+        "authorSurname": "G\u00e4rtner"
     },
     {
-        "title": "Beitr\u00e4ge zur Kenntniss der Befruchtung der vollkommeneren Gew\u00e4chse",
         "author": "Darwin Charles",
+        "title": "Beitr\u00e4ge zur Kenntniss der Befruchtung der vollkommeneren Gew\u00e4chse",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Gartner1844ri98V_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Gartner1849ne02U_MS",
-        "title": "Versuche und Beobachtungen \u00fcber die Bastarderzeugung im Pflanzenreich",
         "author": "G\u00e4rtner CF",
+        "title": "Versuche und Beobachtungen \u00fcber die Bastarderzeugung im Pflanzenreich",
         "placeOfPublication": "Stuttgart",
         "publisher": "sn",
         "dateOfPublication": "1849",
         "extent": "807 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "C.F",
-        "authorName": "G\u00e4rtner"
+        "identifier": "Gartner1849ne02U_MS",
+        "authorName": "C.F",
+        "authorSurname": "G\u00e4rtner"
     },
     {
+        "author": "Darwin Charles",
         "title": "Versuche und Beobachtungen \u00fcber die Bastarderzeugung im Pflanzenreich",
-        "author": "Darwin Charles",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Gartner1849ne02U_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Geoffroy-Saint-Hilaire1832xs96J_MS",
-        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
         "author": "Geoffroy Saint Hilaire Isidore",
+        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
         "placeOfPublication": "Paris",
         "publisher": "JB Bailli\u00e8re",
         "dateOfPublication": "18321837",
         "extent": "3 vols. and atlas",
         "note": "Location: Cambridge.",
-        "authorSurname": "Isidore",
-        "authorName": "Geoffroy Saint Hilaire"
+        "identifier": "Geoffroy-Saint-Hilaire1832xs96J_MS",
+        "authorName": "Isidore",
+        "authorSurname": "Geoffroy Saint Hilaire"
     },
     {
-        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
         "author": "Darwin Charles",
+        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Geoffroy-Saint-Hilaire1832xs96J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Geoffroy-Saint-Hilaire1832xs96J_MS",
-        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
         "author": "Geoffroy Saint Hilaire Isidore",
+        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
         "placeOfPublication": "Paris",
         "publisher": "JB Bailli\u00e8re",
         "dateOfPublication": "18321837",
         "extent": "3 vols. and atlas",
         "note": "Location: Cambridge.",
-        "authorSurname": "Isidore",
-        "authorName": "Geoffroy Saint Hilaire"
+        "identifier": "Geoffroy-Saint-Hilaire1832xs96J_MS",
+        "authorName": "Isidore",
+        "authorSurname": "Geoffroy Saint Hilaire"
     },
     {
-        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
         "author": "Darwin Charles",
+        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Geoffroy-Saint-Hilaire1832xs96J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Geoffroy-Saint-Hilaire1832xs96J_MS",
-        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
         "author": "Geoffroy Saint Hilaire Isidore",
+        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
         "placeOfPublication": "Paris",
         "publisher": "JB Bailli\u00e8re",
         "dateOfPublication": "18321837",
         "extent": "3 vols. and atlas",
         "note": "Location: Cambridge.",
-        "authorSurname": "Isidore",
-        "authorName": "Geoffroy Saint Hilaire"
+        "identifier": "Geoffroy-Saint-Hilaire1832xs96J_MS",
+        "authorName": "Isidore",
+        "authorSurname": "Geoffroy Saint Hilaire"
     },
     {
-        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
         "author": "Darwin Charles",
+        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Geoffroy-Saint-Hilaire1832xs96J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Geoffroy-Saint-Hilaire1832xs96J_MS",
-        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
         "author": "Geoffroy Saint Hilaire Isidore",
+        "title": "Histoire g\u00e9n\u00e9rale et particuli\u00e8re des anomalies de lorganisation chez lhomme et les animaux",
         "placeOfPublication": "Paris",
         "publisher": "JB Bailli\u00e8re",
         "dateOfPublication": "18321837",
         "extent": "3 vols. and atlas",
         "note": "Location: Cambridge.",
-        "authorSurname": "Isidore",
-        "authorName": "Geoffroy Saint Hilaire"
+        "identifier": "Geoffroy-Saint-Hilaire1832xs96J_MS",
+        "authorName": "Isidore",
+        "authorSurname": "Geoffroy Saint Hilaire"
     },
     {
-        "identifier": "Geoffroy-Saint-Hilaire1841ie89H_MS",
+        "author": "Geoffroy Saint Hilaire Isidore",
         "title": "Essais de zoologie g\u00e9n\u00e9rale",
-        "author": "Geoffroy Saint Hilaire Isidore",
         "placeOfPublication": "Paris",
         "publisher": "Roret",
         "dateOfPublication": "1841",
         "extent": "541 p.",
         "note": "Signature.",
-        "authorSurname": "Isidore",
-        "authorName": "Geoffroy Saint Hilaire"
+        "identifier": "Geoffroy-Saint-Hilaire1841ie89H_MS",
+        "authorName": "Isidore",
+        "authorSurname": "Geoffroy Saint Hilaire"
     },
     {
-        "title": "Essais de zoologie g\u00e9n\u00e9rale",
         "author": "Darwin Charles",
+        "title": "Essais de zoologie g\u00e9n\u00e9rale",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Geoffroy-Saint-Hilaire1841ie89H_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Geoffroy-Saint-Hilaire1841ie89H_MS",
-        "title": "Essais de zoologie g\u00e9n\u00e9rale",
         "author": "Geoffroy Saint Hilaire Isidore",
+        "title": "Essais de zoologie g\u00e9n\u00e9rale",
         "placeOfPublication": "Paris",
         "publisher": "Roret",
         "dateOfPublication": "1841",
         "extent": "541 p.",
         "note": "Signature.",
-        "authorSurname": "Isidore",
-        "authorName": "Geoffroy Saint Hilaire"
+        "identifier": "Geoffroy-Saint-Hilaire1841ie89H_MS",
+        "authorName": "Isidore",
+        "authorSurname": "Geoffroy Saint Hilaire"
     },
     {
-        "identifier": "Geoffroy-Saint-Hilaire1854if15J_MS",
-        "title": "Histoire naturelle g\u00e9n\u00e9rale des r\u00e8gnes organiques",
         "author": "Geoffroy Saint Hilaire Isidore",
+        "title": "Histoire naturelle g\u00e9n\u00e9rale des r\u00e8gnes organiques",
         "placeOfPublication": "Paris",
         "publisher": "Victor Masson",
         "dateOfPublication": "18541862",
         "extent": "3 vols.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Isidore",
-        "authorName": "Geoffroy Saint Hilaire"
-    },
-    {
-        "title": "Histoire naturelle g\u00e9n\u00e9rale des r\u00e8gnes organiques",
-        "author": "Darwin Charles",
-        "note": "Identifier: Geoffroy-Saint-Hilaire1854if15J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Geoffroy-Saint-Hilaire1854if15J_MS",
+        "authorName": "Isidore",
+        "authorSurname": "Geoffroy Saint Hilaire"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "Histoire naturelle g\u00e9n\u00e9rale des r\u00e8gnes organiques",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Geoffroy-Saint-Hilaire1854if15J_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "Geoffroy Saint Hilaire Isidore",
+        "title": "Histoire naturelle g\u00e9n\u00e9rale des r\u00e8gnes organiques",
         "placeOfPublication": "Paris",
         "publisher": "Victor Masson",
         "dateOfPublication": "18541862",
         "extent": "3 vols.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Isidore",
-        "authorName": "Geoffroy Saint Hilaire"
-    },
-    {
-        "title": "Histoire naturelle g\u00e9n\u00e9rale des r\u00e8gnes organiques",
-        "author": "Darwin Charles",
-        "note": "Identifier: Geoffroy-Saint-Hilaire1854if15J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Geoffroy-Saint-Hilaire1854if15J_MS",
+        "authorName": "Isidore",
+        "authorSurname": "Geoffroy Saint Hilaire"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "Histoire naturelle g\u00e9n\u00e9rale des r\u00e8gnes organiques",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Geoffroy-Saint-Hilaire1854if15J_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "Geoffroy Saint Hilaire Isidore",
+        "title": "Histoire naturelle g\u00e9n\u00e9rale des r\u00e8gnes organiques",
         "placeOfPublication": "Paris",
         "publisher": "Victor Masson",
         "dateOfPublication": "18541862",
         "extent": "3 vols.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Isidore",
-        "authorName": "Geoffroy Saint Hilaire"
+        "identifier": "Geoffroy-Saint-Hilaire1854if15J_MS",
+        "authorName": "Isidore",
+        "authorSurname": "Geoffroy Saint Hilaire"
     },
     {
-        "title": "Histoire naturelle g\u00e9n\u00e9rale des r\u00e8gnes organiques",
         "author": "Darwin Charles",
+        "title": "Histoire naturelle g\u00e9n\u00e9rale des r\u00e8gnes organiques",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Geoffroy-Saint-Hilaire1854if15J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Gerland1868he63C_MS",
-        "title": "\u00dcber das Aussterben der Naturv\u00f6lker",
         "author": "Gerland Georg",
+        "title": "\u00dcber das Aussterben der Naturv\u00f6lker",
         "placeOfPublication": "Leipzig",
         "publisher": "Friedrich Fleischer",
         "dateOfPublication": "1868",
         "extent": "150 p.",
         "note": "Signature.",
-        "authorSurname": "Georg",
-        "authorName": "Gerland"
+        "identifier": "Gerland1868he63C_MS",
+        "authorName": "Georg",
+        "authorSurname": "Gerland"
     },
     {
-        "title": "\u00dcber das Aussterben der Naturv\u00f6lker",
         "author": "Darwin Charles",
+        "title": "\u00dcber das Aussterben der Naturv\u00f6lker",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Gerland1868he63C_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Girton2006xx62T_MS",
-        "title": "The new and complete pigeonfancier or modern treatise on domestic pigeons",
         "author": "Girton Daniel",
+        "title": "The new and complete pigeonfancier or modern treatise on domestic pigeons",
+        "edition": "New ed.",
         "placeOfPublication": "London",
         "publisher": "sn",
         "dateOfPublication": "nd",
-        "edition": "New ed.",
         "extent": "62 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Daniel",
-        "authorName": "Girton"
+        "identifier": "Girton2006xx62T_MS",
+        "authorName": "Daniel",
+        "authorSurname": "Girton"
     },
     {
-        "identifier": "Gloger1833nh20H_MS",
-        "title": "Das Ab\u00e4ndern der V\u00f6gel durch Einfluss des Klimas",
         "author": "Gloger Constantin Lambert",
+        "title": "Das Ab\u00e4ndern der V\u00f6gel durch Einfluss des Klimas",
         "placeOfPublication": "Breslau",
         "publisher": "August Schulz  Co",
         "dateOfPublication": "1833",
         "extent": "192 p.",
         "note": "On Beagle.",
-        "authorSurname": "Constantin Lambert",
-        "authorName": "Gloger"
+        "identifier": "Gloger1833nh20H_MS",
+        "authorName": "Constantin Lambert",
+        "authorSurname": "Gloger"
     },
     {
+        "author": "Darwin Charles",
         "title": "Das Ab\u00e4ndern der V\u00f6gel durch Einfluss des Klimas",
-        "author": "Darwin Charles",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Gloger1833nh20H_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Godron1859xy77H_MS",
-        "title": "De lesp\u00e8ce et des races dans les \u00eatres organis\u00e9s et sp\u00e9cialement de lunit\u00e9 de lesp\u00e8ce humaine",
         "author": "Godron Dominique Alexandre",
+        "title": "De lesp\u00e8ce et des races dans les \u00eatres organis\u00e9s et sp\u00e9cialement de lunit\u00e9 de lesp\u00e8ce humaine",
         "placeOfPublication": "Paris",
         "publisher": "JB Bailli\u00e8re et Fils",
         "dateOfPublication": "1859",
         "extent": "2 vols.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Dominique Alexandre",
-        "authorName": "Godron"
-    },
-    {
-        "title": "De lesp\u00e8ce et des races dans les \u00eatres organis\u00e9s et sp\u00e9cialement de lunit\u00e9 de lesp\u00e8ce humaine",
-        "author": "Darwin Charles",
-        "note": "Identifier: Godron1859xy77H_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Godron1859xy77H_MS",
+        "authorName": "Dominique Alexandre",
+        "authorSurname": "Godron"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "De lesp\u00e8ce et des races dans les \u00eatres organis\u00e9s et sp\u00e9cialement de lunit\u00e9 de lesp\u00e8ce humaine",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Godron1859xy77H_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "Godron Dominique Alexandre",
+        "title": "De lesp\u00e8ce et des races dans les \u00eatres organis\u00e9s et sp\u00e9cialement de lunit\u00e9 de lesp\u00e8ce humaine",
         "placeOfPublication": "Paris",
         "publisher": "JB Bailli\u00e8re et Fils",
         "dateOfPublication": "1859",
         "extent": "2 vols.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Dominique Alexandre",
-        "authorName": "Godron"
+        "identifier": "Godron1859xy77H_MS",
+        "authorName": "Dominique Alexandre",
+        "authorSurname": "Godron"
     },
     {
-        "title": "De lesp\u00e8ce et des races dans les \u00eatres organis\u00e9s et sp\u00e9cialement de lunit\u00e9 de lesp\u00e8ce humaine",
         "author": "Darwin Charles",
+        "title": "De lesp\u00e8ce et des races dans les \u00eatres organis\u00e9s et sp\u00e9cialement de lunit\u00e9 de lesp\u00e8ce humaine",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Godron1859xy77H_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Gould1861zm48D_MS",
-        "title": "An introduction to the Trochilidae or family of hummingbirds",
         "author": "Gould John",
+        "title": "An introduction to the Trochilidae or family of hummingbirds",
         "placeOfPublication": "London",
         "publisher": "Taylor  Francis",
         "dateOfPublication": "1861",
         "extent": "226 p.",
         "note": "Inscription.",
-        "authorSurname": "John",
-        "authorName": "Gould"
+        "identifier": "Gould1861zm48D_MS",
+        "authorName": "John",
+        "authorSurname": "Gould"
     },
     {
+        "author": "Darwin Charles",
         "title": "An introduction to the Trochilidae or family of hummingbirds",
-        "author": "Darwin Charles",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Gould1861zm48D_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Gould1865vh06C_MS",
-        "title": "Handbook to the birds of Australia",
         "author": "Gould John",
+        "title": "Handbook to the birds of Australia",
         "placeOfPublication": "London",
         "publisher": "by the author",
         "dateOfPublication": "1865",
         "extent": "2 vols.",
         "note": "Location: Cambridge.",
-        "authorSurname": "John",
-        "authorName": "Gould"
-    },
-    {
-        "title": "Handbook to the birds of Australia",
-        "author": "Darwin Charles",
-        "note": "Identifier: Gould1865vh06C_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Gould1865vh06C_MS",
+        "authorName": "John",
+        "authorSurname": "Gould"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "Handbook to the birds of Australia",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Gould1865vh06C_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "Gould John",
+        "title": "Handbook to the birds of Australia",
         "placeOfPublication": "London",
         "publisher": "by the author",
         "dateOfPublication": "1865",
         "extent": "2 vols.",
         "note": "Location: Cambridge.",
-        "authorSurname": "John",
-        "authorName": "Gould"
+        "identifier": "Gould1865vh06C_MS",
+        "authorName": "John",
+        "authorSurname": "Gould"
     },
     {
-        "title": "Handbook to the birds of Australia",
         "author": "Darwin Charles",
+        "title": "Handbook to the birds of Australia",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Gould1865vh06C_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Gratiolet1865yu53K_MS",
-        "title": "De la physionomie et des mouvements dexpression",
         "author": "Gratiolet Pierre",
+        "title": "De la physionomie et des mouvements dexpression",
         "placeOfPublication": "Paris",
         "publisher": "J Hetzel",
         "dateOfPublication": "1865",
         "extent": "446 p.",
         "note": "Signature.",
-        "authorSurname": "Pierre",
-        "authorName": "Gratiolet"
+        "identifier": "Gratiolet1865yu53K_MS",
+        "authorName": "Pierre",
+        "authorSurname": "Gratiolet"
     },
     {
-        "title": "De la physionomie et des mouvements dexpression",
         "author": "Darwin Charles",
+        "title": "De la physionomie et des mouvements dexpression",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Gratiolet1865yu53K_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Gray1856zd45X_MS",
-        "title": "Manual of the botany of the northern United States",
         "author": "Gray Asa",
+        "title": "Manual of the botany of the northern United States",
+        "edition": "2nd ed.",
         "placeOfPublication": "New York",
         "publisher": "sn",
         "dateOfPublication": "1856",
-        "edition": "2nd ed.",
         "extent": "767 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Asa",
-        "authorName": "Gray"
+        "identifier": "Gray1856zd45X_MS",
+        "authorName": "Asa",
+        "authorSurname": "Gray"
     },
     {
-        "title": "Manual of the botany of the northern United States",
         "author": "Darwin Charles",
+        "title": "Manual of the botany of the northern United States",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Gray1856zd45X_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Gray1872sl90E_MS",
-        "title": "Botany for young people Part 2 How plants behave",
         "author": "Gray Asa",
+        "title": "Botany for young people Part 2 How plants behave",
         "placeOfPublication": "New York  Chicago",
         "publisher": "Ivison Blakeman Taylor  Co",
         "dateOfPublication": "1872",
         "extent": "46 p.",
         "note": "Inscription.",
-        "authorSurname": "Asa",
-        "authorName": "Gray"
+        "identifier": "Gray1872sl90E_MS",
+        "authorName": "Asa",
+        "authorSurname": "Gray"
     },
     {
-        "title": "Botany for young people Part 2 How plants behave",
         "author": "Darwin Charles",
+        "title": "Botany for young people Part 2 How plants behave",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Gray1872sl90E_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Haberlandt1877uo95E_MS",
-        "title": "Die Schutzeinrichtungen in der Entwickelung der Keimpflanze",
         "author": "Haberlandt Gottlieb",
+        "title": "Die Schutzeinrichtungen in der Entwickelung der Keimpflanze",
         "placeOfPublication": "Wien",
         "publisher": "Carl Gerolds Sohn",
         "dateOfPublication": "1877",
         "extent": "99 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Gottlieb",
-        "authorName": "Haberlandt"
+        "identifier": "Haberlandt1877uo95E_MS",
+        "authorName": "Gottlieb",
+        "authorSurname": "Haberlandt"
     },
     {
-        "title": "Die Schutzeinrichtungen in der Entwickelung der Keimpflanze",
         "author": "Darwin Charles",
+        "title": "Die Schutzeinrichtungen in der Entwickelung der Keimpflanze",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Haberlandt1877uo95E_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "Habit and intelligence in their connexion with the laws of matter and force",
         "author": "Murphy Joseph John",
+        "title": "Habit and intelligence in their connexion with the laws of matter and force",
+        "subtitle": "a series of scientific essays.",
         "placeOfPublication": "London",
         "publisher": "Macmillan",
         "dateOfPublication": "1869",
         "extent": "xxiv, 349 p. ;",
         "dimensions": "23 cm.",
         "note": "Published in two volumes.",
-        "authorSurname": "Joseph John",
-        "authorName": "Murphy"
+        "authorName": "Joseph John",
+        "authorSurname": "Murphy"
     },
     {
-        "title": "Habit and intelligence in their connexion with the laws of matter and force",
         "author": "Murphy Joseph John",
+        "title": "Habit and intelligence in their connexion with the laws of matter and force",
+        "subtitle": "a series of scientific essays.",
         "placeOfPublication": "London",
         "publisher": "Macmillan",
         "dateOfPublication": "1869",
         "extent": "xxiv, 349 p. ;",
         "dimensions": "23 cm.",
         "note": "Published in two volumes.",
-        "authorSurname": "Joseph John",
-        "authorName": "Murphy"
+        "authorName": "Joseph John",
+        "authorSurname": "Murphy"
     },
     {
-        "title": "Handbuch der systematischen Anatomie des Menschen",
         "author": "Henle Jacob",
+        "title": "Handbuch der systematischen Anatomie des Menschen",
         "placeOfPublication": "Braunschweig,",
         "dateOfPublication": "1855-71.",
         "extent": "3",
         "physicalDetails": "ill",
-        "authorSurname": "Jacob",
-        "authorName": "Henle"
+        "authorName": "Jacob",
+        "authorSurname": "Henle"
     },
     {
-        "identifier": "Henslow1837xc79C_MS",
-        "title": "Descriptive and physiological botany",
         "author": "Henslow John Stevens",
+        "title": "Descriptive and physiological botany",
+        "edition": "New ed.",
         "placeOfPublication": "London",
         "publisher": "Longman Orme Brown Green  Longman",
         "dateOfPublication": "1837",
-        "edition": "New ed.",
         "extent": "340 p.",
         "series": "Lardner's Cabinet Cyclopaedia.",
         "note": "Location: Cambridge.",
-        "authorSurname": "John Stevens",
-        "authorName": "Henslow"
+        "identifier": "Henslow1837xc79C_MS",
+        "authorName": "John Stevens",
+        "authorSurname": "Henslow"
     },
     {
-        "title": "Descriptive and physiological botany",
         "author": "Darwin Charles",
+        "title": "Descriptive and physiological botany",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Henslow1837xc79C_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Hermann1860il91T_MS",
-        "title": "The Italian alpbee",
         "author": "Hermann HC",
+        "title": "The Italian alpbee",
         "placeOfPublication": "sn",
         "publisher": "G Neighbour  Sons",
         "dateOfPublication": "1860",
         "extent": "36 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "H.C",
-        "authorName": "Hermann"
+        "identifier": "Hermann1860il91T_MS",
+        "authorName": "H.C",
+        "authorSurname": "Hermann"
     },
     {
-        "title": "Die GeschlechterVertheilung bei den Pflanzen",
         "author": "Hildebrand Friedrich",
+        "title": "Die GeschlechterVertheilung bei den Pflanzen",
         "placeOfPublication": "Leipzig",
         "publisher": "Wilhelm Engelmann",
         "dateOfPublication": "1867",
         "extent": "92 p.",
         "note": "Bound with item 0599.",
-        "authorSurname": "Friedrich",
-        "authorName": "Hildebrand"
+        "authorName": "Friedrich",
+        "authorSurname": "Hildebrand"
     },
     {
-        "identifier": "Hildebrand1873vh50Z_MS",
-        "title": "Die Verbreitungsmittel der Pflanzen",
         "author": "Hildebrand Friedrich",
+        "title": "Die Verbreitungsmittel der Pflanzen",
         "placeOfPublication": "Leipzig",
         "publisher": "Wilhelm Engelmann",
         "dateOfPublication": "1873",
         "extent": "162 p.",
         "note": "Bound with item 0598.",
-        "authorSurname": "Friedrich",
-        "authorName": "Hildebrand"
+        "identifier": "Hildebrand1873vh50Z_MS",
+        "authorName": "Friedrich",
+        "authorSurname": "Hildebrand"
     },
     {
-        "title": "Die Verbreitungsmittel der Pflanzen",
         "author": "Darwin Charles",
+        "title": "Die Verbreitungsmittel der Pflanzen",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Hildebrand1873vh50Z_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Hinds1843bk72Y_MS",
-        "title": "The regions of vegetation being an analysis of the distribution of vegetable forms over the surface of the globe in connection with climate and physical agents",
         "author": "Hinds Richard Brinsley",
+        "title": "The regions of vegetation being an analysis of the distribution of vegetable forms over the surface of the globe in connection with climate and physical agents",
         "placeOfPublication": "London",
         "publisher": "GJ Palmer",
         "dateOfPublication": "1843",
         "extent": "156 p.",
         "note": "Inscription.",
-        "authorSurname": "Richard Brinsley",
-        "authorName": "Hinds"
+        "identifier": "Hinds1843bk72Y_MS",
+        "authorName": "Richard Brinsley",
+        "authorSurname": "Hinds"
     },
     {
-        "title": "The regions of vegetation being an analysis of the distribution of vegetable forms over the surface of the globe in connection with climate and physical agents",
         "author": "Darwin Charles",
+        "title": "The regions of vegetation being an analysis of the distribution of vegetable forms over the surface of the globe in connection with climate and physical agents",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Hinds1843bk72Y_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "Histoire physiologique des Plantes dEurope ou exposition des phenomenes quelles presentent dans les diverses periodes de leur developpement",
         "author": "Vaucher Jean Pierre Etienne",
+        "title": "Histoire physiologique des Plantes dEurope ou exposition des phenomenes quelles presentent dans les diverses periodes de leur developpement",
         "placeOfPublication": "Paris",
         "publisher": "Aurel Freres",
         "dateOfPublication": "1841",
         "extent": "4",
-        "authorSurname": "Jean Pierre Etienne",
-        "authorName": "Vaucher"
+        "authorName": "Jean Pierre Etienne",
+        "authorSurname": "Vaucher"
     },
     {
-        "title": "Histoire physiologique des Plantes dEurope ou exposition des phenomenes quelles presentent dans les diverses periodes de leur developpement",
         "author": "Vaucher Jean Pierre Etienne",
+        "title": "Histoire physiologique des Plantes dEurope ou exposition des phenomenes quelles presentent dans les diverses periodes de leur developpement",
         "placeOfPublication": "Paris",
         "publisher": "Aurel Freres",
         "dateOfPublication": "1841",
         "extent": "4",
-        "authorSurname": "Jean Pierre Etienne",
-        "authorName": "Vaucher"
+        "authorName": "Jean Pierre Etienne",
+        "authorSurname": "Vaucher"
     },
     {
-        "title": "Histoire physiologique des Plantes dEurope ou exposition des phenomenes quelles presentent dans les diverses periodes de leur developpement",
         "author": "Vaucher Jean Pierre Etienne",
+        "title": "Histoire physiologique des Plantes dEurope ou exposition des phenomenes quelles presentent dans les diverses periodes de leur developpement",
         "placeOfPublication": "Paris",
         "publisher": "Aurel Freres",
         "dateOfPublication": "1841",
         "extent": "4",
-        "authorSurname": "Jean Pierre Etienne",
-        "authorName": "Vaucher"
+        "authorName": "Jean Pierre Etienne",
+        "authorSurname": "Vaucher"
     },
     {
-        "title": "Histoire physiologique des Plantes dEurope ou exposition des phenomenes quelles presentent dans les diverses periodes de leur developpement",
         "author": "Vaucher Jean Pierre Etienne",
+        "title": "Histoire physiologique des Plantes dEurope ou exposition des phenomenes quelles presentent dans les diverses periodes de leur developpement",
         "placeOfPublication": "Paris",
         "publisher": "Aurel Freres",
         "dateOfPublication": "1841",
         "extent": "4",
-        "authorSurname": "Jean Pierre Etienne",
-        "authorName": "Vaucher"
+        "authorName": "Jean Pierre Etienne",
+        "authorSurname": "Vaucher"
     },
     {
-        "identifier": "Hofacker1828vf53Y_MS",
-        "title": "\u00fcber die Eigenschaften welche sich bei Menschen und Thieren von den Eltern auf die Nachkommen vererben mit besonderer R\u00fccksicht auf die Pferdezucht mit Beitr\u00e4gen von F Notter",
         "author": "Hofacker JD",
+        "title": "\u00fcber die Eigenschaften welche sich bei Menschen und Thieren von den Eltern auf die Nachkommen vererben mit besonderer R\u00fccksicht auf die Pferdezucht mit Beitr\u00e4gen von F Notter",
         "placeOfPublication": "T\u00fcbingen",
         "publisher": "GF Dsiander",
         "dateOfPublication": "1828",
         "extent": "168 p.",
         "note": "On Beagle.",
-        "authorSurname": "J.D",
-        "authorName": "Hofacker"
+        "identifier": "Hofacker1828vf53Y_MS",
+        "authorName": "J.D",
+        "authorSurname": "Hofacker"
     },
     {
-        "title": "\u00fcber die Eigenschaften welche sich bei Menschen und Thieren von den Eltern auf die Nachkommen vererben mit besonderer R\u00fccksicht auf die Pferdezucht mit Beitr\u00e4gen von F Notter",
         "author": "Darwin Charles",
+        "title": "\u00fcber die Eigenschaften welche sich bei Menschen und Thieren von den Eltern auf die Nachkommen vererben mit besonderer R\u00fccksicht auf die Pferdezucht mit Beitr\u00e4gen von F Notter",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Hofacker1828vf53Y_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Hoffmann1875jo25R_MS",
-        "title": "Zur Speciesfrage",
         "author": "Hoffmann Hermann",
+        "title": "Zur Speciesfrage",
         "placeOfPublication": "Haarlem",
         "publisher": "De Erven Loosjes",
         "dateOfPublication": "1875",
         "extent": "80 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Hermann",
-        "authorName": "Hoffmann"
+        "identifier": "Hoffmann1875jo25R_MS",
+        "authorName": "Hermann",
+        "authorSurname": "Hoffmann"
     },
     {
-        "title": "Zur Speciesfrage",
         "author": "Darwin Charles",
+        "title": "Zur Speciesfrage",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Hoffmann1875jo25R_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "The British flora",
         "author": "Hooker William Jackson",
+        "title": "The British flora",
+        "edition": "4th ed.",
         "placeOfPublication": "London",
         "publisher": "Longman Brown Green  Longmans",
         "dateOfPublication": "1838",
-        "edition": "4th ed.",
         "extent": "460 p.",
         "note": "Signature C. Darwin April 1841.",
-        "authorSurname": "William Jackson",
-        "authorName": "Hooker"
+        "authorName": "William Jackson",
+        "authorSurname": "Hooker"
     },
     {
-        "title": "The British flora",
         "author": "Darwin Charles",
+        "title": "The British flora",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Hooker1838ol53F_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Hooker1855ph70M_MS",
-        "title": "Flora Indica",
         "author": "Hooker Joseph Dalton",
+        "title": "Flora Indica",
         "placeOfPublication": "London",
         "publisher": "W Pamplin",
         "dateOfPublication": "1855",
         "extent": "2 vols.",
         "note": "Vol. 1 only.",
-        "authorSurname": "Joseph Dalton",
-        "authorName": "Hooker"
+        "identifier": "Hooker1855ph70M_MS",
+        "authorName": "Joseph Dalton",
+        "authorSurname": "Hooker"
     },
     {
-        "title": "Flora Indica",
         "author": "Darwin Charles",
+        "title": "Flora Indica",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Hooker1855ph70M_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Hooker1859hb66A_MS",
-        "title": "On the flora of Australia",
         "author": "Hooker Joseph Dalton",
+        "title": "On the flora of Australia",
         "placeOfPublication": "London",
         "publisher": "Lovell Reeve",
         "dateOfPublication": "1859",
         "extent": "135 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Joseph Dalton",
-        "authorName": "Hooker"
+        "identifier": "Hooker1859hb66A_MS",
+        "authorName": "Joseph Dalton",
+        "authorSurname": "Hooker"
     },
     {
-        "title": "On the flora of Australia",
         "author": "Darwin Charles",
+        "title": "On the flora of Australia",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Hooker1859hb66A_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Hooker2006yr09F_MS",
-        "title": "Introductory essay to the flora of New Zealand",
         "author": "Hooker Joseph Dalton",
+        "title": "Introductory essay to the flora of New Zealand",
         "placeOfPublication": "London",
         "publisher": "Lovell Reeve",
         "dateOfPublication": "nd",
         "extent": "39 p.",
         "note": "Reprint.",
-        "authorSurname": "Joseph Dalton",
-        "authorName": "Hooker"
+        "identifier": "Hooker2006yr09F_MS",
+        "authorName": "Joseph Dalton",
+        "authorSurname": "Hooker"
     },
     {
-        "title": "Introductory essay to the flora of New Zealand",
         "author": "Darwin Charles",
+        "title": "Introductory essay to the flora of New Zealand",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Hooker2006yr09F_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Huber1810md07U_MS",
-        "title": "Recherches sur les moeurs des fourmis indig\u00e8nes",
         "author": "Huber Pierre",
+        "title": "Recherches sur les moeurs des fourmis indig\u00e8nes",
         "placeOfPublication": "Paris",
         "publisher": "J J Paschoud",
         "dateOfPublication": "1810",
         "extent": "346 p.",
         "note": "Pre-Beagle.",
-        "authorSurname": "Pierre",
-        "authorName": "Huber"
+        "identifier": "Huber1810md07U_MS",
+        "authorName": "Pierre",
+        "authorSurname": "Huber"
     },
     {
-        "identifier": "Huxley1863yo75X_MS",
-        "title": "Evidence as to mans place in nature",
         "author": "Huxley Thomas Henry",
+        "title": "Evidence as to mans place in nature",
         "placeOfPublication": "London",
         "publisher": "Williams  Norgate",
         "dateOfPublication": "1863",
         "extent": "184 p.",
         "note": "Inscription.",
-        "authorSurname": "Thomas Henry",
-        "authorName": "Huxley"
+        "identifier": "Huxley1863yo75X_MS",
+        "authorName": "Thomas Henry",
+        "authorSurname": "Huxley"
     },
     {
-        "title": "Evidence as to mans place in nature",
         "author": "Darwin Charles",
+        "title": "Evidence as to mans place in nature",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Huxley1863yo75X_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Jaeger1874dt15M_MS",
-        "title": "In Sachen Darwins insbesondere contra Wigand",
         "author": "Jaeger Gustav",
+        "title": "In Sachen Darwins insbesondere contra Wigand",
         "placeOfPublication": "Stuttgart",
         "publisher": "E Schweizerbart",
         "dateOfPublication": "1874",
         "extent": "272 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Gustav",
-        "authorName": "Jaeger"
+        "identifier": "Jaeger1874dt15M_MS",
+        "authorName": "Gustav",
+        "authorSurname": "Jaeger"
     },
     {
-        "title": "In Sachen Darwins insbesondere contra Wigand",
         "author": "Darwin Charles",
+        "title": "In Sachen Darwins insbesondere contra Wigand",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Jaeger1874dt15M_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Jaeger2006ju99N_MS",
-        "title": "Die Darwinsche Theorie und ihre Stellung zu Moral und Religion",
         "author": "Jaeger Gustav",
+        "title": "Die Darwinsche Theorie und ihre Stellung zu Moral und Religion",
         "placeOfPublication": "Stuttgart",
         "publisher": "Julius Hoffmann",
         "dateOfPublication": "nd",
         "extent": "71 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Gustav",
-        "authorName": "Jaeger"
+        "identifier": "Jaeger2006ju99N_MS",
+        "authorName": "Gustav",
+        "authorSurname": "Jaeger"
     },
     {
-        "title": "Die Darwinsche Theorie und ihre Stellung zu Moral und Religion",
         "author": "Darwin Charles",
+        "title": "Die Darwinsche Theorie und ihre Stellung zu Moral und Religion",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Jaeger2006ju99N_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Jameson1821sp55X_MS",
-        "title": "Manual of mineralogy",
         "author": "Jameson Robert",
+        "title": "Manual of mineralogy",
         "placeOfPublication": "Edinburgh",
         "publisher": "Archibald Constable  Co",
         "dateOfPublication": "1821",
         "extent": "545 p.",
         "note": "Pre-Beagle.",
-        "authorSurname": "Robert",
-        "authorName": "Jameson"
+        "identifier": "Jameson1821sp55X_MS",
+        "authorName": "Robert",
+        "authorSurname": "Jameson"
     },
     {
-        "title": "Manual of mineralogy",
         "author": "Darwin Charles",
+        "title": "Manual of mineralogy",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Jameson1821sp55X_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Jones1859aj46M_MS",
-        "title": "The naturalist in Bermuda",
         "author": "Jones John Matthew",
+        "title": "The naturalist in Bermuda",
         "placeOfPublication": "London",
         "publisher": "Reeves  Turner",
         "dateOfPublication": "1859",
         "extent": "191 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "John Matthew",
-        "authorName": "Jones"
+        "identifier": "Jones1859aj46M_MS",
+        "authorName": "John Matthew",
+        "authorSurname": "Jones"
     },
     {
+        "author": "Darwin Charles",
         "title": "The naturalist in Bermuda",
-        "author": "Darwin Charles",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Jones1859aj46M_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Kirby2006fz26R_MS",
-        "title": "An introduction to entomology",
         "author": "Kirby William",
+        "title": "An introduction to entomology",
         "placeOfPublication": "London",
         "publisher": "Longman Hurst Rees Orme  Brown",
         "dateOfPublication": "18181826",
         "extent": "4 vols.",
         "note": "Pre-Beagle.",
-        "authorSurname": "William",
-        "authorName": "Kirby"
-    },
-    {
-        "title": "An introduction to entomology",
-        "author": "Darwin Charles",
-        "note": "Identifier: Kirby2006fz26R_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Kirby2006fz26R_MS",
+        "authorName": "William",
+        "authorSurname": "Kirby"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "An introduction to entomology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Kirby2006fz26R_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "Kirby William",
+        "title": "An introduction to entomology",
         "placeOfPublication": "London",
         "publisher": "Longman Hurst Rees Orme  Brown",
         "dateOfPublication": "18181826",
         "extent": "4 vols.",
         "note": "Pre-Beagle.",
-        "authorSurname": "William",
-        "authorName": "Kirby"
-    },
-    {
-        "title": "An introduction to entomology",
-        "author": "Darwin Charles",
-        "note": "Identifier: Kirby2006fz26R_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Kirby2006fz26R_MS",
+        "authorName": "William",
+        "authorSurname": "Kirby"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "An introduction to entomology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Kirby2006fz26R_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "Kirby William",
+        "title": "An introduction to entomology",
         "placeOfPublication": "London",
         "publisher": "Longman Hurst Rees Orme  Brown",
         "dateOfPublication": "18181826",
         "extent": "4 vols.",
         "note": "Pre-Beagle.",
-        "authorSurname": "William",
-        "authorName": "Kirby"
-    },
-    {
-        "title": "An introduction to entomology",
-        "author": "Darwin Charles",
-        "note": "Identifier: Kirby2006fz26R_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Kirby2006fz26R_MS",
+        "authorName": "William",
+        "authorSurname": "Kirby"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "An introduction to entomology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Kirby2006fz26R_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "Kirby William",
+        "title": "An introduction to entomology",
         "placeOfPublication": "London",
         "publisher": "Longman Hurst Rees Orme  Brown",
         "dateOfPublication": "18181826",
         "extent": "4 vols.",
         "note": "Pre-Beagle.",
-        "authorSurname": "William",
-        "authorName": "Kirby"
+        "identifier": "Kirby2006fz26R_MS",
+        "authorName": "William",
+        "authorSurname": "Kirby"
     },
     {
-        "title": "An introduction to entomology",
         "author": "Darwin Charles",
+        "title": "An introduction to entomology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Kirby2006fz26R_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Kolreuter1761pk39N_MS",
-        "title": "Vorl\u00e4ufige Nachricht von einigen das Geschlecht der Pflanzen betreffenden Versuchen",
         "author": "K\u00f6lreuter Johann Gottlieb",
+        "title": "Vorl\u00e4ufige Nachricht von einigen das Geschlecht der Pflanzen betreffenden Versuchen",
         "placeOfPublication": "Leipzig",
         "publisher": "in der Gleditschischen Handlung",
         "dateOfPublication": "17611766",
         "extent": "414 p.",
         "note": "Pre-Beagle.",
-        "authorSurname": "Johann Gottlieb",
-        "authorName": "K\u00f6lreuter"
+        "identifier": "Kolreuter1761pk39N_MS",
+        "authorName": "Johann Gottlieb",
+        "authorSurname": "K\u00f6lreuter"
     },
     {
-        "title": "Vorl\u00e4ufige Nachricht von einigen das Geschlecht der Pflanzen betreffenden Versuchen",
         "author": "Darwin Charles",
+        "title": "Vorl\u00e4ufige Nachricht von einigen das Geschlecht der Pflanzen betreffenden Versuchen",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Kolreuter1761pk39N_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Kurr1833kv07P_MS",
-        "title": "Untersuchungen \u00fcber die Bedeutung der Nektarien in den Blumen",
         "author": "Kurr Johann Gottlob von",
+        "title": "Untersuchungen \u00fcber die Bedeutung der Nektarien in den Blumen",
         "placeOfPublication": "Stuttgart",
         "publisher": "Henneschen Buchhandlung",
         "dateOfPublication": "1833",
         "extent": "160 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Johann Gottlob von",
-        "authorName": "Kurr"
+        "identifier": "Kurr1833kv07P_MS",
+        "authorName": "Johann Gottlob von",
+        "authorSurname": "Kurr"
     },
     {
-        "title": "Untersuchungen \u00fcber die Bedeutung der Nektarien in den Blumen",
         "author": "Darwin Charles",
+        "title": "Untersuchungen \u00fcber die Bedeutung der Nektarien in den Blumen",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Kurr1833kv07P_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Lamarck2001aj56E_MS",
-        "title": "Philosophie zoologique",
         "author": "Lamarck Jean Baptiste Pierre Antoine de Monet de",
+        "title": "Philosophie zoologique",
         "placeOfPublication": "Paris",
         "publisher": "DuminilLesueur",
         "dateOfPublication": "1809",
         "extent": "469 p.",
         "note": "Pre-Beagle.",
-        "authorSurname": "Jean Baptiste Pierre Antoine de Monet de",
-        "authorName": "Lamarck"
+        "identifier": "Lamarck2001aj56E_MS",
+        "authorName": "Jean Baptiste Pierre Antoine de Monet de",
+        "authorSurname": "Lamarck"
     },
     {
-        "title": "Philosophie zoologique",
         "author": "Darwin Charles",
+        "title": "Philosophie zoologique",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Lamarck2001aj56E_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Le-Couteur2006nw21J_MS",
-        "title": "On the varieties of wheat",
         "author": "Le Couteur John",
+        "title": "On the varieties of wheat",
         "placeOfPublication": "JerseyLondon",
         "publisher": "H Payn  H Wright",
         "dateOfPublication": "nd",
         "extent": "137 p.",
         "note": "Inscription to C Darwin Octob 1841.",
-        "authorSurname": "John",
-        "authorName": "Le Couteur"
+        "identifier": "Le-Couteur2006nw21J_MS",
+        "authorName": "John",
+        "authorSurname": "Le Couteur"
     },
     {
-        "title": "On the varieties of wheat",
         "author": "Darwin Charles",
+        "title": "On the varieties of wheat",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Le-Couteur2006nw21J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Lemoine1865gw92L_MS",
-        "title": "De la physionomie et de la parole",
         "author": "Lemoine Albert",
+        "title": "De la physionomie et de la parole",
         "placeOfPublication": "Paris",
         "publisher": "Germer Bailli\u00e8re",
         "dateOfPublication": "1865",
         "extent": "197 p.",
         "note": "Signature.",
-        "authorSurname": "Albert",
-        "authorName": "Lemoine"
+        "identifier": "Lemoine1865gw92L_MS",
+        "authorName": "Albert",
+        "authorSurname": "Lemoine"
     },
     {
-        "title": "Consid\u00e9rations sur les c\u00e9r\u00e9ales et principalement sur les froments",
         "author": "Darwin Charles",
+        "title": "Consid\u00e9rations sur les c\u00e9r\u00e9ales et principalement sur les froments",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Loiseleur-Deslongchamps1842qc28A_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Loiseleur-Deslongchamps1842qc28A_MS",
-        "title": "Consid\u00e9rations sur les c\u00e9r\u00e9ales et principalement sur les froments",
         "author": "LoiseleurDeslongchamps Jean Louis Auguste",
+        "title": "Consid\u00e9rations sur les c\u00e9r\u00e9ales et principalement sur les froments",
         "placeOfPublication": "Paris",
         "publisher": "BouchardHuzard",
         "dateOfPublication": "1842",
         "extent": "235 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Jean Louis Auguste",
-        "authorName": "Loiseleur-Deslongchamps"
+        "identifier": "Loiseleur-Deslongchamps1842qc28A_MS",
+        "authorName": "Jean Louis Auguste",
+        "authorSurname": "Loiseleur-Deslongchamps"
     },
     {
-        "identifier": "Low1845fw43G_MS",
-        "title": "On the domesticated animals of the British islands",
         "author": "Low David",
+        "title": "On the domesticated animals of the British islands",
         "placeOfPublication": "London",
         "publisher": "Longman Brown Green  Longmans",
         "dateOfPublication": "1845",
         "extent": "882 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "David",
-        "authorName": "Low"
+        "identifier": "Low1845fw43G_MS",
+        "authorName": "David",
+        "authorSurname": "Low"
     },
     {
+        "author": "Darwin Charles",
         "title": "On the domesticated animals of the British islands",
-        "author": "Darwin Charles",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Low1845fw43G_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Lyell1837jf09J_MS",
-        "title": "Principles of geology",
         "author": "Lyell Charles",
+        "title": "Principles of geology",
+        "edition": "5th ed.",
         "placeOfPublication": "London",
         "publisher": "John Murray",
         "dateOfPublication": "1837",
-        "edition": "5th ed.",
         "extent": "4 vols.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Charles",
-        "authorName": "Lyell"
-    },
-    {
-        "title": "Principles of geology",
-        "author": "Darwin Charles",
-        "note": "Identifier: Lyell1837jf09J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Lyell1837jf09J_MS",
+        "authorName": "Charles",
+        "authorSurname": "Lyell"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "Principles of geology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Lyell1837jf09J_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "Lyell Charles",
+        "title": "Principles of geology",
+        "edition": "5th ed.",
         "placeOfPublication": "London",
         "publisher": "John Murray",
         "dateOfPublication": "1837",
-        "edition": "5th ed.",
         "extent": "4 vols.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Charles",
-        "authorName": "Lyell"
-    },
-    {
-        "title": "Principles of geology",
-        "author": "Darwin Charles",
-        "note": "Identifier: Lyell1837jf09J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Lyell1837jf09J_MS",
+        "authorName": "Charles",
+        "authorSurname": "Lyell"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "Principles of geology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Lyell1837jf09J_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "Lyell Charles",
+        "title": "Principles of geology",
+        "edition": "5th ed.",
         "placeOfPublication": "London",
         "publisher": "John Murray",
         "dateOfPublication": "1837",
-        "edition": "5th ed.",
         "extent": "4 vols.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Charles",
-        "authorName": "Lyell"
-    },
-    {
-        "title": "Principles of geology",
-        "author": "Darwin Charles",
-        "note": "Identifier: Lyell1837jf09J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Lyell1837jf09J_MS",
+        "authorName": "Charles",
+        "authorSurname": "Lyell"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "Principles of geology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Lyell1837jf09J_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "Lyell Charles",
+        "title": "Principles of geology",
+        "edition": "5th ed.",
         "placeOfPublication": "London",
         "publisher": "John Murray",
         "dateOfPublication": "1837",
-        "edition": "5th ed.",
         "extent": "4 vols.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Charles",
-        "authorName": "Lyell"
+        "identifier": "Lyell1837jf09J_MS",
+        "authorName": "Charles",
+        "authorSurname": "Lyell"
     },
     {
-        "title": "Principles of geology",
         "author": "Darwin Charles",
+        "title": "Principles of geology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Lyell1837jf09J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Lyell1855ya42W_MS",
+        "author": "Lyell Charles",
         "title": "A manual of elementary geology",
-        "author": "Lyell Charles",
+        "edition": "5th ed.",
         "placeOfPublication": "sn",
         "publisher": "sn",
         "dateOfPublication": "1855",
-        "edition": "5th ed.",
         "extent": "540 p.",
         "note": "Signature.",
-        "authorSurname": "Charles",
-        "authorName": "Lyell"
+        "identifier": "Lyell1855ya42W_MS",
+        "authorName": "Charles",
+        "authorSurname": "Lyell"
     },
     {
-        "title": "A manual of elementary geology",
         "author": "Darwin Charles",
+        "title": "A manual of elementary geology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Lyell1855ya42W_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Lyell1857wi12D_MS",
-        "title": "Supplement to the fifth edition of A manual of elementary geology",
         "author": "Lyell Charles",
+        "title": "Supplement to the fifth edition of A manual of elementary geology",
         "placeOfPublication": "London",
         "publisher": "John Murray",
         "dateOfPublication": "1857",
         "extent": "41 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Charles",
-        "authorName": "Lyell"
+        "identifier": "Lyell1857wi12D_MS",
+        "authorName": "Charles",
+        "authorSurname": "Lyell"
     },
     {
-        "title": "Supplement to the fifth edition of A manual of elementary geology",
         "author": "Darwin Charles",
+        "title": "Supplement to the fifth edition of A manual of elementary geology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Lyell1857wi12D_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "M\u00e9moire sur lorganisation des cirrip\u00e8des",
         "author": "MartinSaintAnge Gaspard Joseph",
+        "title": "M\u00e9moire sur lorganisation des cirrip\u00e8des",
         "placeOfPublication": "Paris",
         "publisher": "JB Bailli\u00e8re",
         "dateOfPublication": "1835",
         "extent": "53 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Gaspard Joseph",
-        "authorName": "Martin-Saint-Ange"
+        "authorName": "Gaspard Joseph",
+        "authorSurname": "Martin-Saint-Ange"
     },
     {
-        "title": "The martyrdom of man",
         "author": "Reade Winwood",
+        "title": "The martyrdom of man",
         "placeOfPublication": "London",
         "publisher": "Trubner",
         "dateOfPublication": "1872",
         "extent": "viii, 544 p. ;",
         "dimensions": "20 cm. ",
-        "authorSurname": "Winwood",
-        "authorName": "Reade"
+        "authorName": "Winwood",
+        "authorSurname": "Reade"
     },
     {
-        "identifier": "Mclennan1865gg67O_MS",
-        "title": "Primitive marriage",
         "author": "Mclennan John Ferguson",
+        "title": "Primitive marriage",
         "placeOfPublication": "Edinburgh",
         "publisher": "Adam  Charles Black",
         "dateOfPublication": "1865",
         "extent": "289 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "John Ferguson",
-        "authorName": "Mclennan"
+        "identifier": "Mclennan1865gg67O_MS",
+        "authorName": "John Ferguson",
+        "authorSurname": "Mclennan"
     },
     {
-        "title": "Primitive marriage",
         "author": "Darwin Charles",
+        "title": "Primitive marriage",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Mclennan1865gg67O_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Metzger1841td81M_MS",
-        "title": "Die Getreidearten und Wiesengr\u00e4ser",
         "author": "Metzger Johann",
+        "title": "Die Getreidearten und Wiesengr\u00e4ser",
         "placeOfPublication": "Heidelberg",
         "publisher": "CF Winter",
         "dateOfPublication": "1841",
         "extent": "258 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Johann",
-        "authorName": "Metzger"
+        "identifier": "Metzger1841td81M_MS",
+        "authorName": "Johann",
+        "authorSurname": "Metzger"
     },
     {
-        "title": "Die Getreidearten und Wiesengr\u00e4ser",
         "author": "Darwin Charles",
+        "title": "Die Getreidearten und Wiesengr\u00e4ser",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Metzger1841td81M_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Michell1760sc82C_MS",
-        "title": "Conjectures concerning the cause and observations upon the phaenomena of earthquakes",
         "author": "Michell John",
+        "title": "Conjectures concerning the cause and observations upon the phaenomena of earthquakes",
         "placeOfPublication": "London",
         "publisher": "sn",
         "dateOfPublication": "1760",
         "extent": "73 p.",
         "note": "Pre-Beagle.",
-        "authorSurname": "John",
-        "authorName": "Michell"
+        "identifier": "Michell1760sc82C_MS",
+        "authorName": "John",
+        "authorSurname": "Michell"
     },
     {
-        "title": "Conjectures concerning the cause and observations upon the phaenomena of earthquakes",
         "author": "Darwin Charles",
+        "title": "Conjectures concerning the cause and observations upon the phaenomena of earthquakes",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Michell1760sc82C_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Milne-Edwards1851ib08L_MS",
-        "title": "Introduction \u00e1 la zoologie g\u00e9n\u00e9rale",
         "author": "MilneEdwards Henri",
+        "title": "Introduction \u00e1 la zoologie g\u00e9n\u00e9rale",
         "placeOfPublication": "Paris",
         "publisher": "Victor Masson",
         "dateOfPublication": "1851",
         "extent": "216 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Henri",
-        "authorName": "Milne-Edwards"
+        "identifier": "Milne-Edwards1851ib08L_MS",
+        "authorName": "Henri",
+        "authorSurname": "Milne-Edwards"
     },
     {
-        "title": "Introduction \u00e1 la zoologie g\u00e9n\u00e9rale",
         "author": "Darwin Charles",
+        "title": "Introduction \u00e1 la zoologie g\u00e9n\u00e9rale",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Milne-Edwards1851ib08L_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Mivart1871gk14P_MS",
-        "title": "On the genesis of species",
         "author": "Mivart St George Jackson",
+        "title": "On the genesis of species",
         "placeOfPublication": "London",
         "publisher": "Macmillan  Co",
         "dateOfPublication": "1871",
         "extent": "389 p.",
         "note": "Inscription.",
-        "authorSurname": "St George Jackson",
-        "authorName": "Mivart"
+        "identifier": "Mivart1871gk14P_MS",
+        "authorName": "St George Jackson",
+        "authorSurname": "Mivart"
     },
     {
-        "title": "On the genesis of species",
         "author": "Darwin Charles",
+        "title": "On the genesis of species",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Mivart1871gk14P_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Mohl1827mc85F_MS",
-        "title": "\u00fcber den Bau und das Winden der Ranken und Schlingpflanzen",
         "author": "Mohl Hugo von",
+        "title": "\u00fcber den Bau und das Winden der Ranken und Schlingpflanzen",
         "placeOfPublication": "T\u00fcbingen",
         "publisher": "Heinrich Laupp",
         "dateOfPublication": "1827",
         "extent": "160 p.",
         "note": "Pre-Beagle.",
-        "authorSurname": "Hugo von",
-        "authorName": "Mohl"
+        "identifier": "Mohl1827mc85F_MS",
+        "authorName": "Hugo von",
+        "authorSurname": "Mohl"
     },
     {
-        "title": "\u00fcber den Bau und das Winden der Ranken und Schlingpflanzen",
         "author": "Darwin Charles",
+        "title": "\u00fcber den Bau und das Winden der Ranken und Schlingpflanzen",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Mohl1827mc85F_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Mohl1852ge72I_MS",
-        "title": "Principles of the anatomy and physiology of the vegetable cell",
         "author": "Mohl Hugo von",
+        "title": "Principles of the anatomy and physiology of the vegetable cell",
         "placeOfPublication": "London",
         "publisher": "John Van Voorst",
         "dateOfPublication": "1852",
         "extent": "170 p.",
         "note": "Signature.",
-        "authorSurname": "Hugo von",
-        "authorName": "Mohl"
+        "identifier": "Mohl1852ge72I_MS",
+        "authorName": "Hugo von",
+        "authorSurname": "Mohl"
     },
     {
-        "title": "Principles of the anatomy and physiology of the vegetable cell",
         "author": "Darwin Charles",
+        "title": "Principles of the anatomy and physiology of the vegetable cell",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Mohl1852ge72I_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Moquin-Tandon1841bx90R_MS",
-        "title": "\u00c9l\u00e9ments de t\u00e9ratologie v\u00e9g\u00e9tale",
         "author": "MoquinTandon Alfred",
+        "title": "\u00c9l\u00e9ments de t\u00e9ratologie v\u00e9g\u00e9tale",
         "placeOfPublication": "Paris",
         "publisher": "PJ Loss",
         "dateOfPublication": "1841",
         "extent": "415 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Alfred",
-        "authorName": "Moquin-Tandon"
+        "identifier": "Moquin-Tandon1841bx90R_MS",
+        "authorName": "Alfred",
+        "authorSurname": "Moquin-Tandon"
     },
     {
+        "author": "Darwin Charles",
         "title": "\u00c9l\u00e9ments de t\u00e9ratologie v\u00e9g\u00e9tale",
-        "author": "Darwin Charles",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Moquin-Tandon1841bx90R_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Muller1838na12J_MS",
-        "title": "Elements of physiology",
         "author": "M\u00fcller Johannes",
+        "title": "Elements of physiology",
         "placeOfPublication": "London",
         "publisher": "Taylor  Walton",
         "dateOfPublication": "18381842",
         "extent": "2 vols. & supplement",
         "note": "Location: Cambridge.",
-        "authorSurname": "Johannes",
-        "authorName": "M\u00fcller"
-    },
-    {
-        "title": "Elements of physiology",
-        "author": "Darwin Charles",
-        "note": "Identifier: Muller1838na12J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Muller1838na12J_MS",
+        "authorName": "Johannes",
+        "authorSurname": "M\u00fcller"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "Elements of physiology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Muller1838na12J_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "M\u00fcller Johannes",
+        "title": "Elements of physiology",
         "placeOfPublication": "London",
         "publisher": "Taylor  Walton",
         "dateOfPublication": "18381842",
         "extent": "2 vols. & supplement",
         "note": "Location: Cambridge.",
-        "authorSurname": "Johannes",
-        "authorName": "M\u00fcller"
-    },
-    {
-        "title": "Elements of physiology",
-        "author": "Darwin Charles",
-        "note": "Identifier: Muller1838na12J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Muller1838na12J_MS",
+        "authorName": "Johannes",
+        "authorSurname": "M\u00fcller"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "Elements of physiology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Muller1838na12J_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "M\u00fcller Johannes",
+        "title": "Elements of physiology",
         "placeOfPublication": "London",
         "publisher": "Taylor  Walton",
         "dateOfPublication": "18381842",
         "extent": "2 vols. & supplement",
         "note": "Location: Cambridge.",
-        "authorSurname": "Johannes",
-        "authorName": "M\u00fcller"
+        "identifier": "Muller1838na12J_MS",
+        "authorName": "Johannes",
+        "authorSurname": "M\u00fcller"
     },
     {
-        "title": "Elements of physiology",
         "author": "Darwin Charles",
+        "title": "Elements of physiology",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Muller1838na12J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Muller1873vo87F_MS",
-        "title": "Befruchtung der Blumen durch Insekten",
         "author": "M\u00fcller Hermann",
+        "title": "Befruchtung der Blumen durch Insekten",
         "placeOfPublication": "Leipzig",
         "publisher": "Wilhelm Engelmann",
         "dateOfPublication": "1873",
         "extent": "486 p.",
         "note": "Inscription.",
-        "authorSurname": "Hermann",
-        "authorName": "M\u00fcller"
+        "identifier": "Muller1873vo87F_MS",
+        "authorName": "Hermann",
+        "authorSurname": "M\u00fcller"
     },
     {
-        "title": "Befruchtung der Blumen durch Insekten",
         "author": "Darwin Charles",
+        "title": "Befruchtung der Blumen durch Insekten",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Muller1873vo87F_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Nageli1866ly65J_MS",
-        "title": "Botanische Mittheilungen",
         "author": "N\u00e4geli Carl von",
+        "title": "Botanische Mittheilungen",
         "placeOfPublication": "M\u00fcnchen",
         "publisher": "F Staub",
         "dateOfPublication": "1866",
         "extent": "350 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Carl von",
-        "authorName": "N\u00e4geli"
+        "identifier": "Nageli1866ly65J_MS",
+        "authorName": "Carl von",
+        "authorSurname": "N\u00e4geli"
     },
     {
-        "identifier": "Nathusius1864tp80J_MS",
-        "title": "Vorstudien f\u00fcr Geschichte und Zucht der Hausthiere zunaechst am Schweineschaedel",
         "author": "Nathusius Hermann von",
+        "title": "Vorstudien f\u00fcr Geschichte und Zucht der Hausthiere zunaechst am Schweineschaedel",
         "placeOfPublication": "Berlin",
         "publisher": "Wiegandt  Hempel",
         "dateOfPublication": "1864",
         "extent": "1 vol. & vol. of tables and plates",
         "note": "Location: Cambridge.",
-        "authorSurname": "Hermann von",
-        "authorName": "Nathusius"
+        "identifier": "Nathusius1864tp80J_MS",
+        "authorName": "Hermann von",
+        "authorSurname": "Nathusius"
     },
     {
-        "title": "Vorstudien f\u00fcr Geschichte und Zucht der Hausthiere zunaechst am Schweineschaedel",
         "author": "Darwin Charles",
+        "title": "Vorstudien f\u00fcr Geschichte und Zucht der Hausthiere zunaechst am Schweineschaedel",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Nathusius1864tp80J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Nathusius1872tn22V_MS",
-        "title": "Vortr\u00e4ge \u00fcber Viehzucht und Rassenkenntnis",
         "author": "Nathusius Hermann von",
+        "title": "Vortr\u00e4ge \u00fcber Viehzucht und Rassenkenntnis",
         "placeOfPublication": "Berlin",
         "publisher": "Wiegandt  Hempel",
         "dateOfPublication": "18721880",
         "extent": "2 vols. and supplement",
         "note": "Location: Cambridge.",
-        "authorSurname": "Hermann von",
-        "authorName": "Nathusius"
+        "identifier": "Nathusius1872tn22V_MS",
+        "authorName": "Hermann von",
+        "authorSurname": "Nathusius"
     },
     {
-        "title": "Vortr\u00e4ge \u00fcber Viehzucht und Rassenkenntnis",
         "author": "Darwin Charles",
+        "title": "Vortr\u00e4ge \u00fcber Viehzucht und Rassenkenntnis",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Nathusius1872tn22V_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Naudin1862ra20Z_MS",
-        "title": "Nouvelles recherches sur lhybridit\u00e9 dans les v\u00e9g\u00e9taux",
         "author": "Naudin Charles",
+        "title": "Nouvelles recherches sur lhybridit\u00e9 dans les v\u00e9g\u00e9taux",
         "placeOfPublication": "Paris",
         "publisher": "sn",
         "dateOfPublication": "1862",
         "extent": "161 p.",
         "note": "Inscription.",
-        "authorSurname": "Charles",
-        "authorName": "Naudin"
+        "identifier": "Naudin1862ra20Z_MS",
+        "authorName": "Charles",
+        "authorSurname": "Naudin"
     },
     {
-        "title": "Nouvelles recherches sur lhybridit\u00e9 dans les v\u00e9g\u00e9taux",
         "author": "Darwin Charles",
+        "title": "Nouvelles recherches sur lhybridit\u00e9 dans les v\u00e9g\u00e9taux",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Naudin1862ra20Z_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Neumeister1837mr35G_MS",
-        "title": "Das Ganze der Taubenzucht",
         "author": "Neumeister Gottlob",
+        "title": "Das Ganze der Taubenzucht",
         "placeOfPublication": "Weimar",
         "publisher": "BF Voigt",
         "dateOfPublication": "1837",
         "extent": "53 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Gottlob",
-        "authorName": "Neumeister"
+        "identifier": "Neumeister1837mr35G_MS",
+        "authorName": "Gottlob",
+        "authorSurname": "Neumeister"
     },
     {
-        "title": "Das Ganze der Taubenzucht",
         "author": "Darwin Charles",
+        "title": "Das Ganze der Taubenzucht",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Neumeister1837mr35G_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "De la degeneration et de lextinction des varietes de vegetaux propages par les greffes boutures tubercules etc et de la creation des varietes nouvelles par les croisemens et les semis",
         "author": "Puvis Marc Antoine",
+        "title": "De la degeneration et de lextinction des varietes de vegetaux propages par les greffes boutures tubercules etc et de la creation des varietes nouvelles par les croisemens et les semis",
         "placeOfPublication": "Paris",
         "publisher": "Huzard",
         "dateOfPublication": "1837",
         "extent": "94 p. ;",
         "dimensions": "23 cm. ",
-        "authorSurname": "Marc Antoine",
-        "authorName": "Puvis"
+        "authorName": "Marc Antoine",
+        "authorSurname": "Puvis"
     },
     {
-        "title": "Journal historique dun voyage fait aux Iles Malouines en 1763  1764 pour les reconnoitre  y former un etablissement et de deux voyages au Detroit de Magellan avec une relation sur les Patagons",
         "author": "Pernety Antoine Joseph",
+        "title": "Journal historique dun voyage fait aux Iles Malouines en 1763  1764 pour les reconnoitre  y former un etablissement et de deux voyages au Detroit de Magellan avec une relation sur les Patagons",
         "placeOfPublication": "Berlin",
         "publisher": "Etienne de Bourdeaux",
         "dateOfPublication": "1769",
         "extent": "2 v. (xvi, 1-403, [404]-704, [47] p.), xvi leaves of plates :",
         "physicalDetails": "ill. ;",
         "dimensions": "19 cm. ",
-        "authorSurname": "Antoine Joseph",
-        "authorName": "Pernety"
+        "authorName": "Antoine Joseph",
+        "authorSurname": "Pernety"
     },
     {
-        "title": "Journal historique dun voyage fait aux Iles Malouines en 1763  1764 pour les reconnoitre  y former un etablissement et de deux voyages au Detroit de Magellan avec une relation sur les Patagons",
         "author": "Pernety Antoine Joseph",
+        "title": "Journal historique dun voyage fait aux Iles Malouines en 1763  1764 pour les reconnoitre  y former un etablissement et de deux voyages au Detroit de Magellan avec une relation sur les Patagons",
         "placeOfPublication": "Berlin",
         "publisher": "Etienne de Bourdeaux",
         "dateOfPublication": "1769",
         "extent": "2 v. (xvi, 1-403, [404]-704, [47] p.), xvi leaves of plates :",
         "physicalDetails": "ill. ;",
         "dimensions": "19 cm. ",
-        "authorSurname": "Antoine Joseph",
-        "authorName": "Pernety"
+        "authorName": "Antoine Joseph",
+        "authorSurname": "Pernety"
     },
     {
-        "title": "Illustrations of the Huttonian theory of the earth",
         "author": "Playfair John",
+        "title": "Illustrations of the Huttonian theory of the earth",
         "placeOfPublication": "London",
         "publisher": "Cadell and Davies",
         "dateOfPublication": "1802",
         "extent": "xx, 528 p. ;",
         "dimensions": "22 cm.",
-        "authorSurname": "John",
-        "authorName": "Playfair"
+        "authorName": "John",
+        "authorSurname": "Playfair"
     },
     {
-        "title": "Physiologie comparee",
         "author": "Quatrefages de Breau Jean Louis Armand de",
+        "title": "Physiologie comparee",
+        "subtitle": "metamorphoses de l'homme et des animaux /",
         "placeOfPublication": "Paris",
         "publisher": "JB Bailliere et Fils",
         "dateOfPublication": "1862",
         "extent": "vi, 324 p. ;",
         "dimensions": "18 cm. ",
-        "authorSurname": "Jean Louis Armand de",
-        "authorName": "Quatrefages de Breau"
+        "authorName": "Jean Louis Armand de",
+        "authorSurname": "Quatrefages de Breau"
     },
     {
-        "title": "Animaux fossiles du Mont Leberon Vaucluse",
         "author": "Gaudry Albert",
+        "title": "Animaux fossiles du Mont Leberon Vaucluse",
+        "subtitle": "Etude sur les Vertebres. Etude sur les Invertebres /",
         "placeOfPublication": "Paris",
         "publisher": "Societe Geologique de France",
         "dateOfPublication": "1873",
@@ -2001,149 +2097,153 @@
         "physicalDetails": "ill. (1 col.) ;",
         "dimensions": "36 cm. ",
         "note": "Large paper copy. ",
-        "authorSurname": "Albert",
-        "authorName": "Gaudry"
+        "authorName": "Albert",
+        "authorSurname": "Gaudry"
     },
     {
-        "title": "Beitrage zur Biologie und Morphologie der Orchideen",
         "author": "Irmisch Johann Friedrich Thilo",
+        "title": "Beitrage zur Biologie und Morphologie der Orchideen",
         "placeOfPublication": "Leipzig",
         "publisher": "Ambrosius Abel",
         "dateOfPublication": "1853",
         "extent": "viii, 82 p. ; vi leaves of plates ;",
         "dimensions": "29 cm. ",
-        "authorSurname": "Johann Friedrich Thilo",
-        "authorName": "Irmisch"
+        "authorName": "Johann Friedrich Thilo",
+        "authorSurname": "Irmisch"
     },
     {
-        "title": "Die Laubmoose Oberfrankens",
         "author": "Walther Alexander",
+        "title": "Die Laubmoose Oberfrankens",
+        "subtitle": "Beitrage zur Pflanzengeographie und Systematik und zur Theorie vom Ursprunge der Arten /",
         "placeOfPublication": "Leipzig",
         "publisher": "Wilhelm Engelmann",
         "dateOfPublication": "1868",
         "extent": "vii, 279 p. ",
-        "authorSurname": "Alexander",
-        "authorName": "Walther"
+        "authorName": "Alexander",
+        "authorSurname": "Walther"
     },
     {
-        "title": "Uber den Einfluss der Isolirung auf die Artbildung",
         "author": "Weismann August",
+        "title": "Uber den Einfluss der Isolirung auf die Artbildung",
         "placeOfPublication": "Leipzig",
         "publisher": "Verlag von Wilhelm Engelmann",
         "dateOfPublication": "1872",
         "extent": "iv,108 p. ;",
         "dimensions": "24 cm. ",
-        "authorSurname": "August",
-        "authorName": "Weismann"
+        "authorName": "August",
+        "authorSurname": "Weismann"
     },
     {
-        "title": "Die Neuere Schopfungsgeschichte nach dem gegenwartigen Stande der Naturwissenschaften c",
         "author": "DodelPort Arnold",
+        "title": "Die Neuere Schopfungsgeschichte nach dem gegenwartigen Stande der Naturwissenschaften c",
         "placeOfPublication": "Leipzig,",
         "dateOfPublication": "1875. ",
         "extent": "xxvi, 518p :",
         "physicalDetails": "2 pls., text ill ;",
         "dimensions": "8?",
-        "authorSurname": "Arnold",
-        "authorName": "Dodel-Port"
+        "authorName": "Arnold",
+        "authorSurname": "Dodel-Port"
     },
     {
-        "title": "A manual of scientific enquiry",
         "author": "Herschel John Frederick William",
+        "title": "A manual of scientific enquiry",
+        "subtitle": "prepared for the use of Her Majesty's Navy and adapted for travellers in general. /",
         "placeOfPublication": "London",
         "publisher": "John Murray",
         "dateOfPublication": "1849",
         "extent": "xi, 488 p. :",
         "physicalDetails": "2 maps, text ill. ;",
         "note": "Printed by William Clowes and Sons.",
-        "authorSurname": "John Frederick William",
-        "authorName": "Herschel"
+        "authorName": "John Frederick William",
+        "authorSurname": "Herschel"
     },
     {
-        "title": "Die S\u00e4ugethiere V\u00f6gel und Amphibien nach ihrer geographischen Verbreitung tabellarisch zusammengestellt",
         "author": "Pompper Hermann",
+        "title": "Die S\u00e4ugethiere V\u00f6gel und Amphibien nach ihrer geographischen Verbreitung tabellarisch zusammengestellt",
         "placeOfPublication": "Leipzig",
         "publisher": "Verlag der JG Hinrichsichen Buchhandlung",
         "dateOfPublication": "1841",
         "extent": "iv, 37 p. ;",
         "dimensions": "35 cm. ",
         "note": "Printed on one side of the paper only, except p. 13-14, 15-16, 23-24, 25-26, 28-29. ",
-        "authorSurname": "Hermann",
-        "authorName": "Pompper"
+        "authorName": "Hermann",
+        "authorSurname": "Pompper"
     },
     {
-        "title": "Manual of the subkingdom C\u0153lenterata",
         "author": "Greene Joseph Reay",
+        "title": "Manual of the subkingdom C\u0153lenterata",
         "placeOfPublication": "London",
         "publisher": "Longman Green Longman and Roberts",
         "dateOfPublication": "1861",
         "extent": "xiii, 271 p. :",
         "physicalDetails": "ill.",
         "dimensions": "17 cm. ",
-        "authorSurname": "Joseph Reay",
-        "authorName": "Greene"
+        "authorName": "Joseph Reay",
+        "authorSurname": "Greene"
     },
     {
-        "title": "The beginnings of life",
         "author": "Bastian Henry Charlton",
+        "title": "The beginnings of life",
+        "subtitle": "being some account of the nature, modes of origin and transformations of lower organisms.",
         "placeOfPublication": "London",
         "publisher": "Macmillan",
         "dateOfPublication": "1872",
         "extent": "2 vols. (xxxv, 475, 55, ix, 640, clv p.) :",
         "physicalDetails": "ill. ;",
         "dimensions": "19 cm.",
-        "authorSurname": "Henry Charlton",
-        "authorName": "Bastian"
+        "authorName": "Henry Charlton",
+        "authorSurname": "Bastian"
     },
     {
-        "title": "The beginnings of life",
         "author": "Bastian Henry Charlton",
+        "title": "The beginnings of life",
+        "subtitle": "being some account of the nature, modes of origin and transformations of lower organisms.",
         "placeOfPublication": "London",
         "publisher": "Macmillan",
         "dateOfPublication": "1872",
         "extent": "2 vols. (xxxv, 475, 55, ix, 640, clv p.) :",
         "physicalDetails": "ill. ;",
         "dimensions": "19 cm.",
-        "authorSurname": "Henry Charlton",
-        "authorName": "Bastian"
+        "authorName": "Henry Charlton",
+        "authorSurname": "Bastian"
     },
     {
-        "title": "A history of the birds of New Zealand",
         "author": "Buller Walter Lawry",
+        "title": "A history of the birds of New Zealand",
         "placeOfPublication": "London",
         "publisher": "John van Voorst",
         "dateOfPublication": "1873",
         "extent": "xxiii, 384, [5] p., 36 leaves of plates :",
         "physicalDetails": "col. ill. ;",
         "dimensions": "33 cm.",
-        "authorSurname": "Walter Lawry",
-        "authorName": "Buller"
+        "authorName": "Walter Lawry",
+        "authorSurname": "Buller"
     },
     {
-        "title": "Evolution of life",
         "author": "Chapman Henry Cadwalader",
+        "title": "Evolution of life",
         "placeOfPublication": "Philadelphia,",
         "dateOfPublication": "1873.",
         "extent": "193p : 32 pls, 1 map ; 8?",
-        "authorSurname": "Henry Cadwalader",
-        "authorName": "Chapman"
+        "authorName": "Henry Cadwalader",
+        "authorSurname": "Chapman"
     },
     {
-        "title": "Charles Darwin uber die Entstehung der Arten im Thier und PflanzenReich durch naturliche Zuchtung oder Erhaltung der vervollkommneten Rassen im Kampfe ums Daseyn Nach der zweiten Auflage mit einer geschichtlichen Vorrede und andern Zusatzen des Verfassers fur diese deutsche Ausgabe aus dem Englischen ubersetzt und mit Anmerkungen versehen",
-        "uniformTitle": "On the origin of species.",
         "author": "Darwin Charles",
+        "title": "Charles Darwin uber die Entstehung der Arten im Thier und PflanzenReich durch naturliche Zuchtung oder Erhaltung der vervollkommneten Rassen im Kampfe ums Daseyn Nach der zweiten Auflage mit einer geschichtlichen Vorrede und andern Zusatzen des Verfassers fur diese deutsche Ausgabe aus dem Englischen ubersetzt und mit Anmerkungen versehen",
         "placeOfPublication": "Stuttgart",
         "publisher": "E Schweizerbartsche Verlagshandlung und Druckerei",
         "dateOfPublication": "1860",
         "extent": "viii, 520 p., [1] plate :",
         "physicalDetails": "ill. ;",
         "dimensions": "23 cm. ",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "Phytologia",
         "author": "Darwin Erasmus",
+        "title": "Phytologia",
+        "subtitle": "or, The philosophy of agriculture and gardening.  With the theory of draining morasses, and with an improved construction of the drill plough.",
         "placeOfPublication": "London",
         "publisher": "J Johnson",
         "dateOfPublication": "1800",
@@ -2151,20 +2251,21 @@
         "physicalDetails": "12 pl. (part fold.) ;",
         "dimensions": "28 cm.",
         "note": "Plates I-IX each preceded by 2 pages of descriptive letter-press not included in paging.",
-        "authorSurname": "Erasmus",
-        "authorName": "Darwin"
+        "authorName": "Erasmus",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "Untersuchungen uber die EntwickelungsGesetze der organischen Welt wahrend der BildungsZeit unserer ErdOberflache",
         "author": "Bronn Heinrich Georg",
+        "title": "Untersuchungen uber die EntwickelungsGesetze der organischen Welt wahrend der BildungsZeit unserer ErdOberflache",
+        "subtitle": "eine von der Franzosischen Akademie im Jahre 1857 gekronte Preisschrift, mit ihrer Erlaubniss Deutsch herausgegeben /",
         "placeOfPublication": "Stuttgart",
         "publisher": "E Schweizerbartsche Verlagshandlung",
         "dateOfPublication": "1858",
         "extent": "x, 502 p. ;",
         "dimensions": "23 cm. ",
         "note": "The French original appeared in the Comptes Rendus Acad. Sci. Paris, Suppt., Tom. II (1861), p. 377-918, under the title \"Essai d'une reponse a` la question ... Etudier les lois de la distribution des corps organises fossiles,\" &c (held in Pal. Lib. at 15 q BRO). ",
-        "authorSurname": "Heinrich Georg",
-        "authorName": "Bronn"
+        "authorName": "Heinrich Georg",
+        "authorSurname": "Bronn"
     },
     {
         "title": "Catalogue of British Hymenoptera in the collection of the British Museum",
@@ -2176,120 +2277,125 @@
         "note": "A second title-page has been prefixed, which reads: Monograph of the bees of Great Britain"
     },
     {
-        "title": "The British flora",
         "author": "Hooker William Jackson",
+        "title": "The British flora",
+        "subtitle": "comprising the phaenogamous or flowering plants, and the ferns /",
+        "edition": "7th ed.",
         "placeOfPublication": "London,",
         "dateOfPublication": "1855.",
-        "edition": "7th ed.",
         "extent": "xli, [iii,] 618p :",
         "physicalDetails": "12 pls",
-        "authorSurname": "William Jackson",
-        "authorName": "Hooker"
+        "authorName": "William Jackson",
+        "authorSurname": "Hooker"
     },
     {
-        "title": "Essai dune reponse a la question de prix proposee en 1850 par lAcademie des sciences pour le concours de 1853 et puis remise pour celui de 1856 savoir",
         "author": "Bronn Heinrich Georg",
+        "title": "Essai dune reponse a la question de prix proposee en 1850 par lAcademie des sciences pour le concours de 1853 et puis remise pour celui de 1856 savoir",
+        "subtitle": "Etudier les lois de la distribution des corps organises fossiles dans differents terrains sedimentaires, suivant l'ordre de leur superposition, discuter la question de leur apparition ou de leur disaprition successive ou simultanee, rechercher la nature des rapports qui existent entre l'etat actuel du r`egne organique et ses etats anterieurs /",
         "placeOfPublication": "Paris",
         "publisher": "MalletBachelier",
         "dateOfPublication": "1861",
         "extent": "p. 377-918 ;",
         "dimensions": "27 cm. ",
-        "authorSurname": "Heinrich Georg",
-        "authorName": "Bronn"
+        "authorName": "Heinrich Georg",
+        "authorSurname": "Bronn"
     },
     {
-        "title": "Beitr\u00e4ge zur Pflanzenphysiologie",
         "author": "Frank Albert Bernhard",
+        "title": "Beitr\u00e4ge zur Pflanzenphysiologie",
         "placeOfPublication": "Leipzig,",
         "dateOfPublication": "1868 ",
         "extent": "viii, 167 p., v leaves of plates :",
         "physicalDetails": "ill. ;",
         "dimensions": "23 cm. ",
-        "authorSurname": "Albert Bernhard",
-        "authorName": "Frank"
+        "authorName": "Albert Bernhard",
+        "authorSurname": "Frank"
     },
     {
-        "title": "Die Cultur der Alpenpflanzen",
         "author": "Kerner von Marilaun Anton",
+        "title": "Die Cultur der Alpenpflanzen",
         "placeOfPublication": "Innsbruck",
         "publisher": "Wagner",
         "dateOfPublication": "1864",
         "extent": "162 p. ;",
         "dimensions": "20 cm. ",
-        "authorSurname": "Anton",
-        "authorName": "Kerner von Marilaun"
+        "authorName": "Anton",
+        "authorSurname": "Kerner von Marilaun"
     },
     {
-        "title": "Histoire naturelle des c\u00e9tac\u00e9es Tom 1",
         "author": "La Cepede",
+        "title": "Histoire naturelle des c\u00e9tac\u00e9es Tom 1",
         "placeOfPublication": "Paris",
         "publisher": "Didot",
         "dateOfPublication": "1809",
         "extent": "2 v. (xii, 248, 272 p.) :",
         "physicalDetails": "ill. ;",
         "dimensions": "14 cm. ",
-        "authorSurname": "",
-        "authorName": "La Ce\u0301pe\u0300de"
+        "authorName": "",
+        "authorSurname": "La Ce\u0301pe\u0300de"
     },
     {
-        "title": "Histoire naturelle des c\u00e9tac\u00e9es Tom 1",
         "author": "La Cepede",
+        "title": "Histoire naturelle des c\u00e9tac\u00e9es Tom 1",
         "placeOfPublication": "Paris",
         "publisher": "Didot",
         "dateOfPublication": "1809",
         "extent": "2 v. (xii, 248, 272 p.) :",
         "physicalDetails": "ill. ;",
         "dimensions": "14 cm. ",
-        "authorSurname": "",
-        "authorName": "La Ce\u0301pe\u0300de"
+        "authorName": "",
+        "authorSurname": "La Ce\u0301pe\u0300de"
     },
     {
-        "title": "Le fraisier",
         "author": "Lambertye Leonce de",
+        "title": "Le fraisier",
+        "subtitle": "sa botanique, son histoire, sa culture /",
         "placeOfPublication": "Paris",
         "publisher": "Librairie Centrale dAgriculture et de Jardinage",
         "dateOfPublication": "1864",
         "extent": "392 p. ;",
         "dimensions": "23 cm. ",
-        "authorSurname": "Leonce de",
-        "authorName": "Lambertye"
+        "authorName": "Leonce de",
+        "authorSurname": "Lambertye"
     },
     {
-        "title": "Principles of geology",
         "author": "Lyell Charles",
+        "title": "Principles of geology",
+        "subtitle": "or the modern changes of the earth and its inhabitants considered as illustrative of geology /",
+        "edition": "10th & entirely rev. ed.",
         "placeOfPublication": "London",
         "publisher": "John Murray",
         "dateOfPublication": "186768",
-        "edition": "10th & entirely rev. ed.",
         "extent": "2 v., 8 leaves of plates (1 folded) :",
         "physicalDetails": "ill., maps ;",
         "dimensions": "22 cm.",
-        "authorSurname": "Charles",
-        "authorName": "Lyell"
+        "authorName": "Charles",
+        "authorSurname": "Lyell"
     },
     {
-        "title": "Principles of geology",
         "author": "Lyell Charles",
+        "title": "Principles of geology",
+        "subtitle": "or the modern changes of the earth and its inhabitants considered as illustrative of geology /",
+        "edition": "10th & entirely rev. ed.",
         "placeOfPublication": "London",
         "publisher": "John Murray",
         "dateOfPublication": "186768",
-        "edition": "10th & entirely rev. ed.",
         "extent": "2 v., 8 leaves of plates (1 folded) :",
         "physicalDetails": "ill., maps ;",
         "dimensions": "22 cm.",
-        "authorSurname": "Charles",
-        "authorName": "Lyell"
+        "authorName": "Charles",
+        "authorSurname": "Lyell"
     },
     {
-        "title": "Observations made during a voyage round the world in HMS Resolution on physical geography natural history and ethic philosophy especially on",
         "author": "Forster Johann Reinhold",
+        "title": "Observations made during a voyage round the world in HMS Resolution on physical geography natural history and ethic philosophy especially on",
         "placeOfPublication": "London",
         "publisher": "G Robinson",
         "dateOfPublication": "1778",
         "extent": "iv, [9] - 649, [2] p., [1] folded leaf ;",
         "dimensions": "29 cm.",
-        "authorSurname": "Johann Reinhold",
-        "authorName": "Forster"
+        "authorName": "Johann Reinhold",
+        "authorSurname": "Forster"
     },
     {
         "title": "A descriptive catalogue of the rock specimens in the Museum of Practical Geology",
@@ -2300,17 +2406,18 @@
         "dimensions": "19 cm."
     },
     {
-        "identifier": "noauthor2006yi23A_MS",
         "title": "The rabbit book",
         "placeOfPublication": "London :",
         "publisher": "Journal of Horticulture,",
         "dateOfPublication": "n.d..",
         "extent": "62 p.",
-        "note": "Location: Cambridge."
+        "note": "Location: Cambridge.",
+        "identifier": "noauthor2006yi23A_MS"
     },
     {
-        "title": "Ornithological biography or an account of the habits of the birds of the United States of America",
         "author": "Audubon John James",
+        "title": "Ornithological biography or an account of the habits of the birds of the United States of America",
+        "subtitle": "accompanied by descriptions of the objects represented in the work entitled The Birds of America, and interspersed with delineations of American scenery and manners /",
         "placeOfPublication": "Edinburgh",
         "publisher": "Adam Black",
         "dateOfPublication": "18311839",
@@ -2318,12 +2425,13 @@
         "physicalDetails": "ill. ;",
         "dimensions": "27 cm.",
         "note": "Vol. 5 erroneously dated 1849.",
-        "authorSurname": "John James",
-        "authorName": "Audubon"
+        "authorName": "John James",
+        "authorSurname": "Audubon"
     },
     {
-        "title": "Ornithological biography or an account of the habits of the birds of the United States of America",
         "author": "Audubon John James",
+        "title": "Ornithological biography or an account of the habits of the birds of the United States of America",
+        "subtitle": "accompanied by descriptions of the objects represented in the work entitled The Birds of America, and interspersed with delineations of American scenery and manners /",
         "placeOfPublication": "Edinburgh",
         "publisher": "Adam Black",
         "dateOfPublication": "18311839",
@@ -2331,12 +2439,13 @@
         "physicalDetails": "ill. ;",
         "dimensions": "27 cm.",
         "note": "Vol. 5 erroneously dated 1849.",
-        "authorSurname": "John James",
-        "authorName": "Audubon"
+        "authorName": "John James",
+        "authorSurname": "Audubon"
     },
     {
-        "title": "Ornithological biography or an account of the habits of the birds of the United States of America",
         "author": "Audubon John James",
+        "title": "Ornithological biography or an account of the habits of the birds of the United States of America",
+        "subtitle": "accompanied by descriptions of the objects represented in the work entitled The Birds of America, and interspersed with delineations of American scenery and manners /",
         "placeOfPublication": "Edinburgh",
         "publisher": "Adam Black",
         "dateOfPublication": "18311839",
@@ -2344,12 +2453,13 @@
         "physicalDetails": "ill. ;",
         "dimensions": "27 cm.",
         "note": "Vol. 5 erroneously dated 1849.",
-        "authorSurname": "John James",
-        "authorName": "Audubon"
+        "authorName": "John James",
+        "authorSurname": "Audubon"
     },
     {
-        "title": "Ornithological biography or an account of the habits of the birds of the United States of America",
         "author": "Audubon John James",
+        "title": "Ornithological biography or an account of the habits of the birds of the United States of America",
+        "subtitle": "accompanied by descriptions of the objects represented in the work entitled The Birds of America, and interspersed with delineations of American scenery and manners /",
         "placeOfPublication": "Edinburgh",
         "publisher": "Adam Black",
         "dateOfPublication": "18311839",
@@ -2357,12 +2467,13 @@
         "physicalDetails": "ill. ;",
         "dimensions": "27 cm.",
         "note": "Vol. 5 erroneously dated 1849.",
-        "authorSurname": "John James",
-        "authorName": "Audubon"
+        "authorName": "John James",
+        "authorSurname": "Audubon"
     },
     {
-        "title": "Ornithological biography or an account of the habits of the birds of the United States of America",
         "author": "Audubon John James",
+        "title": "Ornithological biography or an account of the habits of the birds of the United States of America",
+        "subtitle": "accompanied by descriptions of the objects represented in the work entitled The Birds of America, and interspersed with delineations of American scenery and manners /",
         "placeOfPublication": "Edinburgh",
         "publisher": "Adam Black",
         "dateOfPublication": "18311839",
@@ -2370,768 +2481,804 @@
         "physicalDetails": "ill. ;",
         "dimensions": "27 cm.",
         "note": "Vol. 5 erroneously dated 1849.",
-        "authorSurname": "John James",
-        "authorName": "Audubon"
+        "authorName": "John James",
+        "authorSurname": "Audubon"
     },
     {
-        "identifier": "Owen1846yu33N_MS",
-        "title": "A history of British fossil mammals and birds",
         "author": "Owen Richard",
+        "title": "A history of British fossil mammals and birds",
         "placeOfPublication": "London",
         "publisher": "John Van Voorst",
         "dateOfPublication": "1846",
         "extent": "560 p.",
         "note": "Signature.",
-        "authorSurname": "Richard",
-        "authorName": "Owen"
+        "identifier": "Owen1846yu33N_MS",
+        "authorName": "Richard",
+        "authorSurname": "Owen"
     },
     {
-        "title": "A history of British fossil mammals and birds",
         "author": "Darwin Charles",
+        "title": "A history of British fossil mammals and birds",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Owen1846yu33N_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Owen1849br46D_MS",
-        "title": "On the nature of limbs",
         "author": "Owen Richard",
+        "title": "On the nature of limbs",
         "placeOfPublication": "London",
         "publisher": "John Van Voorst",
         "dateOfPublication": "1849",
         "extent": "122 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Richard",
-        "authorName": "Owen"
+        "identifier": "Owen1849br46D_MS",
+        "authorName": "Richard",
+        "authorSurname": "Owen"
     },
     {
-        "title": "On the nature of limbs",
         "author": "Darwin Charles",
+        "title": "On the nature of limbs",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Owen1849br46D_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Owen1849rh92I_MS",
-        "title": "On parthenogenesis",
         "author": "Owen Richard",
+        "title": "On parthenogenesis",
         "placeOfPublication": "London",
         "publisher": "John Van Voorst",
         "dateOfPublication": "1849",
         "extent": "79 p.",
         "note": "Inscription.",
-        "authorSurname": "Richard",
-        "authorName": "Owen"
+        "identifier": "Owen1849rh92I_MS",
+        "authorName": "Richard",
+        "authorSurname": "Owen"
     },
     {
-        "title": "On parthenogenesis",
         "author": "Darwin Charles",
+        "title": "On parthenogenesis",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Owen1849rh92I_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Palm1827qc12D_MS",
-        "title": "\u00fcber das Winden der Pflanzen",
         "author": "Palm Ludwig Heinrich",
+        "title": "\u00fcber das Winden der Pflanzen",
         "placeOfPublication": "T\u00fcbingen",
         "publisher": "C Richter",
         "dateOfPublication": "1827",
         "extent": "114 p.",
         "note": "Pre-Beagle.",
-        "authorSurname": "Ludwig Heinrich",
-        "authorName": "Palm"
+        "identifier": "Palm1827qc12D_MS",
+        "authorName": "Ludwig Heinrich",
+        "authorSurname": "Palm"
     },
     {
-        "title": "\u00fcber das Winden der Pflanzen",
         "author": "Darwin Charles",
+        "title": "\u00fcber das Winden der Pflanzen",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Palm1827qc12D_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "Physiological Lectures exhibiting a general view of Mr Hunters Physiology and of his researches in Comparative Anatomy",
         "author": "Abernethy John",
+        "title": "Physiological Lectures exhibiting a general view of Mr Hunters Physiology and of his researches in Comparative Anatomy",
+        "edition": "2nd ed.",
         "placeOfPublication": "London",
         "publisher": "printed for Longman Hurst Rees Orme and Brown",
         "dateOfPublication": "1822",
-        "edition": "2nd ed.",
         "extent": "352 p. ;",
         "dimensions": "22 cm.",
-        "authorSurname": "John",
-        "authorName": "Abernethy"
+        "authorName": "John",
+        "authorSurname": "Abernethy"
     },
     {
-        "identifier": "Piderit1867fn81L_MS",
-        "title": "Wissenschaftliches System der Mimik und Physiognomik",
         "author": "Piderit T",
+        "title": "Wissenschaftliches System der Mimik und Physiognomik",
         "placeOfPublication": "Detmold",
         "publisher": "Klingenberg",
         "dateOfPublication": "1867",
         "extent": "314 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "T",
-        "authorName": "Piderit"
+        "identifier": "Piderit1867fn81L_MS",
+        "authorName": "T",
+        "authorSurname": "Piderit"
     },
     {
+        "author": "Darwin Charles",
         "title": "Wissenschaftliches System der Mimik und Physiognomik",
-        "author": "Darwin Charles",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Piderit1867fn81L_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Prichard1836as83G_MS",
-        "title": "Researches into the physical history of mankind",
         "author": "Prichard James Cowles",
+        "title": "Researches into the physical history of mankind",
+        "edition": "3rd ed.",
         "placeOfPublication": "London",
         "publisher": "Sherwood Gilbert  Piper",
         "dateOfPublication": "1836",
-        "edition": "3rd ed.",
         "extent": "2 vols.",
         "note": "Location: Cambridge.",
-        "authorSurname": "James Cowles",
-        "authorName": "Prichard"
-    },
-    {
-        "title": "Researches into the physical history of mankind",
-        "author": "Darwin Charles",
-        "note": "Identifier: Prichard1836as83G_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Prichard1836as83G_MS",
+        "authorName": "James Cowles",
+        "authorSurname": "Prichard"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "Researches into the physical history of mankind",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Prichard1836as83G_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "Prichard James Cowles",
+        "title": "Researches into the physical history of mankind",
+        "edition": "3rd ed.",
         "placeOfPublication": "London",
         "publisher": "Sherwood Gilbert  Piper",
         "dateOfPublication": "1836",
-        "edition": "3rd ed.",
         "extent": "2 vols.",
         "note": "Location: Cambridge.",
-        "authorSurname": "James Cowles",
-        "authorName": "Prichard"
+        "identifier": "Prichard1836as83G_MS",
+        "authorName": "James Cowles",
+        "authorSurname": "Prichard"
     },
     {
-        "title": "Researches into the physical history of mankind",
         "author": "Darwin Charles",
+        "title": "Researches into the physical history of mankind",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Prichard1836as83G_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Rengger1830pi19F_MS",
-        "title": "Naturgeschichte der Saeugethiere von Paraguay",
         "author": "Rengger Johann Rudolph",
+        "title": "Naturgeschichte der Saeugethiere von Paraguay",
         "placeOfPublication": "Basel",
         "publisher": "Schweighauser",
         "dateOfPublication": "1830",
         "extent": "410 p.",
         "note": "On Beagle.",
-        "authorSurname": "Johann Rudolph",
-        "authorName": "Rengger"
+        "identifier": "Rengger1830pi19F_MS",
+        "authorName": "Johann Rudolph",
+        "authorSurname": "Rengger"
     },
     {
-        "title": "Naturgeschichte der Saeugethiere von Paraguay",
         "author": "Darwin Charles",
+        "title": "Naturgeschichte der Saeugethiere von Paraguay",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Rengger1830pi19F_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Rudolphi1812tj58U_MS",
-        "title": "Beytr\u00e4ge zur Anthropologie und allgemeinen Naturgeschichte",
         "author": "Rudolphi Carl Asmund",
+        "title": "Beytr\u00e4ge zur Anthropologie und allgemeinen Naturgeschichte",
         "placeOfPublication": "Berlin",
         "publisher": "Haude  Speuer",
         "dateOfPublication": "1812",
         "extent": "189 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Carl Asmund",
-        "authorName": "Rudolphi"
+        "identifier": "Rudolphi1812tj58U_MS",
+        "authorName": "Carl Asmund",
+        "authorSurname": "Rudolphi"
     },
     {
-        "title": "Beytr\u00e4ge zur Anthropologie und allgemeinen Naturgeschichte",
         "author": "Darwin Charles",
+        "title": "Beytr\u00e4ge zur Anthropologie und allgemeinen Naturgeschichte",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Rudolphi1812tj58U_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Rutimeyer1861sk32Q_MS",
-        "title": "Die Fauna der Pfahlbauten der Schweiz",
         "author": "R\u00fctimeyer Ludwig",
+        "title": "Die Fauna der Pfahlbauten der Schweiz",
         "placeOfPublication": "Basel",
         "publisher": "Schweighauser",
         "dateOfPublication": "1861",
         "extent": "260 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Ludwig",
-        "authorName": "R\u00fctimeyer"
+        "identifier": "Rutimeyer1861sk32Q_MS",
+        "authorName": "Ludwig",
+        "authorSurname": "R\u00fctimeyer"
     },
     {
-        "title": "Die Fauna der Pfahlbauten der Schweiz",
         "author": "Darwin Charles",
+        "title": "Die Fauna der Pfahlbauten der Schweiz",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Rutimeyer1861sk32Q_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Sageret1826qj49W_MS",
-        "title": "M\u00e9moire sur les Cucurbitac\u00e9es",
         "author": "Sageret Michel",
+        "title": "M\u00e9moire sur les Cucurbitac\u00e9es",
         "placeOfPublication": "Paris",
         "publisher": "Huzard",
         "dateOfPublication": "1826",
         "extent": "118 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Michel",
-        "authorName": "Sageret"
+        "identifier": "Sageret1826qj49W_MS",
+        "authorName": "Michel",
+        "authorSurname": "Sageret"
     },
     {
-        "title": "M\u00e9moire sur les Cucurbitac\u00e9es",
         "author": "Darwin Charles",
+        "title": "M\u00e9moire sur les Cucurbitac\u00e9es",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Sageret1826qj49W_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Sageret1830bx94H_MS",
-        "title": "Pomologie physiologique",
         "author": "Sageret Michel",
+        "title": "Pomologie physiologique",
         "placeOfPublication": "Paris",
         "publisher": "Hizard",
         "dateOfPublication": "1830",
         "extent": "588 p.",
         "note": "On Beagle.",
-        "authorSurname": "Michel",
-        "authorName": "Sageret"
+        "identifier": "Sageret1830bx94H_MS",
+        "authorName": "Michel",
+        "authorSurname": "Sageret"
     },
     {
-        "title": "Pomologie physiologique",
         "author": "Darwin Charles",
+        "title": "Pomologie physiologique",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Sageret1830bx94H_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Saint-Hilaire1841nk89L_MS",
-        "title": "Le\u00e7ons de botanique",
         "author": "SaintHilaire Auguste de",
+        "title": "Le\u00e7ons de botanique",
         "placeOfPublication": "Paris",
         "publisher": "PJ Loss",
         "dateOfPublication": "1841",
         "extent": "962 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Auguste de",
-        "authorName": "Saint-Hilaire"
+        "identifier": "Saint-Hilaire1841nk89L_MS",
+        "authorName": "Auguste de",
+        "authorSurname": "Saint-Hilaire"
     },
     {
-        "title": "Le\u00e7ons de botanique",
         "author": "Darwin Charles",
+        "title": "Le\u00e7ons de botanique",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Saint-Hilaire1841nk89L_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Schlegel1843wf67J_MS",
-        "title": "Essay on the physiognomy of serpents",
         "author": "Schlegel Hermann",
+        "title": "Essay on the physiognomy of serpents",
         "placeOfPublication": "Edinburgh",
         "publisher": "Maclachlan Stewart  Co",
         "dateOfPublication": "1843",
         "extent": "266 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Hermann",
-        "authorName": "Schlegel"
+        "identifier": "Schlegel1843wf67J_MS",
+        "authorName": "Hermann",
+        "authorSurname": "Schlegel"
     },
     {
-        "title": "Essay on the physiognomy of serpents",
         "author": "Darwin Charles",
+        "title": "Essay on the physiognomy of serpents",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Schlegel1843wf67J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "Report on the experimental culture of the opium poppy",
         "author": "Scott John",
+        "title": "Report on the experimental culture of the opium poppy",
         "placeOfPublication": "Calcutta",
         "publisher": "Bengal Secretariat Press",
         "dateOfPublication": "1874",
         "extent": "72 p.",
         "note": "Inscription.",
-        "authorSurname": "John",
-        "authorName": "Scott"
+        "authorName": "John",
+        "authorSurname": "Scott"
     },
     {
-        "identifier": "Scott1878nm85C_MS",
-        "title": "Report on the experimental culture of the opium poppy for the season 187778",
         "author": "Scott John",
+        "title": "Report on the experimental culture of the opium poppy for the season 187778",
         "placeOfPublication": "Calcutta",
         "publisher": "Bengal Secretariat Press",
         "dateOfPublication": "1878",
         "extent": "53 p.",
         "note": "Inscription.",
-        "authorSurname": "John",
-        "authorName": "Scott"
+        "identifier": "Scott1878nm85C_MS",
+        "authorName": "John",
+        "authorSurname": "Scott"
     },
     {
-        "title": "Seasons with the SeaHorses",
         "author": "Lamont James",
+        "title": "Seasons with the SeaHorses",
+        "subtitle": "or, sporting adventures in the northern seas.",
         "placeOfPublication": "London,",
         "dateOfPublication": "1861.",
         "extent": "xii, 312p :",
         "physicalDetails": "7 pls, 1 map",
-        "authorSurname": "James",
-        "authorName": "Lamont"
+        "authorName": "James",
+        "authorSurname": "Lamont"
     },
     {
-        "title": "A selection of the Geological Memoirs contained in the Annales des Mines",
         "author": "De la Beche Henry Thomas",
+        "title": "A selection of the Geological Memoirs contained in the Annales des Mines",
         "placeOfPublication": "London,",
         "dateOfPublication": "1824.",
         "extent": "xxii, 335p : maps ;",
         "dimensions": "8",
-        "authorSurname": "Henry Thomas",
-        "authorName": "De la Beche"
+        "authorName": "Henry Thomas",
+        "authorSurname": "De la Beche"
     },
     {
-        "identifier": "Smith1839hr25D_MS",
-        "title": "Dogs",
         "author": "Smith Charles Hamilton",
+        "title": "Dogs",
         "placeOfPublication": "Edinburgh",
         "publisher": "WH Lizars",
         "dateOfPublication": "18391840",
         "extent": "Mammalia vols 9-10",
         "note": "Location: Cambridge.",
-        "authorSurname": "Charles Hamilton",
-        "authorName": "Smith"
-    },
-    {
-        "title": "Dogs",
-        "author": "Darwin Charles",
-        "note": "Identifier: Smith1839hr25D_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
-    },
-    {
         "identifier": "Smith1839hr25D_MS",
+        "authorName": "Charles Hamilton",
+        "authorSurname": "Smith"
+    },
+    {
+        "author": "Darwin Charles",
         "title": "Dogs",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
+        "note": "Identifier: Smith1839hr25D_MS.",
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
+    },
+    {
         "author": "Smith Charles Hamilton",
+        "title": "Dogs",
         "placeOfPublication": "Edinburgh",
         "publisher": "WH Lizars",
         "dateOfPublication": "18391840",
         "extent": "Mammalia vols 9-10",
         "note": "Location: Cambridge.",
-        "authorSurname": "Charles Hamilton",
-        "authorName": "Smith"
+        "identifier": "Smith1839hr25D_MS",
+        "authorName": "Charles Hamilton",
+        "authorSurname": "Smith"
     },
     {
-        "title": "Dogs",
         "author": "Darwin Charles",
+        "title": "Dogs",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Smith1839hr25D_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Smith1841jg65P_MS",
+        "author": "Smith Charles Hamilton",
         "title": "Horses",
-        "author": "Smith Charles Hamilton",
         "placeOfPublication": "Edinburgh",
         "publisher": "WH Lizars",
         "dateOfPublication": "1841",
         "extent": "Mammalia vol 12",
         "series": "Naturalist's Library.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Charles Hamilton",
-        "authorName": "Smith"
+        "identifier": "Smith1841jg65P_MS",
+        "authorName": "Charles Hamilton",
+        "authorSurname": "Smith"
     },
     {
-        "title": "Horses",
         "author": "Darwin Charles",
+        "title": "Horses",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Smith1841jg65P_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Sprengel1793fs85V_MS",
-        "title": "Das entdeckte Geheimnis der Natur im Bau und in der Befruchtung der Blumen",
         "author": "Sprengel Christian Konrad",
+        "title": "Das entdeckte Geheimnis der Natur im Bau und in der Befruchtung der Blumen",
         "placeOfPublication": "Berlin",
         "publisher": "F Vieweg",
         "dateOfPublication": "1793",
         "extent": "474 p.",
         "note": "Pre-Beagle.",
-        "authorSurname": "Christian Konrad",
-        "authorName": "Sprengel"
+        "identifier": "Sprengel1793fs85V_MS",
+        "authorName": "Christian Konrad",
+        "authorSurname": "Sprengel"
     },
     {
-        "title": "Das entdeckte Geheimnis der Natur im Bau und in der Befruchtung der Blumen",
         "author": "Darwin Charles",
+        "title": "Das entdeckte Geheimnis der Natur im Bau und in der Befruchtung der Blumen",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Sprengel1793fs85V_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "Illustrations of British entomology",
         "author": "Stephens James Francis",
+        "title": "Illustrations of British entomology",
         "placeOfPublication": "London",
         "publisher": "Baldwin  Cradock",
         "dateOfPublication": "18281829",
         "extent": "2 vols.",
         "note": "On Beagle.",
-        "authorSurname": "James Francis",
-        "authorName": "Stephens"
+        "authorName": "James Francis",
+        "authorSurname": "Stephens"
     },
     {
-        "identifier": "Sturm1825cj97F_MS",
-        "title": "\u00fcber Ra\u00e7en der landwirthschaftlichen Hausthiere",
         "author": "Sturm Carl Christoph Gottlieb",
+        "title": "\u00fcber Ra\u00e7en der landwirthschaftlichen Hausthiere",
         "placeOfPublication": "Ebberfeld",
         "publisher": "B\u00fcscher",
         "dateOfPublication": "1825",
         "extent": "166 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Carl Christoph Gottlieb",
-        "authorName": "Sturm"
+        "identifier": "Sturm1825cj97F_MS",
+        "authorName": "Carl Christoph Gottlieb",
+        "authorSurname": "Sturm"
     },
     {
-        "title": "\u00fcber Ra\u00e7en der landwirthschaftlichen Hausthiere",
         "author": "Darwin Charles",
+        "title": "\u00fcber Ra\u00e7en der landwirthschaftlichen Hausthiere",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Sturm1825cj97F_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Tegetmeier1854kr04O_MS",
-        "title": "Profitable poultry",
         "author": "Tegetmeier William Bernhard",
+        "title": "Profitable poultry",
         "placeOfPublication": "London",
         "publisher": "Darton  Co",
         "dateOfPublication": "1854",
         "extent": "54 p.",
         "note": "Inscription.",
-        "authorSurname": "William Bernhard",
-        "authorName": "Tegetmeier"
+        "identifier": "Tegetmeier1854kr04O_MS",
+        "authorName": "William Bernhard",
+        "authorSurname": "Tegetmeier"
     },
     {
-        "title": "Profitable poultry",
         "author": "Darwin Charles",
+        "title": "Profitable poultry",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Tegetmeier1854kr04O_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Tegetmeier1856pd44C_MS",
-        "title": "The poultry book",
         "author": "Tegetmeier William Bernhard",
+        "title": "The poultry book",
         "placeOfPublication": "London",
         "publisher": "Orr  Co",
         "dateOfPublication": "18561857",
         "extent": "209 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "William Bernhard",
-        "authorName": "Tegetmeier"
+        "identifier": "Tegetmeier1856pd44C_MS",
+        "authorName": "William Bernhard",
+        "authorSurname": "Tegetmeier"
     },
     {
-        "title": "The poultry book",
         "author": "Darwin Charles",
+        "title": "The poultry book",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Tegetmeier1856pd44C_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Veith1856hq20T_MS",
-        "title": "Die Naturgeschichte der nutzbaren Hauss\u00e4ugethiere",
         "author": "Veith Johann E",
+        "title": "Die Naturgeschichte der nutzbaren Hauss\u00e4ugethiere",
         "placeOfPublication": "Wien",
         "publisher": "W Braum\u00fcller",
         "dateOfPublication": "1856",
         "extent": "91 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Johann E",
-        "authorName": "Veith"
+        "identifier": "Veith1856hq20T_MS",
+        "authorName": "Johann E",
+        "authorSurname": "Veith"
     },
     {
-        "identifier": "Verlot1865ss46T_MS",
-        "title": "Sur la production et la fixation des vari\u00e9t\u00e9s dans les plantes dornement",
         "author": "Verlot JeanBaptiste",
+        "title": "Sur la production et la fixation des vari\u00e9t\u00e9s dans les plantes dornement",
         "placeOfPublication": "Paris",
         "publisher": "JB Bailli\u00e8re",
         "dateOfPublication": "1865",
         "extent": "102 p.",
         "note": "Inscription.",
-        "authorSurname": "Jean-Baptiste",
-        "authorName": "Verlot"
+        "identifier": "Verlot1865ss46T_MS",
+        "authorName": "Jean-Baptiste",
+        "authorSurname": "Verlot"
     },
     {
-        "title": "Sur la production et la fixation des vari\u00e9t\u00e9s dans les plantes dornement",
         "author": "Darwin Charles",
+        "title": "Sur la production et la fixation des vari\u00e9t\u00e9s dans les plantes dornement",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Verlot1865ss46T_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "The Voyage of the Fox in the Arctic Seas",
         "author": "McClintock Francis Leopold",
+        "title": "The Voyage of the Fox in the Arctic Seas",
+        "subtitle": "a narrative of the discovery of the fate of Sir J. Franklin and his Companions.",
         "placeOfPublication": "London",
         "publisher": "John Murray",
         "dateOfPublication": "1859",
         "extent": "xxvii, 403p :",
         "physicalDetails": "16 pls, 3 maps, text ill ;",
         "dimensions": "8",
-        "authorSurname": "Francis Leopold",
-        "authorName": "McClintock"
+        "authorName": "Francis Leopold",
+        "authorSurname": "McClintock"
     },
     {
-        "identifier": "Wagner1845wc82F_MS",
-        "title": "Elements of the comparative anatomy of the vertebrate animals",
         "author": "Wagner Rudolf",
+        "title": "Elements of the comparative anatomy of the vertebrate animals",
         "placeOfPublication": "London",
         "publisher": "Longman Brown Green  Longman",
         "dateOfPublication": "1845",
         "extent": "277 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Rudolf",
-        "authorName": "Wagner"
+        "identifier": "Wagner1845wc82F_MS",
+        "authorName": "Rudolf",
+        "authorSurname": "Wagner"
     },
     {
-        "title": "Elements of the comparative anatomy of the vertebrate animals",
         "author": "Darwin Charles",
+        "title": "Elements of the comparative anatomy of the vertebrate animals",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Wagner1845wc82F_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Walker1838bp62N_MS",
-        "title": "Intermarriage",
         "author": "Walker Alexander",
+        "title": "Intermarriage",
         "placeOfPublication": "London",
         "publisher": "Churchill",
         "dateOfPublication": "1838",
         "extent": "442 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "Alexander",
-        "authorName": "Walker"
+        "identifier": "Walker1838bp62N_MS",
+        "authorName": "Alexander",
+        "authorSurname": "Walker"
     },
     {
-        "title": "Intermarriage",
         "author": "Darwin Charles",
+        "title": "Intermarriage",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Walker1838bp62N_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Walther2006yw40H_MS",
-        "title": "Der Hund",
         "author": "Walther Friedrich L",
+        "title": "Der Hund",
         "placeOfPublication": "Giessen",
         "publisher": "GF Heker",
         "dateOfPublication": "nd",
         "extent": "98 p.",
         "note": "Pre-Beagle.",
-        "authorSurname": "Friedrich L",
-        "authorName": "Walther"
+        "identifier": "Walther2006yw40H_MS",
+        "authorName": "Friedrich L",
+        "authorSurname": "Walther"
     },
     {
-        "title": "Der Hund",
         "author": "Darwin Charles",
+        "title": "Der Hund",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Walther2006yw40H_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Weber1850ka76M_MS",
-        "title": "Der Taubenfreund",
         "author": "Weber DA",
+        "title": "Der Taubenfreund",
         "placeOfPublication": "Leipzig",
         "publisher": "G Basse",
         "dateOfPublication": "1850",
         "extent": "50 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "D.A",
-        "authorName": "Weber"
+        "identifier": "Weber1850ka76M_MS",
+        "authorName": "D.A",
+        "authorSurname": "Weber"
     },
     {
-        "title": "Der Taubenfreund",
         "author": "Darwin Charles",
+        "title": "Der Taubenfreund",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Weber1850ka76M_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Weismann1868nz78K_MS",
-        "title": "\u00fcber die Berechtigung der Darwinschen Theorie",
         "author": "Weismann August",
+        "title": "\u00fcber die Berechtigung der Darwinschen Theorie",
         "placeOfPublication": "Leipzig",
         "publisher": "W Engelmann",
         "dateOfPublication": "1868",
         "extent": "43 p.",
         "note": "Inscription.",
-        "authorSurname": "August",
-        "authorName": "Weismann"
+        "identifier": "Weismann1868nz78K_MS",
+        "authorName": "August",
+        "authorSurname": "Weismann"
     },
     {
-        "identifier": "Weismann1872ix35P_MS",
-        "title": "\u00fcber den Einfluss der Isolirung auf die Artbildung",
         "author": "Weismann August",
+        "title": "\u00fcber den Einfluss der Isolirung auf die Artbildung",
         "placeOfPublication": "Leipzig",
         "publisher": "W Engelmann",
         "dateOfPublication": "1872",
         "extent": "117 p.",
         "note": "Inscription.",
-        "authorSurname": "August",
-        "authorName": "Weismann"
+        "identifier": "Weismann1872ix35P_MS",
+        "authorName": "August",
+        "authorSurname": "Weismann"
     },
     {
-        "title": "\u00fcber den Einfluss der Isolirung auf die Artbildung",
         "author": "Darwin Charles",
+        "title": "\u00fcber den Einfluss der Isolirung auf die Artbildung",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Weismann1872ix35P_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "Studien zur Descendenztheorie I",
         "author": "Weismann August",
+        "title": "Studien zur Descendenztheorie I",
         "placeOfPublication": "Leipzig",
         "publisher": "Engelmann",
         "dateOfPublication": "1875",
         "extent": "112 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "August",
-        "authorName": "Weismann"
+        "authorName": "August",
+        "authorSurname": "Weismann"
     },
     {
-        "identifier": "Weismann1876sc87J_MS",
-        "title": "Studien zur Descendenztheorie II \u00fcber die letzen Ursachen der Transmutationen",
         "author": "Weismann August",
+        "title": "Studien zur Descendenztheorie II \u00fcber die letzen Ursachen der Transmutationen",
         "placeOfPublication": "Leipzig",
         "publisher": "W Engelmann",
         "dateOfPublication": "1876",
         "extent": "466 p.",
         "note": "Inscription.",
-        "authorSurname": "August",
-        "authorName": "Weismann"
+        "identifier": "Weismann1876sc87J_MS",
+        "authorName": "August",
+        "authorSurname": "Weismann"
     },
     {
-        "title": "Studien zur Descendenztheorie II \u00fcber die letzen Ursachen der Transmutationen",
         "author": "Darwin Charles",
+        "title": "Studien zur Descendenztheorie II \u00fcber die letzen Ursachen der Transmutationen",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Weismann1876sc87J_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Wichura1865se59X_MS",
-        "title": "Die Bastardbefruchtung im Pflanzenreich",
         "author": "Wichura Max",
+        "title": "Die Bastardbefruchtung im Pflanzenreich",
         "placeOfPublication": "Breslau",
         "publisher": "E Margenstern",
         "dateOfPublication": "1865",
         "extent": "99 p.",
         "note": "Inscription.",
-        "authorSurname": "Max",
-        "authorName": "Wichura"
+        "identifier": "Wichura1865se59X_MS",
+        "authorName": "Max",
+        "authorSurname": "Wichura"
     },
     {
-        "title": "Die Bastardbefruchtung im Pflanzenreich",
         "author": "Darwin Charles",
+        "title": "Die Bastardbefruchtung im Pflanzenreich",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Wichura1865se59X_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Wollaston1856zn87O_MS",
-        "title": "On the variation of species",
         "author": "Wollaston Thomas Vernon",
+        "title": "On the variation of species",
         "placeOfPublication": "London",
         "publisher": "John Van Voorst",
         "dateOfPublication": "1856",
         "extent": "212 p.",
         "note": "Inscription.",
-        "authorSurname": "Thomas Vernon",
-        "authorName": "Wollaston"
+        "identifier": "Wollaston1856zn87O_MS",
+        "authorName": "Thomas Vernon",
+        "authorSurname": "Wollaston"
     },
     {
-        "title": "On the variation of species",
         "author": "Darwin Charles",
+        "title": "On the variation of species",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Wollaston1856zn87O_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "title": "A history of British birds",
         "author": "Yarrell William",
+        "title": "A history of British birds",
         "placeOfPublication": "London",
         "publisher": "John Van Voorst",
         "dateOfPublication": "1839",
         "extent": "vol. 1",
         "note": "Inscription 14 June 1839.",
-        "authorSurname": "William",
-        "authorName": "Yarrell"
+        "authorName": "William",
+        "authorSurname": "Yarrell"
     },
     {
-        "title": "A history of British birds",
         "author": "Darwin Charles",
+        "title": "A history of British birds",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Yarrell1839ky79A_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Youatt1834ip29P_MS",
-        "title": "Cattle Their breeds management and diseases",
         "author": "Youatt William",
+        "title": "Cattle Their breeds management and diseases",
         "placeOfPublication": "London",
         "publisher": "Baldwin  Cradock",
         "dateOfPublication": "1834",
         "extent": "608 p.",
         "note": "Signature.",
-        "authorSurname": "William",
-        "authorName": "Youatt"
+        "identifier": "Youatt1834ip29P_MS",
+        "authorName": "William",
+        "authorSurname": "Youatt"
     },
     {
-        "title": "Cattle Their breeds management and diseases",
         "author": "Darwin Charles",
+        "title": "Cattle Their breeds management and diseases",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Youatt1834ip29P_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Youatt1837zd27L_MS",
-        "title": "Sheep",
         "author": "Youatt William",
+        "title": "Sheep",
         "placeOfPublication": "London",
         "publisher": "Baldwin  Cradock",
         "dateOfPublication": "1837",
         "extent": "568 p.",
         "note": "Location: Cambridge.",
-        "authorSurname": "William",
-        "authorName": "Youatt"
+        "identifier": "Youatt1837zd27L_MS",
+        "authorName": "William",
+        "authorSurname": "Youatt"
     },
     {
-        "title": "Sheep",
         "author": "Darwin Charles",
+        "title": "Sheep",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Youatt1837zd27L_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     },
     {
-        "identifier": "Youatt1845wt42Y_MS",
-        "title": "The dog",
         "author": "Youatt William",
+        "title": "The dog",
         "placeOfPublication": "London",
         "publisher": "C Knight  Co",
         "dateOfPublication": "1845",
         "extent": "275 p.",
         "note": "Signature.",
-        "authorSurname": "William",
-        "authorName": "Youatt"
+        "identifier": "Youatt1845wt42Y_MS",
+        "authorName": "William",
+        "authorSurname": "Youatt"
     },
     {
-        "title": "The dog",
         "author": "Darwin Charles",
+        "title": "The dog",
+        "subtitle": "[Supplementary material in Charles Darwin's copy].",
         "note": "Identifier: Youatt1845wt42Y_MS.",
-        "authorSurname": "Charles",
-        "authorName": "Darwin"
+        "authorName": "Charles",
+        "authorSurname": "Darwin"
     }
 ]
