@@ -12,6 +12,7 @@ for obj in data:
                               obj.get('authorName'),
                               obj.get('authorSurname'),
                               obj.get('title'), 
+                              obj.get('subtitle'),
                               obj.get('placeOfPublication'), 
                               obj.get('publisher'), 
                               obj.get('dateOfPublication'), 

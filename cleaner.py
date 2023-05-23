@@ -24,6 +24,7 @@ def clean_text(text):
 for item in data:
     try:
         item["title"] = clean_text(item["title"])
+        item["subtitle"] = clean_text(item["subtitle"])
         item["authorName"] = split_author(item["author"])[0]
         item["authorSurname"] = split_author(item["author"])[1]
         item["author"] = clean_text(item["author"])
