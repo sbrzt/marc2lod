@@ -5,23 +5,21 @@ class BibliographicDataObject:
                  authorSurname="",
                  title="", 
                  subtitle="",
+                 responsibility="",
                  placeOfPublication="", 
                  publisher="",
                  dateOfPublication="",
-                 edition="",
-                 extent="",
-                 isbn=""):
+                 extent=""):
         self.author = author
         self.authorName = authorName
         self.authorSurname = authorSurname
         self.title = title
         self.subtitle = subtitle
+        self.responsibility = responsibility
         self.placeOfPublication = placeOfPublication
         self.publisher = publisher
         self.dateOfPublication = dateOfPublication
-        self.edition = edition
         self.extent = extent
-        self.isbn = isbn
 
     def printMLA(self):
         '''

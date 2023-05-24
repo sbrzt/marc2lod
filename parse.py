@@ -4,34 +4,20 @@ from pymarc import marcxml
 # Create error log
 error_log = codecs.open('parse-marc-error.log', 'w', encoding='utf-8')
 
-# Define the list of fields to extract
+# Define the list of fields to extract: field 100 (Main Entry Personal Name), 
+# 245 (Title Statement), 260 (Publication, Distribution, etc. (Imprint)), and 
+# 300 (Physical Description)
 fields_to_extract = [
     ('author', '100', 'a'),
     ('title', '245', 'a'),
     ('subtitle', '245', 'b'),
-    ('edition', '250', 'a'),
+    ('responsibility', '245', 'c'),
     ('placeOfPublication', '260', 'a'),
     ('publisher', '260', 'b'),
     ('dateOfPublication', '260', 'c'),
     ('extent', '300', 'a'),
     ('physicalDetails', '300', 'b'),
     ('dimensions', '300', 'c'),
-    ('publicationFrequency', '310', 'a'),
-    ('contentType', '336', 'a'),
-    ('mediaType', '337', 'a'),
-    ('medium', '340', 'a'),
-    ('accessibilityContent', '341', 'a'),
-    ('series', '490', 'a'),
-    ('note', '500', 'a'),
-    ('preferredCitation', '524', 'a'),
-    ('identifier', '770', 'o'),
-    ('isbn', '020', 'a'),
-    ('termsOfAvailability', '020', 'c'),
-    ('qualifyingInformation', '020', 'q'),
-    ('issn', '022', 'a'),
-    ('lcControlNumber', '010', 'a'),
-    ('holdingInstitution', '850', 'a'),
-    ('location', '852', 'a')
 ]
 
 # Prepare the list of dictionaries
@@ -58,7 +44,11 @@ for folder in os.listdir(folder_path):
                 # Get the Title and Author fields from the record
                 for field_name, field_label, subfield in fields_to_extract:
                     try:
+
+
                         value[field_name] = record[field_label][subfield]
+
+
                     except Exception as e:
                         error_log.write(f"Could not find {field_name}-{field_label}-{subfield} in {record} because of error: {e}\n")
                         print(f"Could not find {field_name}-{field_label}-{subfield} in {record} because of error: {e}\n")
