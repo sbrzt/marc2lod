@@ -4,22 +4,6 @@ import json, string, re
 with open("data.json", "r") as f:
     data = json.load(f)
 
-def split_author(author_str):
-    # Split the author string into name and surname parts
-    if "," in author_str:
-        surname, name = author_str.split(",", 1)
-        return name.strip().rstrip(string.punctuation), surname.strip().rstrip(string.punctuation)
-    else:
-        return "", author_str.strip()
-    
-# Clean the text data
-def clean_text(text):
-    # Remove any punctuation marks
-    cleaned_text = re.sub(r'[^\w\s]+(?<!&)+(?<!-)', '', text.rstrip())
-    # Remove any leading or trailing whitespaces
-    cleaned_text = cleaned_text.strip()
-    return cleaned_text
-
 # Process the data by cleaning the text fields
 for item in data:
     try:

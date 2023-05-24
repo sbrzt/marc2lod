@@ -1,8 +1,5 @@
-import os, json, codecs
+import os, json, string, re
 from pymarc import marcxml
-
-# Create error log
-error_log = codecs.open('parse-marc-error.log', 'w', encoding='utf-8')
 
 # Define the list of fields to extract: field 100 (Main Entry Personal Name), 
 # 245 (Title Statement), 260 (Publication, Distribution, etc. (Imprint)), and 
@@ -25,6 +22,24 @@ data = []
 
 # Define the path to the folder containing the MARCXML files
 folder_path = 'marc-files'
+
+'''
+def split_author(author_str):
+    # Split the author string into name and surname parts
+    if "," in author_str:
+        surname, name = author_str.split(",", 1)
+        return [name.strip().rstrip(string.punctuation), surname.strip().rstrip(string.punctuation)]
+    else:
+        return [author_str]
+'''
+    
+# Clean the text data
+def clean_text(text):
+    # Remove any punctuation marks
+    cleaned_text = re.sub(r'[^\w\s]+(?<!&)+(?<!-)', '', text.rstrip())
+    # Remove any leading or trailing whitespaces
+    cleaned_text = cleaned_text.strip()
+    return cleaned_text
 
 # Iterate over the folders in the specified folder
 for folder in os.listdir(folder_path):
@@ -50,8 +65,7 @@ for folder in os.listdir(folder_path):
 
 
                     except Exception as e:
-                        error_log.write(f"Could not find {field_name}-{field_label}-{subfield} in {record} because of error: {e}\n")
-                        print(f"Could not find {field_name}-{field_label}-{subfield} in {record} because of error: {e}\n")
+                        print(f"Could not find {field_name}-{field_label}-{subfield} in record")
                     else:
                         print(f"Parsing...")
 
