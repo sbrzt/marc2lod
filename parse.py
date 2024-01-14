@@ -8,13 +8,8 @@ fields_to_extract = [
     ('author', '100', 'a'),
     ('title', '245', 'a'),
     ('subtitle', '245', 'b'),
-    ('responsibility', '245', 'c'),
-    ('placeOfPublication', '260', 'a'),
     ('publisher', '260', 'b'),
     ('dateOfPublication', '260', 'c'),
-    ('extent', '300', 'a'),
-    ('physicalDetails', '300', 'b'),
-    ('dimensions', '300', 'c'),
 ]
 
 # Prepare the list of dictionaries
