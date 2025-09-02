@@ -1,0 +1,8 @@
+source_type: file
+source: data/sample.xml
+
+# Define the path where the raw files will be collected
+raw_data_path: data/raw
+
+# Define the path where the processed data will be collected
+processed_data_path: data/processed

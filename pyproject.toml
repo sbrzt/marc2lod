@@ -1,0 +1,14 @@
+[project]
+name = "marc-data-mining"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "internetarchive>=5.5.0",
+    "missingno>=0.5.2",
+    "pandas>=2.3.2",
+    "pyarrow>=21.0.0",
+    "pymarc>=5.3.1",
+    "pytest>=8.4.1",
+]
