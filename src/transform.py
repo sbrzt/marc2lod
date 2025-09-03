@@ -6,15 +6,6 @@ import pymarc
 
 
 def get_author(record):
-    '''
-    Get the "author" metadata from a MARCXML record.
-
-    Args:
-        record (file): a MARCXML file containing the metadata of a record.
-
-    Returns:
-        author (str): a string containing the name of the author extracted from the MARCXML file.
-    '''
     try:
         author = record['100']['a']
         return author
@@ -23,15 +14,6 @@ def get_author(record):
 
 
 def get_title(record):
-    '''
-    Get the "title" metadata from a MARCXML record.
-
-    Args:
-        record (file): a MARCXML file containing the metadata of a record.
-
-    Returns:
-        title (str): a string containing the title of the record extracted from the MARCXML file.
-    '''
     try:
         title = record['245']['a']
         return title
@@ -40,15 +22,6 @@ def get_title(record):
 
 
 def get_subtitle(record):
-    '''
-    Get the "subtitle" metadata from a MARCXML record.
-
-    Args:
-        record (file): a MARCXML file containing the metadata of a record.
-
-    Returns:
-        subtitle (str): a string containing the subtitle of the record extracted from the MARCXML file.
-    '''
     try:
         subtitle = record['245']['b']
         return subtitle
@@ -57,15 +30,6 @@ def get_subtitle(record):
 
 
 def get_pub_place(record):
-    '''
-    Get the "publication place" metadata from a MARCXML record.
-
-    Args:
-        record (file): a MARCXML file containing the metadata of a record.
-
-    Returns:
-        pub_place (str): a string containing the name of the publication place extracted from the MARCXML file.
-    '''
     try:
         pub_place = record['260']['a']
         return pub_place
@@ -74,15 +38,6 @@ def get_pub_place(record):
 
 
 def get_publisher(record):
-    '''
-    Get the "publisher" metadata from a MARCXML record.
-
-    Args:
-        record (file): a MARCXML file containing the metadata of a record.
-
-    Returns:
-        publisher (str): a string containing the name of the publisher extracted from the MARCXML file.
-    '''
     try:
         publisher = record['260']['b']
         return publisher
@@ -91,15 +46,6 @@ def get_publisher(record):
 
 
 def get_pub_date(record):
-    '''
-    Get the "publication date" metadata from a MARCXML record.
-
-    Args:
-        record (file): a MARCXML file containing the metadata of a record.
-
-    Returns:
-        pub_date (str): a string containing the publication date extracted from the MARCXML file.
-    '''
     try:
         pub_date = record['260']['c']
         return pub_date
@@ -108,15 +54,6 @@ def get_pub_date(record):
 
 
 def get_note(record):
-    '''
-    Get the "note" metadata from a MARCXML record.
-
-    Args:
-        record (file): a MARCXML file containing the metadata of a record.
-
-    Returns:
-        notes (list): a list of strings containing notes extracted from the MARCXML file.
-    '''
     try:
         notes = [note['a'] for note in record.get_fields('500')]
         return notes
@@ -125,15 +62,6 @@ def get_note(record):
 
 
 def get_ident(lst):
-    '''
-    Get the "identifier" metadata from a MARCXML record.
-
-    Args:
-        record (file): a MARCXML file containing the metadata of a record.
-
-    Returns:
-        ident (str): a string containing the identifier extracted from the MARCXML file.
-    '''
     try:
         for strng in lst:
             if strng.startswith('Identifier'):
@@ -144,15 +72,6 @@ def get_ident(lst):
 
 
 def get_alt_ident(lst):
-    '''
-    Get alternative identifier metadata from a MARCXML record.
-
-    Args:
-        record (file): a MARCXML file containing the metadata of a record.
-
-    Returns:
-        ident (str): a string containing an alternative identifier extracted from the MARCXML file.
-    '''
     try:
         for strng in lst:
             if strng.startswith('Public number: '):
@@ -163,15 +82,6 @@ def get_alt_ident(lst):
 
 
 def get_supp_material(record):
-    '''
-    Get the "supplement special issue entry" metadata from a MARCXML record.
-
-    Args:
-        record (file): a MARCXML file containing the metadata of a record.
-
-    Returns:
-        supp_material (str): a string containing the identifier of the supplement special issue entry extracted from the MARCXML file.
-    '''
     try:
         supp_material = record['770']['o']
         return supp_material
@@ -180,15 +90,6 @@ def get_supp_material(record):
 
 
 def get_supp_parent(record):
-    '''
-    Get the "supplement parent entry" metadata from a MARCXML record.
-
-    Args:
-        record (file): a MARCXML file containing the metadata of a record.
-
-    Returns:
-        supp_parent (str): a string containing the identifier of the supplement parent entry extracted from the MARCXML file.
-    '''
     try:
         supp_parent = record['772']['o']
         return supp_parent
