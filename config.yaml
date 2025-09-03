@@ -6,3 +6,15 @@ raw_data_path: data/raw
 
 # Define the path where the processed data will be collected
 processed_data_path: data/processed
+
+# Fields
+fields:
+  ID: 001
+  AUTHOR: 100$a
+  TITLE: 245$a
+  SUBTITLE: 245$b
+  PUB_PLACE: 260$a
+  PUBLISHER: 260$b
+  PUB_DATE: 260$c
+  NOTE: 500$a
+  ALT_ID: 035$a

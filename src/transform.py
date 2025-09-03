@@ -3,6 +3,7 @@
 import os
 import pandas as pd
 import pymarc
+import yaml
 
 
 def get_author(record):
