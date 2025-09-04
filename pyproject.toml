@@ -11,4 +11,5 @@ dependencies = [
     "pyarrow>=21.0.0",
     "pymarc>=5.3.1",
     "pytest>=8.4.1",
+    "pyyaml>=6.0.2",
 ]

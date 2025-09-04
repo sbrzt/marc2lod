@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <collection xmlns="http://www.loc.gov/MARC21/slim">
   <record>
-    <leader>00000nam a2200000 a 4500</leader>
     <controlfield tag="001">12345</controlfield>
-    <datafield tag="245" ind1="1" ind2="0">
-      <subfield code="a">Test title :</subfield>
-      <subfield code="b">subtitle</subfield>
-    </datafield>
     <datafield tag="100" ind1="1" ind2=" ">
-      <subfield code="a">Doe, John</subfield>
+      <subfield code="a">Charles Darwin</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">On the Origin of Species</subfield>
+      <subfield code="b">by Means of Natural Selection</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">London</subfield>
+      <subfield code="b">John Murray</subfield>
+      <subfield code="c">1859</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">First edition</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">ALT-999</subfield>
     </datafield>
   </record>
 </collection>

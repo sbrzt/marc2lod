@@ -9,12 +9,30 @@ processed_data_path: data/processed
 
 # Fields
 fields:
-  ID: 001
-  AUTHOR: 100$a
-  TITLE: 245$a
-  SUBTITLE: 245$b
-  PUB_PLACE: 260$a
-  PUBLISHER: 260$b
-  PUB_DATE: 260$c
-  NOTE: 500$a
-  ALT_ID: 035$a
+  ID: 
+    tag: "001"
+    code: ""
+  AUTHOR:
+    tag: "100"
+    code: "a"
+  TITLE:
+    tag: "245"
+    code: "a"
+  SUBTITLE:
+    tag: "245"
+    code: "b"
+  PUB_PLACE: 
+    tag: "260"
+    code: "a"
+  PUBLISHER: 
+    tag: "260"
+    code: "b"
+  PUB_DATE: 
+    tag: "260"
+    code: "c"
+  NOTE: 
+    tag: "500"
+    code: "a"
+  ALT_ID: 
+    tag: "035"
+    code: "a"
