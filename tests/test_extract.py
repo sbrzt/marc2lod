@@ -15,5 +15,5 @@ def test_extract_from_string():
     xml_str = open(FIXTURE_FILE).read()
     records = extract_records(xml_str, source_type="string")
     assert len(records) == 1
-    assert records[0]["100"]["a"] == "Charles Darwin"
+    assert records[0]["100"]["a"] == "Charles Darwin."
 

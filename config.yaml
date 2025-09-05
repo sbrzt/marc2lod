@@ -15,9 +15,15 @@ fields:
   AUTHOR:
     tag: "100"
     code: "a"
+    cleaning:
+      - strip_whitespace
+      - clean_trailing_punctuation
   TITLE:
     tag: "245"
     code: "a"
+    cleaning:
+      - strip_whitespace
+      - clean_trailing_punctuation
   SUBTITLE:
     tag: "245"
     code: "b"
@@ -30,6 +36,8 @@ fields:
   PUB_DATE: 
     tag: "260"
     code: "c"
+    cleaning:
+      - normalize_year
   NOTE: 
     tag: "500"
     code: "a"

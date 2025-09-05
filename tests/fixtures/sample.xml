@@ -3,7 +3,7 @@
   <record>
     <controlfield tag="001">12345</controlfield>
     <datafield tag="100" ind1="1" ind2=" ">
-      <subfield code="a">Charles Darwin</subfield>
+      <subfield code="a">Charles Darwin.</subfield>
     </datafield>
     <datafield tag="245" ind1="1" ind2="0">
       <subfield code="a">On the Origin of Species</subfield>

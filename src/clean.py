@@ -2,79 +2,60 @@
 
 import pandas as pd
 import re
+from typing import Callable, Dict, List
 
 
-def clean_trailing_punctuation(value):
-    '''
-    Clean trailing punctuation from each value in a DataFrame.
+def clean_trailing_punctuation(value: str) -> str:
+    if pd.isna(value):
+        return value
+    return re.sub(r'[.,!\[\]?:;]+$', '', str(value)).strip()
 
-    Args:
-        value (str): a string value contained in a DataFrame cell.
+def normalize_missing_value(value: str) -> str:
+    if pd.isna(value):
+        return value
+    return re.sub(r'\[s\.n\.\]|\[s\.l\.\]|n\.d\.', '', str(value)).strip() or None
 
-    Returns:
-        value (str): a string containing the value cleaned from any existing trailing punctuation.
-    '''
-    try:
-        value = re.sub(r'^[.,!\[\]?:;]|[.,!\[\]?:;]$', '', value)
-        value = value.strip()
-    except:
-        None
+def strip_whitespace(value):
+    if pd.isna(value): 
+        return value
+    return re.sub(r'\s+', ' ', str(value)).strip()
+
+def normalize_unicode(value):
+    if pd.isna(value): 
+        return value
+    return unicodedata.normalize("NFKC", str(value))
+
+def remove_brackets(value):
+    if pd.isna(value): 
+        return value
+    return re.sub(r'^\[|\]$', '', str(value))
+
+def normalize_year(value):
+    if pd.isna(value): 
+        return value
+    match = re.search(r'(\d{4})', str(value))
+    return match.group(1) if match else value
+
+def to_lowercase(value):
+    if pd.isna(value): 
+        return value
+    return str(value).lower()
+
+def replace_empty_with_none(value):
+    if pd.isna(value): 
+        return None
+    if str(value).strip() == "":
+        return None
     return value
 
 
-def normalize_missing_value(value):
-    '''
-    Normalizes a missing value in a DataFrame into a None value.
-
-    Args:
-        value (str): a string value contained in a DataFrame cell.
-
-    Returns:
-        value (str): a string containing a None value if the input value contains "[s.n.]" or "n.d.".
-    '''
-    try:
-        value = re.sub(r'\[s.n.\]|n.d.', 'NaN', value)
-    except:
-        None
-    return value
-
-
-def remove_additional_date(value):
-    '''
-    Normalizes a time period by considering only the start date.
-
-    Args:
-        value (str): a string value contained in a DataFrame cell.
-
-    Returns:
-        value (str): a string containing only a date.
-    '''
-    try:
-        value_split = value.split('-')
-        value = value_split[0]
-    except:
-        None
-    return value
-
-
-def apply_functions(
-    df: pd.DataFrame
-    ) -> pd.DataFrame:
-    columns_to_clean = [
-        'ID', 
-        'ALT_ID', 
-        'TITLE', 
-        'NOTE', 
-        'AUTHOR', 
-        'PUBLISHER', 
-        'PUB_PLACE', 
-        'PUB_DATE'
-    ]
-    columns_to_normalize = ['PUB_PLACE', 'PUBLISHER', 'PUB_DATE']
-    columns_to_remove_date = ['PUB_DATE']
-
-    df[columns_to_clean] = df[columns_to_clean].map(clean_trailing_punctuation)
-    df[columns_to_normalize] = df[columns_to_normalize].map(normalize_missing_value)
-    df[columns_to_remove_date] = df[columns_to_remove_date].map(remove_additional_date)
-
-    return df
+CLEANING_FUNCTIONS: Dict[str, Callable] = {
+    "strip_whitespace": strip_whitespace,
+    "to_lowercase": to_lowercase,
+    "normalize_unicode": normalize_unicode,
+    "remove_brackets": remove_brackets,
+    "clean_trailing_punctuation": clean_trailing_punctuation,
+    "normalize_missing_value": normalize_missing_value,
+    "replace_empty_with_none": replace_empty_with_none,
+    "normalize_year": normalize_year,
+}

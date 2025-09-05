@@ -5,6 +5,7 @@ from pymarc import marcxml
 from typing import Union, Dict, Any, List
 import io
 import sys
+from src.clean import CLEANING_FUNCTIONS
 
 
 def extract_field(
@@ -13,16 +14,17 @@ def extract_field(
     ) -> List[str]:
     
     tag = str(spec.get("tag"))
-    code = str(spec.get("code"))
-
+    code = str(spec.get("code", None))
     values = []
+    if not tag:
+        return None
     for field in record.get_fields(tag):
         if code:
             values.extend(field.get_subfields(code))
         else:
             values.append(field.data)
 
-    return values
+    return " ".join(values).strip() if values else None
 
 
 def parse_marc_records(
@@ -36,15 +38,20 @@ def parse_marc_records(
         data = io.BytesIO(data)
 
     records = marcxml.parse_xml_to_array(data)
-    rows = []
-    for record in records:
-        row = {}
-        for colname, spec in fields.items():
-            vals = extract_field(record, spec)
-            row[colname] = "; ".join(vals) if vals else None
-        rows.append(row)
+    rows = [
+        {
+            col: extract_field(record, spec) for col, spec in fields.items()
+        }
+        for record in records
+    ]
+    df = pd.DataFrame(rows)
+
+    for col, spec in fields.items():
+        for func_name in spec.get("cleaning", []):
+            func = CLEANING_FUNCTIONS[func_name]
+            df[col] = df[col].apply(func)
     
-    return pd.DataFrame(rows)
+    return df
 
 
 
