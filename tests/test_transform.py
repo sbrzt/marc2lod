@@ -29,7 +29,7 @@ def test_parse_marc_records():
     assert row["TITLE"] == "On the Origin of Species"
     assert row["SUBTITLE"] == "by Means of Natural Selection"
     assert row["PUB_PLACE"] == "London"
-    assert row["PUBLISHER"] == "John Murray"
+    assert row["PUBLISHER"] == "NaN"
     assert row["PUB_DATE"] == "1859"
     assert row["NOTE"] == "First edition"
     assert row["ALT_ID"] == "ALT-999"

@@ -7,12 +7,12 @@
     </datafield>
     <datafield tag="245" ind1="1" ind2="0">
       <subfield code="a">On the Origin of Species</subfield>
-      <subfield code="b">by Means of Natural Selection</subfield>
+      <subfield code="b">by  Means of Natural Selection</subfield>
     </datafield>
     <datafield tag="260" ind1=" " ind2=" ">
-      <subfield code="a">London</subfield>
-      <subfield code="b">John Murray</subfield>
-      <subfield code="c">1859</subfield>
+      <subfield code="a"> London </subfield>
+      <subfield code="b">none</subfield>
+      <subfield code="c">year 1859 circa</subfield>
     </datafield>
     <datafield tag="500" ind1=" " ind2=" ">
       <subfield code="a">First edition</subfield>

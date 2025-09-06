@@ -23,7 +23,6 @@ def extract_field(
             values.extend(field.get_subfields(code))
         else:
             values.append(field.data)
-
     return " ".join(values).strip() if values else None
 
 
@@ -36,7 +35,6 @@ def parse_marc_records(
         if isinstance(data, str):
             data = data.encode("utf-8")
         data = io.BytesIO(data)
-
     records = marcxml.parse_xml_to_array(data)
     rows = [
         {
@@ -45,12 +43,17 @@ def parse_marc_records(
         for record in records
     ]
     df = pd.DataFrame(rows)
-
     for col, spec in fields.items():
         for func_name in spec.get("cleaning", []):
-            func = CLEANING_FUNCTIONS[func_name]
-            df[col] = df[col].apply(func)
-    
+            if isinstance(func_name, str):
+                func = CLEANING_FUNCTIONS[func_name]
+                df[col] = df[col].apply(func)
+            else:
+                func = CLEANING_FUNCTIONS[func_name["func"]]
+                kwargs = {
+                    k: v for k, v in func_name.items() if k != "func"
+                }
+                df[col] = df[col].apply(lambda x: func(x, **kwargs))
     return df
 
 
