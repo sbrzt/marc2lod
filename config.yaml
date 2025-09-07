@@ -1,17 +1,28 @@
+# config.yaml
+
 source_type: file
 source: data/sample.xml
 
-# Define the path where the raw files will be collected
-raw_data_path: data/raw
+prefixes:
+  dcterms: "http://purl.org/dc/terms/"
+  foaf: "http://xmlns.com/foaf/0.1/"
+  schema: "http://schema.org/"
+  fabio: "http://purl.org/spar/fabio/"
 
-# Define the path where the processed data will be collected
-processed_data_path: data/processed
+uri_patterns:
+  subject_uri: "https://example.org/record/{ID}"
+  object_uri: "{subject_uri}/{field}/{index}"
 
-# Fields
 fields:
   ID: 
     tag: "001"
     code: ""
+    mapping:
+      type: direct
+      template:
+        - subject: "{subject_uri}"
+          predicate: "dcterms:identifier"
+          object: "{value}"
   AUTHOR:
     tag: "100"
     code: "a"
@@ -21,9 +32,27 @@ fields:
           - '[.,!\[\]?:;]+$'
           - '^\s+|\s+$'
         replacement: ""
+    mapping:
+      type: pattern
+      template:
+        - subject: "{subject_uri}"
+          predicate: "dcterms:creator"
+          object: "{object_uri}"
+        - subject: "{object_uri}"
+          predicate: "rdf:type"
+          object: "foaf:Person"
+        - subject: "{object_uri}"
+          predicate: "foaf:name"
+          object: {value}
   TITLE:
     tag: "245"
     code: "a"
+    mapping:
+      type: direct
+      template:
+        - subject: "{subject_uri}"
+          predicate: "dcterms:title"
+          object: "{value}"
   SUBTITLE:
     tag: "245"
     code: "b"
@@ -32,6 +61,12 @@ fields:
         patterns:
           - '\s{2,}'
         replacement: " "
+    mapping:
+      type: direct
+      template:
+        - subject: "{subject_uri}"
+          predicate: "fabio:hasSubtitle"
+          object: "{value}"
   PUB_PLACE: 
     tag: "260"
     code: "a"
@@ -40,6 +75,18 @@ fields:
         patterns:
           - '^\s+|\s+$'
         replacement: ""
+    mapping:
+      type: pattern
+      template:
+        - subject: "{subject_uri}"
+          predicate: "fabio:hasPlaceOfPublication"
+          object: "{object_uri}"
+        - subject: "{object_uri}"
+          predicate: "rdf:type"
+          object: "schema:Place"
+        - subject: "{object_uri}"
+          predicate: "schema:name"
+          object: "{value}"
   PUBLISHER: 
     tag: "260"
     code: "b"
@@ -53,6 +100,18 @@ fields:
           - '-'
           - 'none'
         replacement: "NaN"
+    mapping:
+      type: pattern
+      template:
+        - subject: "{subject_uri}"
+          predicate: "dcterms:publisher"
+          object: "{object_uri}"
+        - subject: "{object_uri}"
+          predicate: "rdf:type"
+          object: "foaf:Agent"
+        - subject: "{object_uri}"
+          predicate: "foaf:name"
+          object: "{value}"
   PUB_DATE: 
     tag: "260"
     code: "c"
@@ -60,9 +119,27 @@ fields:
       - func: pattern_extract
         pattern: '(\d{4})'
         group: 1
+    mapping:
+      type: direct
+      template:
+        - subject: "{subject_uri}"
+          predicate: "fabio:hasPublicationYear"
+          object: "{value}"
   NOTE: 
     tag: "500"
     code: "a"
+    mapping:
+      type: direct
+      template:
+        - subject: "{subject_uri}"
+          predicate: "dcterms:description"
+          object: "{value}"
   ALT_ID: 
     tag: "035"
     code: "a"
+    mapping:
+      type: direct
+      template:
+        - subject: "{subject_uri}"
+          predicate: "dcterms:identifier"
+          object: "{value}"
