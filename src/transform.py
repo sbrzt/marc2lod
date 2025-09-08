@@ -26,7 +26,7 @@ def extract_field(
     return " ".join(values).strip() if values else None
 
 
-def parse_marc_records(
+def parse_records(
     data: Union[str, bytes],
     fields: Dict[str, Dict[str, str]]
     ) -> pd.DataFrame:

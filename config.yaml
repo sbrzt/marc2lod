@@ -3,11 +3,20 @@
 source_type: file
 source: data/sample.xml
 
+outputs:
+  - type: rdf
+    format: ttl
+  - type: rdf 
+    format: jsonld
+
 prefixes:
   dcterms: "http://purl.org/dc/terms/"
-  foaf: "http://xmlns.com/foaf/0.1/"
-  schema: "http://schema.org/"
   fabio: "http://purl.org/spar/fabio/"
+  foaf: "http://xmlns.com/foaf/0.1/"
+  rdf: "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+  schema: "http://schema.org/"
+  xsd: "http://www.w3.org/2001/XMLSchema#"
 
 uri_patterns:
   subject_uri: "https://example.org/record/{ID}"
@@ -23,6 +32,7 @@ fields:
         - subject: "{subject_uri}"
           predicate: "dcterms:identifier"
           object: "{value}"
+          datatype: "rdfs:Literal"
   AUTHOR:
     tag: "100"
     code: "a"
@@ -43,7 +53,8 @@ fields:
           object: "foaf:Person"
         - subject: "{object_uri}"
           predicate: "foaf:name"
-          object: {value}
+          object: "{value}"
+          datatype: "rdfs:Literal"
   TITLE:
     tag: "245"
     code: "a"
@@ -53,6 +64,7 @@ fields:
         - subject: "{subject_uri}"
           predicate: "dcterms:title"
           object: "{value}"
+          datatype: "rdfs:Literal"
   SUBTITLE:
     tag: "245"
     code: "b"
@@ -67,6 +79,7 @@ fields:
         - subject: "{subject_uri}"
           predicate: "fabio:hasSubtitle"
           object: "{value}"
+          datatype: "rdfs:Literal"
   PUB_PLACE: 
     tag: "260"
     code: "a"
@@ -87,6 +100,7 @@ fields:
         - subject: "{object_uri}"
           predicate: "schema:name"
           object: "{value}"
+          datatype: "rdfs:Literal"
   PUBLISHER: 
     tag: "260"
     code: "b"
@@ -112,6 +126,7 @@ fields:
         - subject: "{object_uri}"
           predicate: "foaf:name"
           object: "{value}"
+          datatype: "rdfs:Literal"
   PUB_DATE: 
     tag: "260"
     code: "c"
@@ -125,6 +140,7 @@ fields:
         - subject: "{subject_uri}"
           predicate: "fabio:hasPublicationYear"
           object: "{value}"
+          datatype: "xsd:gYear"
   NOTE: 
     tag: "500"
     code: "a"
@@ -134,6 +150,7 @@ fields:
         - subject: "{subject_uri}"
           predicate: "dcterms:description"
           object: "{value}"
+          datatype: "rdfs:Literal"
   ALT_ID: 
     tag: "035"
     code: "a"
@@ -143,3 +160,4 @@ fields:
         - subject: "{subject_uri}"
           predicate: "dcterms:identifier"
           object: "{value}"
+          datatype: "rdfs:Literal"

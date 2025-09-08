@@ -3,13 +3,13 @@
 import yaml
 import os
 import pandas as pd
-from src.transform import parse_marc_records
+from src.transform import parse_records
 
 
 FIXTURE_FILE = "tests/fixtures/sample.xml"
 CONFIG_FILE = "config.yaml"
 
-def test_parse_marc_records():
+def test_parse_records():
     with open(CONFIG_FILE) as f:
         config = yaml.safe_load(f)
     fields = config["fields"]
@@ -17,7 +17,7 @@ def test_parse_marc_records():
     with open(FIXTURE_FILE, "r", encoding="utf-8") as f:
         xml_str = f.read()
 
-    df = parse_marc_records(xml_str, fields)
+    df = parse_records(xml_str, fields)
 
     assert isinstance(df, pd.DataFrame)
     assert df.shape[0] == 1

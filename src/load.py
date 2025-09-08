@@ -1,43 +1,35 @@
 # src/load.py
 
-import pyarrow as pa
-import pyarrow.parquet as pq
 import pandas as pd
+from pathlib import Path
+from rdflib import Graph
+from src.materialize import materialize
 
 
-def save_to_parquet(
-    df: pd.DataFrame,
-    path: str
+def save_rdf(
+    graph: Graph,
+    output_path: Path,
+    serialization: str = "ttl"
     ) -> None:
 
-    collection = ia.get_item('darwinslibrary')
+    graph.serialize(destination=str(output_path), format=serialization)
+    print(f"RDF saved to {output_path} [{serialization}]")
 
-    metadata = {
-        'identifier': f'{collection.metadata["identifier"]}',
-        'title': f'{collection.metadata["title"]}',
-        'description': f'{collection.metadata["description"]}',
-        'creator': f'{collection.metadata["uploader"]}',
-        'created': f'{collection.metadata["addeddate"]}',
-        'subject': f'{collection.metadata["collection"]}',
-        'source': f'{collection.metadata["identifier-access"]}'
-    }
 
-    # define unique key for custom metadata
-    meta_key = 'darwinsarchive.iot'
+def load_records(
+    df: pd.DataFrame,
+    config: dict,
+    output_path: Path,
+    outputs: list
+    ):
 
-    # use PyArrow to convert the DataFrame into an Arrow table
-    table = pa.Table.from_pandas(df)
+    output_dir.mkdir(parents=True, exist_ok=True)
 
-    # construct a new Arrow table that is a copy of `table`, 
-    # but with its native metadata replaced by a combination of 
-    # the existing metadata and our custom metadata
-    meta_json = json.dumps(metadata)
-    existing_meta = table.schema.metadata
-    combined_meta = {
-        meta_key.encode() : meta_json.encode(),
-        **existing_meta
-    }
-    table = table.replace_schema_metadata(combined_meta)
-
-    # save the Arrow table as a `.parquet` file by using the `parquet` library
-    pq.write_table(table, '2024-01-16_darwinslibrary_v01.parquet', compression='GZIP')
+    for output in outputs:
+        kind = output["type"]
+        if kind == "rdf":
+            g = materialize(df, config)
+            ext = output.get("format", "ttl")
+            path = output_dir / f"data.{ext}"
+            save_rdf(g, path, ext)
+    
