@@ -27,15 +27,19 @@ def extract_field(
 
 
 def parse_records(
-    data: Union[str, bytes],
+    #data: Union[str, bytes],
+    records: List,
     fields: Dict[str, Dict[str, str]]
     ) -> pd.DataFrame:
 
+    '''
     if isinstance(data, (bytes, str)):
         if isinstance(data, str):
             data = data.encode("utf-8")
         data = io.BytesIO(data)
     records = marcxml.parse_xml_to_array(data)
+    '''
+
     rows = [
         {
             col: extract_field(record, spec) for col, spec in fields.items()
@@ -43,6 +47,7 @@ def parse_records(
         for record in records
     ]
     df = pd.DataFrame(rows)
+
     for col, spec in fields.items():
         for func_name in spec.get("cleaning", []):
             if isinstance(func_name, str):
@@ -55,6 +60,3 @@ def parse_records(
                 }
                 df[col] = df[col].apply(lambda x: func(x, **kwargs))
     return df
-
-
-

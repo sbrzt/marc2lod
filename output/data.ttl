@@ -1,0 +1,24 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix schema1: <http://schema.org/> .
+
+<https://example.org/record/12345> dcterms:creator <https://example.org/record/12345/author/0> ;
+    dcterms:description "First edition" ;
+    dcterms:identifier "12345",
+        "ALT-999" ;
+    dcterms:publisher <https://example.org/record/12345/publisher/0> ;
+    dcterms:title "On the Origin of Species" ;
+    fabio:hasPlaceOfPublication <https://example.org/record/12345/pub_place/0> ;
+    fabio:hasPublicationYear "1859" ;
+    fabio:hasSubtitle "by Means of Natural Selection" .
+
+<https://example.org/record/12345/author/0> a foaf:Person ;
+    foaf:name "Charles Darwin" .
+
+<https://example.org/record/12345/pub_place/0> a schema1:Place ;
+    schema1:name "London" .
+
+<https://example.org/record/12345/publisher/0> a foaf:Agent ;
+    foaf:name "NaN" .
+

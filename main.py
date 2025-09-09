@@ -1,6 +1,7 @@
 # main.py
 
 import yaml
+from pathlib import Path
 from src.extract import extract_records
 from src.transform import parse_records
 from src.load import load_records

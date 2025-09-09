@@ -6,8 +6,6 @@ source: data/sample.xml
 outputs:
   - type: rdf
     format: ttl
-  - type: rdf 
-    format: jsonld
 
 prefixes:
   dcterms: "http://purl.org/dc/terms/"
@@ -30,9 +28,9 @@ fields:
       type: direct
       template:
         - subject: "{subject_uri}"
-          predicate: "dcterms:identifier"
+          predicate: "http://purl.org/dc/terms/identifier"
           object: "{value}"
-          datatype: "rdfs:Literal"
+          datatype: "http://www.w3.org/2000/01/rdf-schema#Literal"
   AUTHOR:
     tag: "100"
     code: "a"
@@ -46,15 +44,15 @@ fields:
       type: pattern
       template:
         - subject: "{subject_uri}"
-          predicate: "dcterms:creator"
+          predicate: "http://purl.org/dc/terms/creator"
           object: "{object_uri}"
         - subject: "{object_uri}"
-          predicate: "rdf:type"
-          object: "foaf:Person"
+          predicate: "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+          object: "http://xmlns.com/foaf/0.1/Person"
         - subject: "{object_uri}"
-          predicate: "foaf:name"
+          predicate: "http://xmlns.com/foaf/0.1/name"
           object: "{value}"
-          datatype: "rdfs:Literal"
+          datatype: "http://www.w3.org/2000/01/rdf-schema#Literal"
   TITLE:
     tag: "245"
     code: "a"
@@ -62,9 +60,9 @@ fields:
       type: direct
       template:
         - subject: "{subject_uri}"
-          predicate: "dcterms:title"
+          predicate: "http://purl.org/dc/terms/title"
           object: "{value}"
-          datatype: "rdfs:Literal"
+          datatype: "http://www.w3.org/2000/01/rdf-schema#Literal"
   SUBTITLE:
     tag: "245"
     code: "b"
@@ -77,9 +75,9 @@ fields:
       type: direct
       template:
         - subject: "{subject_uri}"
-          predicate: "fabio:hasSubtitle"
+          predicate: "http://purl.org/spar/fabio/hasSubtitle"
           object: "{value}"
-          datatype: "rdfs:Literal"
+          datatype: "http://www.w3.org/2000/01/rdf-schema#Literal"
   PUB_PLACE: 
     tag: "260"
     code: "a"
@@ -92,15 +90,15 @@ fields:
       type: pattern
       template:
         - subject: "{subject_uri}"
-          predicate: "fabio:hasPlaceOfPublication"
+          predicate: "http://purl.org/spar/fabio/hasPlaceOfPublication"
           object: "{object_uri}"
         - subject: "{object_uri}"
-          predicate: "rdf:type"
-          object: "schema:Place"
+          predicate: "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+          object: "http://schema.org/Place"
         - subject: "{object_uri}"
-          predicate: "schema:name"
+          predicate: "http://schema.org/name"
           object: "{value}"
-          datatype: "rdfs:Literal"
+          datatype: "http://www.w3.org/2000/01/rdf-schema#Literal"
   PUBLISHER: 
     tag: "260"
     code: "b"
@@ -118,15 +116,15 @@ fields:
       type: pattern
       template:
         - subject: "{subject_uri}"
-          predicate: "dcterms:publisher"
+          predicate: "http://purl.org/dc/terms/publisher"
           object: "{object_uri}"
         - subject: "{object_uri}"
-          predicate: "rdf:type"
-          object: "foaf:Agent"
+          predicate: "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+          object: "http://xmlns.com/foaf/0.1/Agent"
         - subject: "{object_uri}"
-          predicate: "foaf:name"
+          predicate: "http://xmlns.com/foaf/0.1/name"
           object: "{value}"
-          datatype: "rdfs:Literal"
+          datatype: "http://www.w3.org/2000/01/rdf-schema#Literal"
   PUB_DATE: 
     tag: "260"
     code: "c"
@@ -138,9 +136,9 @@ fields:
       type: direct
       template:
         - subject: "{subject_uri}"
-          predicate: "fabio:hasPublicationYear"
+          predicate: "http://purl.org/spar/fabio/hasPublicationYear"
           object: "{value}"
-          datatype: "xsd:gYear"
+          datatype: "http://www.w3.org/2001/XMLSchema#gYear"
   NOTE: 
     tag: "500"
     code: "a"
@@ -148,9 +146,9 @@ fields:
       type: direct
       template:
         - subject: "{subject_uri}"
-          predicate: "dcterms:description"
+          predicate: "http://purl.org/dc/terms/description"
           object: "{value}"
-          datatype: "rdfs:Literal"
+          datatype: "http://www.w3.org/2000/01/rdf-schema#Literal"
   ALT_ID: 
     tag: "035"
     code: "a"
@@ -158,6 +156,6 @@ fields:
       type: direct
       template:
         - subject: "{subject_uri}"
-          predicate: "dcterms:identifier"
+          predicate: "http://purl.org/dc/terms/identifier"
           object: "{value}"
-          datatype: "rdfs:Literal"
+          datatype: "http://www.w3.org/2000/01/rdf-schema#Literal"

@@ -23,13 +23,13 @@ def load_records(
     outputs: list
     ):
 
-    output_dir.mkdir(parents=True, exist_ok=True)
+    output_path.mkdir(parents=True, exist_ok=True)
 
     for output in outputs:
         kind = output["type"]
         if kind == "rdf":
             g = materialize(df, config)
             ext = output.get("format", "ttl")
-            path = output_dir / f"data.{ext}"
+            path = output_path / f"data.{ext}"
             save_rdf(g, path, ext)
     

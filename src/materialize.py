@@ -1,7 +1,8 @@
 # src/materialize.py
 
 import re
-from rdflib import Graph, URIRef, Literal
+import pandas as pd
+from rdflib import Graph, URIRef, Literal, Namespace
 
 
 def generate_uri(
@@ -37,32 +38,40 @@ def generate_triples(
         return triples
 
     templates = field_conf.get("mapping", {}).get("template", [])
+    
+    if isinstance(value, list):
+        values = value
+    else:
+        values = [value]
+    
     subject_uri = uri_patterns["subject_uri"].format(**row.to_dict())
 
-    for i, template in enumerate(templates):
-        context = {
-            **row.to_dict(),
-            "subject_uri": subject_uri,
-            "object_uri": uri_patterns["object_uri"].format(
-                subject_uri=subject_uri,
-                field=field_name.lower(),
-                index=i,
-                **row.to_dict()
-            ),
-            "value": value,
-            "field": field_name.lower(),
-            "index": i
-        }
-    
-        subj = URIRef(generate_uri(template["subject"].format(**context), prefixes))
-        pred = URIRef(generate_uri(template["predicate"].format(**context), prefixes))
-        obj_str = template["object"].format(**ctx)
-        if is_uri(obj_str):
-            obj = URIRef(generate_uri(obj_str, prefixes))
-        else:
-            obj = Literal(obj_str)
+    for idx, val in enumerate(values):
+        object_uri = uri_patterns["object_uri"].format(
+            subject_uri=subject_uri,
+            field=field_name.lower(),
+            index=idx,
+            **row.to_dict()
+        )
+        for template in templates:
+            context = {
+                **row.to_dict(),
+                "subject_uri": subject_uri,
+                "object_uri": object_uri,
+                "value": val,
+                "field": field_name.lower(),
+                "index": idx
+            }
+        
+            subj = URIRef(generate_uri(template["subject"].format(**context), prefixes))
+            pred = URIRef(generate_uri(template["predicate"].format(**context), prefixes))
+            obj_val = template["object"].format(**context)
+            if is_uri(obj_val):
+                obj = URIRef(generate_uri(obj_val, prefixes))
+            else:
+                obj = Literal(obj_val)
 
-        triples.append((subj, pred, obj))
+            triples.append((subj, pred, obj))
     return triples
 
 
