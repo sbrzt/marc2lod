@@ -11,6 +11,7 @@
     </datafield>
     <datafield tag="260" ind1=" " ind2=" ">
       <subfield code="a"> London </subfield>
+      <subfield code="a">Paris</subfield>
       <subfield code="b">none</subfield>
       <subfield code="c">year 1859 circa</subfield>
     </datafield>

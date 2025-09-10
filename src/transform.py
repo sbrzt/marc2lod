@@ -23,22 +23,15 @@ def extract_field(
             values.extend(field.get_subfields(code))
         else:
             values.append(field.data)
-    return " ".join(values).strip() if values else None
+    if not values:
+        return None
+    return values if len(values) > 1 else values[0]
 
 
 def parse_records(
-    #data: Union[str, bytes],
     records: List,
     fields: Dict[str, Dict[str, str]]
     ) -> pd.DataFrame:
-
-    '''
-    if isinstance(data, (bytes, str)):
-        if isinstance(data, str):
-            data = data.encode("utf-8")
-        data = io.BytesIO(data)
-    records = marcxml.parse_xml_to_array(data)
-    '''
 
     rows = [
         {
@@ -47,16 +40,19 @@ def parse_records(
         for record in records
     ]
     df = pd.DataFrame(rows)
-
     for col, spec in fields.items():
         for func_name in spec.get("cleaning", []):
             if isinstance(func_name, str):
                 func = CLEANING_FUNCTIONS[func_name]
-                df[col] = df[col].apply(func)
+                df[col] = df[col].apply(
+                    lambda x: [func(v) for v in x] if isinstance(x, list) else func(x)
+                )
             else:
                 func = CLEANING_FUNCTIONS[func_name["func"]]
                 kwargs = {
                     k: v for k, v in func_name.items() if k != "func"
                 }
-                df[col] = df[col].apply(lambda x: func(x, **kwargs))
+                df[col] = df[col].apply(
+                    lambda x: [func(v, **kwargs) for v in x] if isinstance(x, list) else func(x, **kwargs)
+                )
     return df
