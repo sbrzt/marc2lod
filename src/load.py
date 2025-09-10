@@ -24,7 +24,6 @@ def load_records(
     ):
 
     output_path.mkdir(parents=True, exist_ok=True)
-
     for output in outputs:
         kind = output["type"]
         if kind == "rdf":

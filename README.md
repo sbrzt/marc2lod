@@ -5,9 +5,7 @@ tags:
     - linked data engineering
     - bibliometrics
     - bibliographic data
-    - format mapping
-    - etl
-    - nlp
+    - etl pipeline
 ---
 
 # marc2lod

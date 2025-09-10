@@ -20,6 +20,8 @@ uri_patterns:
   subject_uri: "https://example.org/record/{ID}"
   object_uri: "{subject_uri}/{field}/{index}"
 
+subject_class: "http://purl.org/spar/fabio/Work"
+
 fields:
   ID: 
     tag: "001"
