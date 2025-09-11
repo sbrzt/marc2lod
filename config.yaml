@@ -6,6 +6,18 @@ source: data/sample.xml
 outputs:
   - type: rdf
     format: ttl
+  - type: table
+    format: csv
+    exclude_fields:
+      - CLASS
+  - type: table
+    format: xlsx
+    exclude_fields:
+      - CLASS
+  - type: table
+    format: json
+    exclude_fields:
+      - CLASS
 
 prefixes:
   dcterms: "http://purl.org/dc/terms/"
