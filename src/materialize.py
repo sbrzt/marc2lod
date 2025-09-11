@@ -35,8 +35,17 @@ def generate_triples(
     ):
 
     triples = []
+    
+    subject_uri = uri_patterns["subject_uri"].format(**row.to_dict())
+    subject_class = field_conf.get("subject_class")
+    if subject_class:
+        triples.append((
+            URIRef(subject_uri),
+            URIRef("http://www.w3.org/1999/02/22-rdf-syntax-ns#type"),
+            URIRef(subject_class),
+        ))
+    
     value = row.get(field_name)
-
     if value is None:
         return triples
     templates = field_conf.get("mapping", {}).get("template", [])
@@ -48,15 +57,7 @@ def generate_triples(
         if pd.isna(value):
             return triples
         values = [value]
-        
-    '''subject_uri = uri_patterns["subject_uri"].format(**row.to_dict())
-    subject_class = field_conf.get("subject_class")
-    if subject_class:
-        triples.append((
-            URIRef(subject_uri),
-            URIRef("http://www.w3.org/1999/02/22-rdf-syntax-ns#type"),
-            URIRef(subject_class),
-        ))'''
+
     for idx, val in enumerate(values):
         object_uri = uri_patterns["object_uri"].format(
             subject_uri=subject_uri,

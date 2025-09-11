@@ -5,7 +5,8 @@
 @prefix schema1: <http://schema.org/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://example.org/record/12345> dcterms:creator <https://example.org/record/12345/author/0> ;
+<https://example.org/record/12345> a fabio:Work ;
+    dcterms:creator <https://example.org/record/12345/author/0> ;
     dcterms:description "First edition"^^rdfs:Literal ;
     dcterms:identifier "12345"^^rdfs:Literal,
         "ALT-999"^^rdfs:Literal ;
