@@ -15,15 +15,19 @@ def save_rdf(
     graph.serialize(destination=str(output_path), format=serialization)
     print(f"RDF saved to {output_path} [{serialization}]")
 
+
 def save_table(
     df: pd.DataFrame,
     output_path: Path,
     fmt: str = "csv",
-    exclude_fields: list | None = None
+    exclude_fields: list | None = None,
+    list_separator: str = "; "
     ):
 
     if exclude_fields:
         df = df.drop(columns=[c for c in exclude_fields if c in df.columns])
+
+    df = df.map(lambda x: list_separator.join(map(str, x)) if isinstance(x, list) else x)
 
     if fmt == "csv":
         df.to_csv(output_path, index=False)
@@ -34,6 +38,7 @@ def save_table(
     else:
         raise ValueError(f"unsupported table format: {fmt}")
     print(f"Table saved to {output_path} [{fmt}]")
+
 
 def load_records(
     df: pd.DataFrame,
