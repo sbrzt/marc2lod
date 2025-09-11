@@ -18,6 +18,10 @@ outputs:
     format: json
     exclude_fields:
       - CLASS
+  - type: table
+    format: sql
+    exclude_fields:
+      - CLASS
 
 prefixes:
   dcterms: "http://purl.org/dc/terms/"

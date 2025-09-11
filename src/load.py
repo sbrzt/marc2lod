@@ -1,6 +1,7 @@
 # src/load.py
 
 import pandas as pd
+import sqlite3
 from pathlib import Path
 from rdflib import Graph
 from src.materialize import materialize
@@ -35,6 +36,10 @@ def save_table(
         df.to_excel(output_path, index=False)
     elif fmt == "json":
         df.to_json(output_path, orient="records", lines=True)
+    elif fmt == "sql":
+        conn = sqlite3.connect(output_path)
+        df.to_sql("records", conn, if_exists="replace", index=False)
+        conn.close()
     else:
         raise ValueError(f"unsupported table format: {fmt}")
     print(f"Table saved to {output_path} [{fmt}]")
@@ -58,6 +63,7 @@ def load_records(
         elif kind == "table":
             ext = output.get("format", "csv")
             exclude_fields = output.get("exclude_fields", [])
+            list_separator = output.get("list_separator", "; ")
             path = output_path / f"data.{ext}"
-            save_table(df, path, ext, exclude_fields)
+            save_table(df, path, ext, exclude_fields, list_separator)
     
