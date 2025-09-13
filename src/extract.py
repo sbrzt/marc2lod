@@ -3,13 +3,14 @@
 import requests
 from pymarc import marcxml
 from io import BytesIO
+from pathlib import Path
 
 
 def extract_records(
     source: str, 
     source_type: str = "file"
     ):
-    
+
     if source_type == "file":
         return fetch_marcxml_from_file(source)
     elif source_type == "url":
@@ -27,8 +28,17 @@ def fetch_marcxml_from_url(url: str):
 
 
 def fetch_marcxml_from_file(path: str):
-    with open(path, "rb") as f:
-        return marcxml.parse_xml_to_array(f)
+    path = Path(path)
+    if path.is_dir():
+        records = []
+        for file in path.glob("*.xml"):
+            with open(file, "rb") as f:
+                records.extend(marcxml.parse_xml_to_array(f))
+        return records
+    else:
+        with open(path, "rb") as f:
+            return marcxml.parse_xml_to_array(f)
+    
 
 
 def fetch_marcxml_from_string(xml_bytes: bytes | str):

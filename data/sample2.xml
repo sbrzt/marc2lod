@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <controlfield tag="001">67890</controlfield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Charles Darwin.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">The Descent of Man</subfield>
+      <subfield code="b">and Selection in Relation to Sex</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Berlin </subfield>
+      <subfield code="b">John Murray</subfield>
+      <subfield code="c">1871</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Second edition</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">ALT-123</subfield>
+    </datafield>
+  </record>
+</collection>

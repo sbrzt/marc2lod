@@ -1,7 +1,7 @@
 # config.yaml
 
 source_type: file
-source: data/sample.xml
+source: data/
 
 outputs:
   - type: rdf
