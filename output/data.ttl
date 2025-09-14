@@ -6,46 +6,39 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <https://example.org/record/12345> a fabio:Work ;
-    dcterms:creator <https://example.org/record/12345/author/0> ;
+    dcterms:creator <https://example.org/person/charles-darwin> ;
     dcterms:description "First edition"^^rdfs:Literal ;
     dcterms:identifier "12345"^^rdfs:Literal,
         "ALT-999"^^rdfs:Literal ;
-    dcterms:publisher <https://example.org/record/12345/publisher/0> ;
     dcterms:title "On the Origin of Species"^^rdfs:Literal ;
-    fabio:hasPlaceOfPublication <https://example.org/record/12345/pub_place/0>,
-        <https://example.org/record/12345/pub_place/1> ;
+    fabio:hasPlaceOfPublication <https://example.org/place/london>,
+        <https://example.org/place/paris> ;
     fabio:hasPublicationYear "1859"^^xsd:gYear ;
     fabio:hasSubtitle "by Means of Natural Selection"^^rdfs:Literal .
 
 <https://example.org/record/67890> a fabio:Work ;
-    dcterms:creator <https://example.org/record/67890/author/0> ;
+    dcterms:creator <https://example.org/person/charles-darwin> ;
     dcterms:description "Second edition"^^rdfs:Literal ;
     dcterms:identifier "67890"^^rdfs:Literal,
         "ALT-123"^^rdfs:Literal ;
-    dcterms:publisher <https://example.org/record/67890/publisher/0> ;
+    dcterms:publisher <https://example.org/agent/john-murray> ;
     dcterms:title "The Descent of Man"^^rdfs:Literal ;
-    fabio:hasPlaceOfPublication <https://example.org/record/67890/pub_place/0> ;
+    fabio:hasPlaceOfPublication <https://example.org/place/berlin> ;
     fabio:hasPublicationYear "1871"^^xsd:gYear ;
     fabio:hasSubtitle "and Selection in Relation to Sex"^^rdfs:Literal .
 
-<https://example.org/record/12345/author/0> a foaf:Person ;
-    foaf:name "Charles Darwin"^^rdfs:Literal .
+<https://example.org/agent/john-murray> a foaf:Agent ;
+    foaf:name "John Murray"^^rdfs:Literal .
 
-<https://example.org/record/12345/pub_place/0> a schema1:Place ;
-    schema1:name "London"^^rdfs:Literal .
-
-<https://example.org/record/12345/pub_place/1> a schema1:Place ;
-    schema1:name "Paris"^^rdfs:Literal .
-
-<https://example.org/record/12345/publisher/0> a foaf:Agent ;
-    foaf:name "NaN"^^rdfs:Literal .
-
-<https://example.org/record/67890/author/0> a foaf:Person ;
-    foaf:name "Charles Darwin"^^rdfs:Literal .
-
-<https://example.org/record/67890/pub_place/0> a schema1:Place ;
+<https://example.org/place/berlin> a schema1:Place ;
     schema1:name "Berlin"^^rdfs:Literal .
 
-<https://example.org/record/67890/publisher/0> a foaf:Agent ;
-    foaf:name "John Murray"^^rdfs:Literal .
+<https://example.org/place/london> a schema1:Place ;
+    schema1:name "London"^^rdfs:Literal .
+
+<https://example.org/place/paris> a schema1:Place ;
+    schema1:name "Paris"^^rdfs:Literal .
+
+<https://example.org/person/charles-darwin> a foaf:Person ;
+    foaf:name "Charles Darwin"^^rdfs:Literal .
 

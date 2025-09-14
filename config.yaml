@@ -33,7 +33,8 @@ prefixes:
   xsd: "http://www.w3.org/2001/XMLSchema#"
 
 uri_patterns:
-  subject_uri: "https://example.org/record/{ID}"
+  base_uri: "https://example.org"
+  subject_uri: "{base_uri}/record/{ID}"
   object_uri: "{subject_uri}/{field}/{index}"
 
 
@@ -75,6 +76,8 @@ fields:
           predicate: "http://xmlns.com/foaf/0.1/name"
           object: "{value}"
           datatype: "http://www.w3.org/2000/01/rdf-schema#Literal"
+      uri_strategy: "global"
+      uri_pattern: "{base_uri}/person/{normalized_value}"
   TITLE:
     tag: "245"
     code: "a"
@@ -121,6 +124,8 @@ fields:
           predicate: "http://schema.org/name"
           object: "{value}"
           datatype: "http://www.w3.org/2000/01/rdf-schema#Literal"
+      uri_strategy: "global"
+      uri_pattern: "{base_uri}/place/{normalized_value}"
   PUBLISHER: 
     tag: "260"
     code: "b"
@@ -133,7 +138,7 @@ fields:
           - 'nan'
           - '-'
           - 'none'
-        replacement: "NaN"
+        replacement: ""
     mapping:
       type: pattern
       template:
@@ -147,6 +152,8 @@ fields:
           predicate: "http://xmlns.com/foaf/0.1/name"
           object: "{value}"
           datatype: "http://www.w3.org/2000/01/rdf-schema#Literal"
+      uri_strategy: "global"
+      uri_pattern: "{base_uri}/agent/{normalized_value}"
   PUB_DATE: 
     tag: "260"
     code: "c"

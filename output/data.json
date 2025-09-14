@@ -1,2 +1,2 @@
 {"ID":"67890","AUTHOR":"Charles Darwin","TITLE":"The Descent of Man","SUBTITLE":"and Selection in Relation to Sex","PUB_PLACE":"Berlin","PUBLISHER":"John Murray","PUB_DATE":"1871","NOTE":"Second edition","ALT_ID":"ALT-123"}
-{"ID":"12345","AUTHOR":"Charles Darwin","TITLE":"On the Origin of Species","SUBTITLE":"by Means of Natural Selection","PUB_PLACE":"London; Paris","PUBLISHER":"NaN","PUB_DATE":"1859","NOTE":"First edition","ALT_ID":"ALT-999"}
+{"ID":"12345","AUTHOR":"Charles Darwin","TITLE":"On the Origin of Species","SUBTITLE":"by Means of Natural Selection","PUB_PLACE":"London; Paris","PUBLISHER":null,"PUB_DATE":"1859","NOTE":"First edition","ALT_ID":"ALT-999"}

@@ -36,7 +36,8 @@ def generate_triples(
 
     triples = []
     
-    subject_uri = uri_patterns["subject_uri"].format(**row.to_dict())
+    context = {**uri_patterns, **row.to_dict()}
+    subject_uri = uri_patterns["subject_uri"].format(**context)
     subject_class = field_conf.get("subject_class")
     if subject_class:
         triples.append((
@@ -59,12 +60,19 @@ def generate_triples(
         values = [value]
 
     for idx, val in enumerate(values):
-        object_uri = uri_patterns["object_uri"].format(
-            subject_uri=subject_uri,
-            field=field_name.lower(),
-            index=idx,
-            **row.to_dict()
-        )
+        if field_conf.get("mapping", {}).get("uri_strategy") == "global":
+            object_uri = field_conf["mapping"]["uri_pattern"].format(
+                base_uri=uri_patterns["base_uri"],
+                normalized_value=normalize_uri(val),
+                **row.to_dict()
+            )
+        else:
+            object_uri = uri_patterns["object_uri"].format(
+                subject_uri=subject_uri,
+                field=field_name.lower(),
+                index=idx,
+                **row.to_dict()
+            )
         for template in templates:
             context = {
                 **row.to_dict(),
@@ -85,6 +93,13 @@ def generate_triples(
                     obj = Literal(obj_val, datatype=URIRef(generate_uri(datatype, prefixes)))
             triples.append((subj, pred, obj))
     return triples
+
+
+def normalize_uri(value: str) -> str:
+    value = value.lower().strip()
+    value = re.sub(r"[^\w]+", "-", value)
+    value = value.strip("-")
+    return value
 
 
 def materialize(
