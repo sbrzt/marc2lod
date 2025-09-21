@@ -1,9 +1,11 @@
 # src/extract.py
 
 import requests
+import internetarchive as ia
 from pymarc import marcxml
 from io import BytesIO
 from pathlib import Path
+from tqdm import tqdm
 
 
 def extract_records(
@@ -12,22 +14,24 @@ def extract_records(
     ):
 
     if source_type == "file":
-        return fetch_marcxml_from_file(source)
+        return fetch_data_from_file(source)
     elif source_type == "url":
-        return fetch_marcxml_from_url(source)
+        return fetch_data_from_url(source)
     elif source_type == "string":
-        return fetch_marcxml_from_string(source)
+        return fetch_data_from_string(source)
+    elif source_type == "internetarchive":
+        return fetch_data_from_internetarchive(source)
     else:
         raise ValueError(f"Unknown source_type: {source_type}")
 
 
-def fetch_marcxml_from_url(url: str):
+def fetch_data_from_url(url: str):
     r = requests.get(url)
     r.raise_for_status()
     return marcxml.parse_xml_to_array(r.content)
 
 
-def fetch_marcxml_from_file(path: str):
+def fetch_data_from_file(path: str):
     path = Path(path)
     if path.is_dir():
         records = []
@@ -40,40 +44,28 @@ def fetch_marcxml_from_file(path: str):
             return marcxml.parse_xml_to_array(f)
     
 
-
-def fetch_marcxml_from_string(xml_bytes: bytes | str):
+def fetch_data_from_string(xml_bytes: bytes | str):
     if isinstance(xml_bytes, str):
         xml_bytes = xml_bytes.encode("utf-8")
     return marcxml.parse_xml_to_array(BytesIO(xml_bytes))
 
 
-'''
-def download_marcxml(
-    collection_name: str, 
-    save_path: str
-    ) -> None:
+def fetch_data_from_internetarchive(
+    source: str
+    ):
 
-    # Create the directory if it doesn't exist
-    if not os.path.exists(save_path):
-        os.mkdir(save_path)
-
-    # Search for items in the collection
-    items = ia.search_items(f'collection:{collection_name}')
-
-    for item in items:
-
-        # Get the item identifier
-        identifier = item["identifier"]
-        
-        # Try to download the record with that identifier, in MARC format, at the `save_path` destination, and do not create a new folder for each file
+    records = []
+    search = ia.search_items(f"collection:{source}")
+    for result in tqdm(search):
+        identifier = result["identifier"]
         try:
-            xml_files = ia.download(identifier, 
-                                    formats=["MARC"], 
-                                    verbose=True, 
-                                    destdir=save_path,
-                                    no_directory=True)
-
-        # If there is a error, print it
+            item = ia.get_item(identifier)
+            for f in item.get_files(formats=["MARC"]):
+                url = f.url
+                r = requests.get(url)
+                r.raise_for_status()
+                recs = marcxml.parse_xml_to_array(BytesIO(r.content))
+                records.extend(recs)
         except Exception as e:
-            print(e)
-'''
+            print(f"Error for {identifier}: {e}")
+    return records

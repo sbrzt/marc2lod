@@ -96,11 +96,11 @@ Results are written to the output/ folder.
 
 * Python 3.10+
 * Dependencies:
-    - pandas
-    - rdflib
-    - pymarc
-    - requests
-    - openpyxl
+  - pandas
+  - rdflib
+  - pymarc
+  - requests
+  - openpyxl
 
 Install dependencies with:
 ```
