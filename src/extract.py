@@ -51,12 +51,15 @@ def fetch_data_from_string(xml_bytes: bytes | str):
 
 
 def fetch_data_from_internetarchive(
-    source: str
+    source: str,
+    max_items: int = 10
     ):
 
     records = []
     search = ia.search_items(f"collection:{source}")
-    for result in tqdm(search):
+    for i, result in tqdm(enumerate(search)):
+        if max_items is not None and i >= max_items:
+            break
         identifier = result["identifier"]
         try:
             item = ia.get_item(identifier)
