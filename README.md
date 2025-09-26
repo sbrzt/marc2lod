@@ -85,10 +85,13 @@ Results are written to the output/ folder.
 
 ## Roadmap
 
-- [] Support for large-scale corpora (e.g. Internet Archive collections)
-- [] Advanced cleaning pipelines
-- [] Enrichment with external authority data (VIAF, Wikidata, etc.)
+- [x] Support for large-scale corpora (e.g. Internet Archive collections)
+- [] Research bundle generation: data in multiple formats + documentation
 - [] CLI options for running with custom configs
+- [] Report generation with basic stats and visualizations
+- [] More cleaning functions
+- [] Enrichment with external authority data (VIAF, Wikidata, etc.)
+
 
 ---
 

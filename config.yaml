@@ -81,6 +81,12 @@ fields:
   TITLE:
     tag: "245"
     code: "a"
+    cleaning:
+      - func: pattern_replace
+        patterns:
+          - '[.,!\[\]?:;\s]+$'
+          - '^\s+|\s+$'
+        replacement: ""
     mapping:
       type: direct
       template:
@@ -96,6 +102,10 @@ fields:
         patterns:
           - '\s{2,}'
         replacement: " "
+      - func: pattern_replace
+        patterns:
+          - '[.!?:;]+'
+        replacement: ""
     mapping:
       type: direct
       template:
@@ -109,6 +119,8 @@ fields:
     cleaning:
       - func: pattern_replace
         patterns:
+          - 's.n.'
+          - '[.!\[\]?:;]+'
           - '^\s+|\s+$'
         replacement: ""
     mapping:
@@ -136,7 +148,7 @@ fields:
           - '\[s\.l\.\]'
           - 'n\.d\.'
           - 'nan'
-          - '-'
+          - '[.,!\[\]?:;]+$'
           - 'none'
         replacement: ""
     mapping:
@@ -158,6 +170,10 @@ fields:
     tag: "260"
     code: "c"
     cleaning:
+      - func: pattern_replace
+        patterns:
+          - 'n.d..'
+        replacement: ""
       - func: pattern_extract
         pattern: '(\d{4})'
         group: 1

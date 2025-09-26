@@ -52,7 +52,7 @@ def fetch_data_from_string(xml_bytes: bytes | str):
 
 def fetch_data_from_internetarchive(
     source: str,
-    max_items: int = 10
+    max_items: int = 15
     ):
 
     records = []

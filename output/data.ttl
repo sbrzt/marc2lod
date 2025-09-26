@@ -12,7 +12,7 @@
         "Public number: 0001."^^rdfs:Literal ;
     dcterms:identifier "1000028"^^rdfs:Literal ;
     dcterms:publisher <https://example.org/agent/john-murray> ;
-    dcterms:title "Inquiries concerning the intellectual powers and the investigation of truth."^^rdfs:Literal ;
+    dcterms:title "Inquiries concerning the intellectual powers and the investigation of truth"^^rdfs:Literal ;
     fabio:hasPlaceOfPublication <https://example.org/place/london> ;
     fabio:hasPublicationYear "1838"^^xsd:gYear .
 
@@ -20,8 +20,26 @@
     dcterms:creator <https://example.org/person/darwin-charles> ;
     dcterms:description "Identifier: Abercrombie1838wa66W_MS."^^rdfs:Literal ;
     dcterms:identifier "1000029"^^rdfs:Literal ;
-    dcterms:title "Inquiries concerning the intellectual powers and the investigation of truth. :"^^rdfs:Literal ;
-    fabio:hasSubtitle "[Supplementary material in Charles Darwin's copy]."^^rdfs:Literal .
+    dcterms:title "Inquiries concerning the intellectual powers and the investigation of truth"^^rdfs:Literal ;
+    fabio:hasSubtitle "[Supplementary material in Charles Darwin's copy]"^^rdfs:Literal .
+
+<https://example.org/record/1000116> a fabio:Work ;
+    dcterms:creator <https://example.org/person/bernhardi-johann-jacob> ;
+    dcterms:description "Identifier: Bernhardi1834ez86I."^^rdfs:Literal,
+        "Location: Cambridge."^^rdfs:Literal,
+        "Public number: 0098."^^rdfs:Literal ;
+    dcterms:identifier "1000116"^^rdfs:Literal ;
+    dcterms:publisher <https://example.org/agent/friedrich-wilhelm-otto> ;
+    dcterms:title "über den Begriff der Pflanzenart und seine Anwendung"^^rdfs:Literal ;
+    fabio:hasPlaceOfPublication <https://example.org/place/erfurt> ;
+    fabio:hasPublicationYear "1834"^^xsd:gYear .
+
+<https://example.org/record/1000117> a fabio:Work ;
+    dcterms:creator <https://example.org/person/darwin-charles> ;
+    dcterms:description "Identifier: Bernhardi1834ez86I_MS."^^rdfs:Literal ;
+    dcterms:identifier "1000117"^^rdfs:Literal ;
+    dcterms:title "über den Begriff der Pflanzenart und seine Anwendung"^^rdfs:Literal ;
+    fabio:hasSubtitle "[Supplementary material in Charles Darwin's copy]"^^rdfs:Literal .
 
 <https://example.org/record/1000128> a fabio:Work ;
     dcterms:creator <https://example.org/person/bechstein-johann-matthäus> ;
@@ -31,7 +49,7 @@
         "Signature."^^rdfs:Literal ;
     dcterms:identifier "1000128"^^rdfs:Literal ;
     dcterms:publisher <https://example.org/agent/hennemann> ;
-    dcterms:title "Naturgeschichte der Stubenvögel."^^rdfs:Literal ;
+    dcterms:title "Naturgeschichte der Stubenvögel"^^rdfs:Literal ;
     fabio:hasPlaceOfPublication <https://example.org/place/halle> ;
     fabio:hasPublicationYear "1840"^^xsd:gYear .
 
@@ -39,8 +57,20 @@
     dcterms:creator <https://example.org/person/darwin-charles> ;
     dcterms:description "Identifier: Bechstein1840ob74D_MS."^^rdfs:Literal ;
     dcterms:identifier "1000129"^^rdfs:Literal ;
-    dcterms:title "Naturgeschichte der Stubenvögel. :"^^rdfs:Literal ;
-    fabio:hasSubtitle "[Supplementary material in Charles Darwin's copy]."^^rdfs:Literal .
+    dcterms:title "Naturgeschichte der Stubenvögel"^^rdfs:Literal ;
+    fabio:hasSubtitle "[Supplementary material in Charles Darwin's copy]"^^rdfs:Literal .
+
+<https://example.org/record/1000141> a fabio:Work ;
+    dcterms:creator <https://example.org/person/boitard-pierre> ;
+    dcterms:description "Identifier: Boitard1824jp50S."^^rdfs:Literal,
+        "Location: Cambridge."^^rdfs:Literal,
+        "Pre-Beagle."^^rdfs:Literal,
+        "Public number: 0118."^^rdfs:Literal ;
+    dcterms:identifier "1000141"^^rdfs:Literal ;
+    dcterms:publisher <https://example.org/agent/audot-corbié> ;
+    dcterms:title "Les Pigeons de volière et de colombier, ou Histoire naturelle des pigeons domestiques"^^rdfs:Literal ;
+    fabio:hasPlaceOfPublication <https://example.org/place/paris> ;
+    fabio:hasPublicationYear "1824"^^xsd:gYear .
 
 <https://example.org/record/1000159> a fabio:Work ;
     dcterms:creator <https://example.org/person/agassiz-louis> ;
@@ -50,7 +80,7 @@
         "Public number: 0017."^^rdfs:Literal ;
     dcterms:identifier "1000159"^^rdfs:Literal ;
     dcterms:publisher <https://example.org/agent/gould-kendall-lincoln> ;
-    dcterms:title "Lake Superior: its character, vegetation, and animals, compared with those of other similar regions."^^rdfs:Literal ;
+    dcterms:title "Lake Superior: its character, vegetation, and animals, compared with those of other similar regions"^^rdfs:Literal ;
     fabio:hasPlaceOfPublication <https://example.org/place/boston> ;
     fabio:hasPublicationYear "1850"^^xsd:gYear .
 
@@ -58,8 +88,8 @@
     dcterms:creator <https://example.org/person/darwin-charles> ;
     dcterms:description "Identifier: Agassiz1850up52I_MS."^^rdfs:Literal ;
     dcterms:identifier "1000160"^^rdfs:Literal ;
-    dcterms:title "Lake Superior: its character, vegetation, and animals, compared with those of other similar regions. :"^^rdfs:Literal ;
-    fabio:hasSubtitle "[Supplementary material in Charles Darwin's copy]."^^rdfs:Literal .
+    dcterms:title "Lake Superior: its character, vegetation, and animals, compared with those of other similar regions"^^rdfs:Literal ;
+    fabio:hasSubtitle "[Supplementary material in Charles Darwin's copy]"^^rdfs:Literal .
 
 <https://example.org/record/1000223> a fabio:Work ;
     dcterms:creator <https://example.org/person/agassiz-louis> ;
@@ -69,17 +99,33 @@
         "Location: Cambridge."^^rdfs:Literal,
         "Public number: 0015."^^rdfs:Literal ;
     dcterms:identifier "1000223"^^rdfs:Literal ;
-    dcterms:publisher <https://example.org/agent/> ;
-    dcterms:title "Contributions to the natural history of the United States of North America."^^rdfs:Literal ;
-    fabio:hasPlaceOfPublication <https://example.org/place/s-n> ;
-    fabio:hasPublicationYear "n.d.."^^xsd:gYear .
+    dcterms:title "Contributions to the natural history of the United States of North America"^^rdfs:Literal .
 
 <https://example.org/record/1000224> a fabio:Work ;
     dcterms:creator <https://example.org/person/darwin-charles> ;
     dcterms:description "Identifier: Agassiz2006ft69Y_MS."^^rdfs:Literal ;
     dcterms:identifier "1000224"^^rdfs:Literal ;
-    dcterms:title "Contributions to the natural history of the United States of North America. :"^^rdfs:Literal ;
-    fabio:hasSubtitle "[Supplementary material in Charles Darwin's copy]."^^rdfs:Literal .
+    dcterms:title "Contributions to the natural history of the United States of North America"^^rdfs:Literal ;
+    fabio:hasSubtitle "[Supplementary material in Charles Darwin's copy]"^^rdfs:Literal .
+
+<https://example.org/record/1000241> a fabio:Work ;
+    dcterms:creator <https://example.org/person/bell-charles> ;
+    dcterms:description "Identifier: Bell1844nu34M."^^rdfs:Literal,
+        "Location: Cambridge."^^rdfs:Literal,
+        "Public number: 0085."^^rdfs:Literal,
+        "Signature E. Darwin 1844 to Ch. Darwin Nov. 28 1866."^^rdfs:Literal ;
+    dcterms:identifier "1000241"^^rdfs:Literal ;
+    dcterms:publisher <https://example.org/agent/john-murray> ;
+    dcterms:title "The anatomy and philosophy of expression"^^rdfs:Literal ;
+    fabio:hasPlaceOfPublication <https://example.org/place/london> ;
+    fabio:hasPublicationYear "1844"^^xsd:gYear .
+
+<https://example.org/record/1000242> a fabio:Work ;
+    dcterms:creator <https://example.org/person/darwin-charles> ;
+    dcterms:description "Identifier: Bell1844nu34M_MS."^^rdfs:Literal ;
+    dcterms:identifier "1000242"^^rdfs:Literal ;
+    dcterms:title "The anatomy and philosophy of expression"^^rdfs:Literal ;
+    fabio:hasSubtitle "[Supplementary material in Charles Darwin's copy]"^^rdfs:Literal .
 
 <https://example.org/record/1000345> a fabio:Work ;
     dcterms:creator <https://example.org/person/barker-webb-philip> ;
@@ -88,7 +134,7 @@
         "Public number: 0063."^^rdfs:Literal ;
     dcterms:identifier "1000345"^^rdfs:Literal ;
     dcterms:publisher <https://example.org/agent/béthune> ;
-    dcterms:title "Histoire naturelle des Îles Canaries."^^rdfs:Literal ;
+    dcterms:title "Histoire naturelle des Îles Canaries"^^rdfs:Literal ;
     fabio:hasPlaceOfPublication <https://example.org/place/paris> ;
     fabio:hasPublicationYear "1840"^^xsd:gYear .
 
@@ -96,23 +142,23 @@
     dcterms:creator <https://example.org/person/darwin-charles> ;
     dcterms:description "Identifier: Barker-Webb1840yf41S_MS."^^rdfs:Literal ;
     dcterms:identifier "1000346"^^rdfs:Literal ;
-    dcterms:title "Histoire naturelle des Îles Canaries. :"^^rdfs:Literal ;
-    fabio:hasSubtitle "[Supplementary material in Charles Darwin's copy]."^^rdfs:Literal .
+    dcterms:title "Histoire naturelle des Îles Canaries"^^rdfs:Literal ;
+    fabio:hasSubtitle "[Supplementary material in Charles Darwin's copy]"^^rdfs:Literal .
 
-<https://example.org/agent/> a foaf:Agent ;
-    foaf:name ","^^rdfs:Literal .
+<https://example.org/agent/audot-corbié> a foaf:Agent ;
+    foaf:name "Audot & Corbié"^^rdfs:Literal .
 
 <https://example.org/agent/béthune> a foaf:Agent ;
-    foaf:name "Béthune,"^^rdfs:Literal .
+    foaf:name "Béthune"^^rdfs:Literal .
+
+<https://example.org/agent/friedrich-wilhelm-otto> a foaf:Agent ;
+    foaf:name "Friedrich Wilhelm Otto"^^rdfs:Literal .
 
 <https://example.org/agent/gould-kendall-lincoln> a foaf:Agent ;
-    foaf:name "Gould, Kendall & Lincoln,"^^rdfs:Literal .
+    foaf:name "Gould, Kendall & Lincoln"^^rdfs:Literal .
 
 <https://example.org/agent/hennemann> a foaf:Agent ;
-    foaf:name "Hennemann,"^^rdfs:Literal .
-
-<https://example.org/agent/john-murray> a foaf:Agent ;
-    foaf:name "John Murray,"^^rdfs:Literal .
+    foaf:name "Hennemann"^^rdfs:Literal .
 
 <https://example.org/person/abercrombie-john> a foaf:Person ;
     foaf:name "Abercrombie, John"^^rdfs:Literal .
@@ -123,23 +169,35 @@
 <https://example.org/person/bechstein-johann-matthäus> a foaf:Person ;
     foaf:name "Bechstein, Johann Matthäus"^^rdfs:Literal .
 
+<https://example.org/person/bell-charles> a foaf:Person ;
+    foaf:name "Bell, Charles"^^rdfs:Literal .
+
+<https://example.org/person/bernhardi-johann-jacob> a foaf:Person ;
+    foaf:name "Bernhardi, Johann Jacob"^^rdfs:Literal .
+
+<https://example.org/person/boitard-pierre> a foaf:Person ;
+    foaf:name "Boitard, Pierre"^^rdfs:Literal .
+
 <https://example.org/place/boston> a schema1:Place ;
-    schema1:name "Boston :"^^rdfs:Literal .
+    schema1:name "Boston"^^rdfs:Literal .
+
+<https://example.org/place/erfurt> a schema1:Place ;
+    schema1:name "Erfurt"^^rdfs:Literal .
 
 <https://example.org/place/halle> a schema1:Place ;
-    schema1:name "Halle :"^^rdfs:Literal .
+    schema1:name "Halle"^^rdfs:Literal .
 
-<https://example.org/place/london> a schema1:Place ;
-    schema1:name "London :"^^rdfs:Literal .
-
-<https://example.org/place/paris> a schema1:Place ;
-    schema1:name "Paris :"^^rdfs:Literal .
-
-<https://example.org/place/s-n> a schema1:Place ;
-    schema1:name "[s.n.] :"^^rdfs:Literal .
+<https://example.org/agent/john-murray> a foaf:Agent ;
+    foaf:name "John Murray"^^rdfs:Literal .
 
 <https://example.org/person/agassiz-louis> a foaf:Person ;
     foaf:name "Agassiz, Louis"^^rdfs:Literal .
+
+<https://example.org/place/london> a schema1:Place ;
+    schema1:name "London"^^rdfs:Literal .
+
+<https://example.org/place/paris> a schema1:Place ;
+    schema1:name "Paris"^^rdfs:Literal .
 
 <https://example.org/person/darwin-charles> a foaf:Person ;
     foaf:name "Darwin, Charles"^^rdfs:Literal .
