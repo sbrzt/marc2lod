@@ -2,6 +2,7 @@
 
 import pandas as pd
 import sqlite3
+import zipfile
 from pathlib import Path
 from rdflib import Graph
 from src.materialize import materialize
@@ -45,6 +46,21 @@ def save_table(
     print(f"Table saved to {output_path} [{fmt}]")
 
 
+def bundle_outputs(
+    output_dir: Path,
+    zip_name: str = "bundle.zip"
+    ):
+
+    zip_path = output_dir / zip_name
+    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
+        for file in output_dir.rglob("*"):
+            if file.is_file() and file != zip_path:
+                zf.write(file, file.relative_to(output_dir))
+    print(f"Bundle created at {zip_path}")
+    return zip_path
+
+
+
 def load_records(
     df: pd.DataFrame,
     config: dict,
@@ -67,3 +83,4 @@ def load_records(
             path = output_path / f"data.{ext}"
             save_table(df, path, ext, exclude_fields, list_separator)
     
+    bundle_outputs(output_path)

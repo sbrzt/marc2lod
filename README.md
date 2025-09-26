@@ -86,7 +86,7 @@ Results are written to the output/ folder.
 ## Roadmap
 
 - [x] Support for large-scale corpora (e.g. Internet Archive collections)
-- [] Research bundle generation: data in multiple formats + documentation
+- [x] Research bundle generation: data in multiple formats
 - [] CLI options for running with custom configs
 - [] Report generation with basic stats and visualizations
 - [] More cleaning functions
