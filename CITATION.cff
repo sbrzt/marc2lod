@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: marc2lod
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sebastian
+    family-names: Barzaghi
+    email: sebastian.barzaghi2@unibo.it
+    affiliation: University of Bologna
+    orcid: 'https://orcid.org/0000-0002-0799-1527'
+abstract: >-
+  A flexible prototype pipeline for extracting, cleaning,
+  and materializing MARCXML bibliographic data into multiple
+  output formats such as RDF, CSV, JSON, SQL, and more. 
+keywords:
+  - data engineering
+  - linked data engineering
+  - bibliometrics
+  - bibliographic data
+  - etl pipeline
+license: MIT
+version: 0.1.0

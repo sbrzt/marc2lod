@@ -31,13 +31,13 @@ It is designed for use cases where MARC records need to be transformed into stru
   - Support for multiple values per field (with configurable separators)
 - **Materialization**
   - Generate RDF triples from MARC fields via mapping templates
-  - Create unique, stable URIs with configurable strategies (`local` vs `global`)
+  - Create unique, stable URIs with configurable strategies
 - **Multiple outputs**
   - RDF (Turtle, RDF/XML, JSON-LD, N-Triples)
   - Tables (CSV, XLSX, JSON, SQL)
 - **Configurable**
   - Controlled by a single `config.yaml` file
-  - Define prefixes, URI patterns, field mappings, and outputs
+  - Define prefixes, URI patterns, field mappings, cleaning protocols, and outputs
 
 ---
 
@@ -78,6 +78,12 @@ Configure your `config.yaml` with:
 python main.py
 ```
 
+With `uv`:
+
+```bash
+uv run main.py
+```
+
 4. **Check the outputs**
 Results are written to the output/ folder.
 
@@ -109,3 +115,5 @@ Install dependencies with:
 ```
 pip install -r requirements.txt
 ```
+
+---
