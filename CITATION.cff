@@ -16,9 +16,12 @@ abstract: >-
   output formats such as RDF, CSV, JSON, SQL, and more. 
 keywords:
   - data engineering
-  - linked data engineering
+  - linked open data
   - bibliometrics
   - bibliographic data
   - etl pipeline
+  - library science
+  - marc
+  - digital humanities
 license: MIT
 version: 0.1.0
