@@ -93,7 +93,7 @@ Results are written to the output/ folder.
 
 - [x] Support for large-scale corpora (e.g. Internet Archive collections)
 - [x] Research bundle generation: data in multiple formats
-- [ ] Fix JSON generation
+- [ ] Fix JSON and SQL generation
 - [ ] Document code
 - [ ] Report generation with basic stats and visualizations
 - [ ] CLI options for running with custom configs
